@@ -1,0 +1,20 @@
+name: Update Emotes
+run-name: Update
+on:
+  push:
+  schedule:
+  - cron: '30 */6 * * *'
+env:
+  USERNAME: ${{ secrets.USERNAME }}
+  PASSWORD: ${{ secrets.PASSWORD }}
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          mkdir -p images
+          ./update.sh
+      - uses: EndBug/add-and-commit@v9.1.0
+        with:
+          message: "Updated emotes"
