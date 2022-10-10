@@ -42,6 +42,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e.png" width="128" height="128" /> | Ghast Dance | 5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e |
 | <img src="./images/738497ce-539f-4e06-9a03-dc528506a468.png" width="128" height="128" /> | Giddy | 738497ce-539f-4e06-9a03-dc528506a468 |
 | <img src="./images/e1090020-cbe0-4b64-9c41-a3b9619da029.png" width="128" height="128" /> | Giving R2-D2 a Message | e1090020-cbe0-4b64-9c41-a3b9619da029 |
+| <img src="./images/7393aa53-9145-4e66-b23b-ec86def6c6f2.png" width="128" height="128" /> | Gliding | 7393aa53-9145-4e66-b23b-ec86def6c6f2 |
 | <img src="./images/f14d652f-18ed-42dc-831f-7f6a2eab1246.png" width="128" height="128" /> | Going Hero | f14d652f-18ed-42dc-831f-7f6a2eab1246 |
 | <img src="./images/434489fd-ed42-4814-961a-df14161d67e0.png" width="128" height="128" /> | Golf Clap | 434489fd-ed42-4814-961a-df14161d67e0 |
 | <img src="./images/af6ad96c-5754-4cf9-a463-49a8190e6b0e.png" width="128" height="128" /> | Got Chills | af6ad96c-5754-4cf9-a463-49a8190e6b0e |
@@ -90,7 +91,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/daeaaa6f-db91-4461-8617-400c5d1b8646.png" width="128" height="128" /> | Surrendering | daeaaa6f-db91-4461-8617-400c5d1b8646 |
 | <img src="./images/d7680c67-8e54-482a-903d-622ddb43485f.png" width="128" height="128" /> | Swinging Energy Sword | d7680c67-8e54-482a-903d-622ddb43485f |
 | <img src="./images/a57277d5-0693-4c8a-9b5c-45c33fdf7c26.png" width="128" height="128" /> | Sword Flourish | a57277d5-0693-4c8a-9b5c-45c33fdf7c26 |
-| <img src="./images/7393aa53-9145-4e66-b23b-ec86def6c6f2.png" width="128" height="128" /> | The Elytra | 7393aa53-9145-4e66-b23b-ec86def6c6f2 |
 | <img src="./images/7cec98d8-55cc-44fe-b0ae-2672b0b2bd37.png" width="128" height="128" /> | The Hammer | 7cec98d8-55cc-44fe-b0ae-2672b0b2bd37 |
 | <img src="./images/88dc7deb-21bb-48c3-8b5a-00757a06aef9.png" width="128" height="128" /> | The Master Chief | 88dc7deb-21bb-48c3-8b5a-00757a06aef9 |
 | <img src="./images/d7519b5a-45ec-4d27-997c-89d402c6b57f.png" width="128" height="128" /> | The Pickaxe | d7519b5a-45ec-4d27-997c-89d402c6b57f |

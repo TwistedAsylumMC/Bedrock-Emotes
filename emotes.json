@@ -200,6 +200,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/3c1991b3-c244-4e7f-a367-a0685c50a776/leia_r2_thumbnail_0.png"
   },
   {
+    "uuid": "7393aa53-9145-4e66-b23b-ec86def6c6f2",
+    "title": "Gliding",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f22489fb-b4e9-4935-8360-33bc2fa2d7b4/elytra_thumbnail_0.png"
+  },
+  {
     "uuid": "f14d652f-18ed-42dc-831f-7f6a2eab1246",
     "title": "Going Hero",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/36677d48-925e-4792-8783-07f4714a67ef/animation.benten_transform_thumbnail_0.png"
@@ -438,11 +443,6 @@
     "uuid": "a57277d5-0693-4c8a-9b5c-45c33fdf7c26",
     "title": "Sword Flourish",
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/303a28d8-668c-44a9-b278-5cf95aae0f1a/sword_flourish_thumbnail_0.png"
-  },
-  {
-    "uuid": "7393aa53-9145-4e66-b23b-ec86def6c6f2",
-    "title": "The Elytra",
-    "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/44add8c4-a533-426d-b522-223a3ef8b85f/dance_theelytra.meta_thumbnail_0.png"
   },
   {
     "uuid": "7cec98d8-55cc-44fe-b0ae-2672b0b2bd37",
