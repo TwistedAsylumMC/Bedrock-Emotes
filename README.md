@@ -8,6 +8,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e7bb3d8c-811d-442a-bfc5-775556d05d7a.png" width="128" height="128" /> | Airplane | e7bb3d8c-811d-442a-bfc5-775556d05d7a |
 | <img src="./images/a0b1a9f2-0ea4-48d0-8641-ada998beee4d.png" width="128" height="128" /> | Anger Management | a0b1a9f2-0ea4-48d0-8641-ada998beee4d |
 | <img src="./images/79452f7e-ffa0-470f-8283-f5063348471d.png" width="128" height="128" /> | Ballerina Twirl | 79452f7e-ffa0-470f-8283-f5063348471d |
+| <img src="./images/bb5baae6-1694-42c0-9cc8-6ff4bb5503c6.png" width="128" height="128" /> | Batman Landing | bb5baae6-1694-42c0-9cc8-6ff4bb5503c6 |
 | <img src="./images/819f2f36-2a16-440c-8e46-94c6b003a2e0.png" width="128" height="128" /> | Big Chuckles | 819f2f36-2a16-440c-8e46-94c6b003a2e0 |
 | <img src="./images/7a314ecf-f94c-42c0-945f-76903c923808.png" width="128" height="128" /> | Bored | 7a314ecf-f94c-42c0-945f-76903c923808 |
 | <img src="./images/ddfa6f0e-88ca-46de-b189-2bd5b18e96a0.png" width="128" height="128" /> | Bow | ddfa6f0e-88ca-46de-b189-2bd5b18e96a0 |
@@ -34,6 +35,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/6d9f24c0-6246-4c92-8169-4648d1981cbb.png" width="128" height="128" /> | Faceplant | 6d9f24c0-6246-4c92-8169-4648d1981cbb |
 | <img src="./images/efc2f0f5-af00-4d9e-a4b1-78f18d63be79.png" width="128" height="128" /> | Fake Death | efc2f0f5-af00-4d9e-a4b1-78f18d63be79 |
 | <img src="./images/bb6f1764-2b0b-4a3a-adfd-3334627cdee4.png" width="128" height="128" /> | Feeling Sick | bb6f1764-2b0b-4a3a-adfd-3334627cdee4 |
+| <img src="./images/91d79d4a-c998-4e32-bd36-f195e619a0d8.png" width="128" height="128" /> | Fighting Batman-style | 91d79d4a-c998-4e32-bd36-f195e619a0d8 |
 | <img src="./images/b310ea06-0485-4ad1-8424-df271ca6ec37.png" width="128" height="128" /> | Flight | b310ea06-0485-4ad1-8424-df271ca6ec37 |
 | <img src="./images/9c939344-f9d6-4a3a-95a5-f64dd3d94e45.png" width="128" height="128" /> | Fluttering | 9c939344-f9d6-4a3a-95a5-f64dd3d94e45 |
 | <img src="./images/949c4f24-6aa6-4f2a-bad5-1b3de7e12749.png" width="128" height="128" /> | Flying Like Peter Pan | 949c4f24-6aa6-4f2a-bad5-1b3de7e12749 |
@@ -92,6 +94,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/d7680c67-8e54-482a-903d-622ddb43485f.png" width="128" height="128" /> | Swinging Energy Sword | d7680c67-8e54-482a-903d-622ddb43485f |
 | <img src="./images/a57277d5-0693-4c8a-9b5c-45c33fdf7c26.png" width="128" height="128" /> | Sword Flourish | a57277d5-0693-4c8a-9b5c-45c33fdf7c26 |
 | <img src="./images/7cec98d8-55cc-44fe-b0ae-2672b0b2bd37.png" width="128" height="128" /> | The Hammer | 7cec98d8-55cc-44fe-b0ae-2672b0b2bd37 |
+| <img src="./images/2e1cb748-4406-4626-8fd5-5ee4a1675e95.png" width="128" height="128" /> | The Joker’s Mad Laugh | 2e1cb748-4406-4626-8fd5-5ee4a1675e95 |
 | <img src="./images/88dc7deb-21bb-48c3-8b5a-00757a06aef9.png" width="128" height="128" /> | The Master Chief | 88dc7deb-21bb-48c3-8b5a-00757a06aef9 |
 | <img src="./images/d7519b5a-45ec-4d27-997c-89d402c6b57f.png" width="128" height="128" /> | The Pickaxe | d7519b5a-45ec-4d27-997c-89d402c6b57f |
 | <img src="./images/51871829-e9ef-40aa-939c-b8952295d50e.png" width="128" height="128" /> | The Splits | 51871829-e9ef-40aa-939c-b8952295d50e |

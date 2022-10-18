@@ -30,6 +30,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7baa9df5-9fe6-4b70-8043-1934e7d698bb/dance_ballerina_twirl_thumbnail_0.png"
   },
   {
+    "uuid": "bb5baae6-1694-42c0-9cc8-6ff4bb5503c6",
+    "title": "Batman Landing",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/acc8d4f4-7023-4ceb-b8d8-319bbbe0be6c/spreading_wings_thumbnail_0.png"
+  },
+  {
     "uuid": "819f2f36-2a16-440c-8e46-94c6b003a2e0",
     "title": "Big Chuckles",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2524b76e-e36f-4797-b470-f184bb1dbca1/action_laugh_thumbnail_0.png"
@@ -158,6 +163,11 @@
     "uuid": "bb6f1764-2b0b-4a3a-adfd-3334627cdee4",
     "title": "Feeling Sick",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0f249547-8a62-4d96-bde0-91e1733a9267/emotion_queasy_thumbnail_0.png"
+  },
+  {
+    "uuid": "91d79d4a-c998-4e32-bd36-f195e619a0d8",
+    "title": "Fighting Batman-style",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a0974baa-a647-4a44-8ea0-051c0220f568/fighting_mode_thumbnail_0.png"
   },
   {
     "uuid": "b310ea06-0485-4ad1-8424-df271ca6ec37",
@@ -448,6 +458,11 @@
     "uuid": "7cec98d8-55cc-44fe-b0ae-2672b0b2bd37",
     "title": "The Hammer",
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/622f7bf4-4f6a-412f-bda3-170d369dfac0/action_hammering_thumbnail_0.png"
+  },
+  {
+    "uuid": "2e1cb748-4406-4626-8fd5-5ee4a1675e95",
+    "title": "The Joker’s Mad Laugh",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/647fe1d7-1e8c-4043-a776-ad994c4358cf/joker_deranged_laugh_thumbnail_0.png"
   },
   {
     "uuid": "88dc7deb-21bb-48c3-8b5a-00757a06aef9",
