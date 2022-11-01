@@ -28,6 +28,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/2647f538-6fc6-4775-85ae-7f6f2a8065b2.png" width="128" height="128" /> | Doing Aerobics | 2647f538-6fc6-4775-85ae-7f6f2a8065b2 |
 | <img src="./images/71afa8ed-03b6-4808-b537-330daf9dbf50.png" width="128" height="128" /> | Doing Hakuna Matata | 71afa8ed-03b6-4808-b537-330daf9dbf50 |
 | <img src="./images/5e1ef7ed-efdf-44a9-8ace-6cca6275d80d.png" width="128" height="128" /> | Doing the Conga | 5e1ef7ed-efdf-44a9-8ace-6cca6275d80d |
+| <img src="./images/10db17a5-62a5-4493-8ae6-faf32ecfeb18.png" width="128" height="128" /> | Dual Dancing | 10db17a5-62a5-4493-8ae6-faf32ecfeb18 |
 | <img src="./images/c4d87a21-d4c4-498b-8bc1-5dd78c895e9f.png" width="128" height="128" /> | Enamoured | c4d87a21-d4c4-498b-8bc1-5dd78c895e9f |
 | <img src="./images/d9d1192d-1262-470d-bc0c-5ba46bedab72.png" width="128" height="128" /> | Excitedly Dancing | d9d1192d-1262-470d-bc0c-5ba46bedab72 |
 | <img src="./images/2391b018-3b8a-4bb0-9596-8edfc502d302.png" width="128" height="128" /> | Exhausted | 2391b018-3b8a-4bb0-9596-8edfc502d302 |
@@ -36,6 +37,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/efc2f0f5-af00-4d9e-a4b1-78f18d63be79.png" width="128" height="128" /> | Fake Death | efc2f0f5-af00-4d9e-a4b1-78f18d63be79 |
 | <img src="./images/bb6f1764-2b0b-4a3a-adfd-3334627cdee4.png" width="128" height="128" /> | Feeling Sick | bb6f1764-2b0b-4a3a-adfd-3334627cdee4 |
 | <img src="./images/91d79d4a-c998-4e32-bd36-f195e619a0d8.png" width="128" height="128" /> | Fighting Batman-style | 91d79d4a-c998-4e32-bd36-f195e619a0d8 |
+| <img src="./images/33a3e311-5be8-414e-972d-a0b2e27219bd.png" width="128" height="128" /> | Fishy Dancing | 33a3e311-5be8-414e-972d-a0b2e27219bd |
 | <img src="./images/b310ea06-0485-4ad1-8424-df271ca6ec37.png" width="128" height="128" /> | Flight | b310ea06-0485-4ad1-8424-df271ca6ec37 |
 | <img src="./images/9c939344-f9d6-4a3a-95a5-f64dd3d94e45.png" width="128" height="128" /> | Fluttering | 9c939344-f9d6-4a3a-95a5-f64dd3d94e45 |
 | <img src="./images/949c4f24-6aa6-4f2a-bad5-1b3de7e12749.png" width="128" height="128" /> | Flying Like Peter Pan | 949c4f24-6aa6-4f2a-bad5-1b3de7e12749 |
@@ -82,6 +84,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/98a68056-e025-4c0f-a959-d6e330ccb5f5.png" width="128" height="128" /> | Sad Sigh | 98a68056-e025-4c0f-a959-d6e330ccb5f5 |
 | <img src="./images/6bcf44bd-ff8a-48a5-9254-3983a0b0f702.png" width="128" height="128" /> | Salsa Dancing | 6bcf44bd-ff8a-48a5-9254-3983a0b0f702 |
 | <img src="./images/1ea5f771-827d-408d-ae8e-1af00d7aa416.png" width="128" height="128" /> | Saluting | 1ea5f771-827d-408d-ae8e-1af00d7aa416 |
+| <img src="./images/ceb97e43-f793-43a6-b74c-32828f08d3e4.png" width="128" height="128" /> | Secret Handshake | ceb97e43-f793-43a6-b74c-32828f08d3e4 |
 | <img src="./images/4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a.png" width="128" height="128" /> | Shrug | 4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a |
 | <img src="./images/f1e18201-729d-472d-9e4f-5cdd7f6bba0c.png" width="128" height="128" /> | Shy Giggling | f1e18201-729d-472d-9e4f-5cdd7f6bba0c |
 | <img src="./images/946f04ea-8ff0-416e-a66d-8b0d0751e8bf.png" width="128" height="128" /> | Sid Dance | 946f04ea-8ff0-416e-a66d-8b0d0751e8bf |

@@ -130,6 +130,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cf8ce8e3-a23a-4cdc-81d7-a1f17e2bb0d7/conga_thumbnail_0.png"
   },
   {
+    "uuid": "10db17a5-62a5-4493-8ae6-faf32ecfeb18",
+    "title": "Dual Dancing",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a125cc79-c8a5-4a11-bb43-5c51cbeb488d/lets_dance_thumbnail_0.png"
+  },
+  {
     "uuid": "c4d87a21-d4c4-498b-8bc1-5dd78c895e9f",
     "title": "Enamoured",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/22613fa1-5eb6-484b-b75a-5167f98f1fcb/reacting_to_cute_things_thumbnail_0.png"
@@ -168,6 +173,11 @@
     "uuid": "91d79d4a-c998-4e32-bd36-f195e619a0d8",
     "title": "Fighting Batman-style",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a0974baa-a647-4a44-8ea0-051c0220f568/fighting_mode_thumbnail_0.png"
+  },
+  {
+    "uuid": "33a3e311-5be8-414e-972d-a0b2e27219bd",
+    "title": "Fishy Dancing",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/40f1c3ea-8958-4ea0-815e-dd04b430ba26/fisherman_dance_thumbnail_0.png"
   },
   {
     "uuid": "b310ea06-0485-4ad1-8424-df271ca6ec37",
@@ -398,6 +408,11 @@
     "uuid": "1ea5f771-827d-408d-ae8e-1af00d7aa416",
     "title": "Saluting",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/4cd08458-103c-4082-bd1a-df26e54c3407/salute_thumbnail_0.png"
+  },
+  {
+    "uuid": "ceb97e43-f793-43a6-b74c-32828f08d3e4",
+    "title": "Secret Handshake",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2edd272e-2503-45b5-81bb-59a451dc8911/the_ultimate_handshake_thumbnail_0.png"
   },
   {
     "uuid": "4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a",
