@@ -18,6 +18,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5.png" width="128" height="128" /> | Chatting | 59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5 |
 | <img src="./images/3d10a8c7-213c-4fbe-a208-a0f7990d5bbb.png" width="128" height="128" /> | Cheer Routine | 3d10a8c7-213c-4fbe-a208-a0f7990d5bbb |
 | <img src="./images/af61c759-6252-431d-a7de-94d477cfb54c.png" width="128" height="128" /> | Chun-Li Spinning Kick | af61c759-6252-431d-a7de-94d477cfb54c |
+| <img src="./images/9a469a61-c83b-4ba9-b507-bdbe64430582.png" width="128" height="128" /> | Clapping | 9a469a61-c83b-4ba9-b507-bdbe64430582 |
 | <img src="./images/495d686a-4cb3-4f0b-beb5-bebdcb95eed9.png" width="128" height="128" /> | Clicking Heels | 495d686a-4cb3-4f0b-beb5-bebdcb95eed9 |
 | <img src="./images/f99ccd35-ebda-4122-b458-ff8c9f9a432f.png" width="128" height="128" /> | Cowpoke Dancin' | f99ccd35-ebda-4122-b458-ff8c9f9a432f |
 | <img src="./images/beb74219-e90c-46aa-8a4b-a1c175f6cab5.png" width="128" height="128" /> | DJing | beb74219-e90c-46aa-8a4b-a1c175f6cab5 |
@@ -41,6 +42,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/b310ea06-0485-4ad1-8424-df271ca6ec37.png" width="128" height="128" /> | Flight | b310ea06-0485-4ad1-8424-df271ca6ec37 |
 | <img src="./images/9c939344-f9d6-4a3a-95a5-f64dd3d94e45.png" width="128" height="128" /> | Fluttering | 9c939344-f9d6-4a3a-95a5-f64dd3d94e45 |
 | <img src="./images/949c4f24-6aa6-4f2a-bad5-1b3de7e12749.png" width="128" height="128" /> | Flying Like Peter Pan | 949c4f24-6aa6-4f2a-bad5-1b3de7e12749 |
+| <img src="./images/17428c4c-3813-4ea1-b3a9-d6a32f83afca.png" width="128" height="128" /> | Follow | 17428c4c-3813-4ea1-b3a9-d6a32f83afca |
 | <img src="./images/13334afa-bd66-4285-b3d9-d974046db479.png" width="128" height="128" /> | Foot Stomp! | 13334afa-bd66-4285-b3d9-d974046db479 |
 | <img src="./images/b690c36b-bd02-45df-a60b-00c0dbbf265f.png" width="128" height="128" /> | Found Inspiration | b690c36b-bd02-45df-a60b-00c0dbbf265f |
 | <img src="./images/5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e.png" width="128" height="128" /> | Ghast Dance | 5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e |
@@ -88,7 +90,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a.png" width="128" height="128" /> | Shrug | 4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a |
 | <img src="./images/f1e18201-729d-472d-9e4f-5cdd7f6bba0c.png" width="128" height="128" /> | Shy Giggling | f1e18201-729d-472d-9e4f-5cdd7f6bba0c |
 | <img src="./images/946f04ea-8ff0-416e-a66d-8b0d0751e8bf.png" width="128" height="128" /> | Sid Dance | 946f04ea-8ff0-416e-a66d-8b0d0751e8bf |
-| <img src="./images/9a469a61-c83b-4ba9-b507-bdbe64430582.png" width="128" height="128" /> | Simple Clap | 9a469a61-c83b-4ba9-b507-bdbe64430582 |
 | <img src="./images/70831936-d97d-48fe-a7e7-d8894e7c5507.png" width="128" height="128" /> | Slimin' | 70831936-d97d-48fe-a7e7-d8894e7c5507 |
 | <img src="./images/e8a91ad4-6f7a-479e-9556-e1a7c058351b.png" width="128" height="128" /> | Sonic-Finger Wagging | e8a91ad4-6f7a-479e-9556-e1a7c058351b |
 | <img src="./images/b8e54924-ec3f-409c-8914-bca61fbe9242.png" width="128" height="128" /> | Sonic-Running | b8e54924-ec3f-409c-8914-bca61fbe9242 |
@@ -109,6 +110,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/77053f59-c79b-4d5c-8dc5-539ed28002e9.png" width="128" height="128" /> | Victorious | 77053f59-c79b-4d5c-8dc5-539ed28002e9 |
 | <img src="./images/d0c60245-538e-4ea2-bdd4-33477db5aa89.png" width="128" height="128" /> | Victory Cheer | d0c60245-538e-4ea2-bdd4-33477db5aa89 |
 | <img src="./images/6b9c7731-7422-4333-950f-cf3d147ffa47.png" width="128" height="128" /> | Warm Up Drills | 6b9c7731-7422-4333-950f-cf3d147ffa47 |
-| <img src="./images/4c8ae710-df2e-47cd-814d-cc7bf21a3d67.png" width="128" height="128" /> | Wave | 4c8ae710-df2e-47cd-814d-cc7bf21a3d67 |
+| <img src="./images/4c8ae710-df2e-47cd-814d-cc7bf21a3d67.png" width="128" height="128" /> | Waving | 4c8ae710-df2e-47cd-814d-cc7bf21a3d67 |
 | <img src="./images/c2d6091d-9f91-4a9e-badd-ef8481353cb0.png" width="128" height="128" /> | Waving Like C-3PO | c2d6091d-9f91-4a9e-badd-ef8481353cb0 |
 | <img src="./images/3f1bdf46-80b0-4a64-b631-4ac2f2491165.png" width="128" height="128" /> | Yoga | 3f1bdf46-80b0-4a64-b631-4ac2f2491165 |

@@ -80,6 +80,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/5ba9948c-c138-4eed-8aa1-43966941861e/chun_li_kick_thumbnail_0.png"
   },
   {
+    "uuid": "9a469a61-c83b-4ba9-b507-bdbe64430582",
+    "title": "Clapping",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/87a63095-233f-4f38-ab5a-eeda418b6c52/basic_clap_thumbnail_0.png"
+  },
+  {
     "uuid": "495d686a-4cb3-4f0b-beb5-bebdcb95eed9",
     "title": "Clicking Heels",
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/c248f443-d68c-4870-b881-b26fca045ce9/heel_tap_thumbnail_0.png"
@@ -193,6 +198,11 @@
     "uuid": "949c4f24-6aa6-4f2a-bad5-1b3de7e12749",
     "title": "Flying Like Peter Pan",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/826ea339-20df-4ac3-8267-9ce9756a253e/peter_pan_floating_thumbnail_0.png"
+  },
+  {
+    "uuid": "17428c4c-3813-4ea1-b3a9-d6a32f83afca",
+    "title": "Follow",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3613ce91-0e13-466a-94a2-3bd3f00b90fe/communication_follow_me_thumbnail_0.png"
   },
   {
     "uuid": "13334afa-bd66-4285-b3d9-d974046db479",
@@ -352,7 +362,7 @@
   {
     "uuid": "ce5c0300-7f03-455d-aaf1-352e4927b54d",
     "title": "Over There!",
-    "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/dcec2666-c46e-4be6-8982-b3c041958cff/communication_point_thumbnail_0.png"
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d3346615-e9de-4c06-9946-49b677a14604/communication_point_thumbnail_0.png"
   },
   {
     "uuid": "2ecc0fd1-312b-4664-9bfa-a06429838706",
@@ -428,11 +438,6 @@
     "uuid": "946f04ea-8ff0-416e-a66d-8b0d0751e8bf",
     "title": "Sid Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e717813a-b9dc-4b05-a0da-d932bf31d7b7/sid_dance_thumbnail_0.png"
-  },
-  {
-    "uuid": "9a469a61-c83b-4ba9-b507-bdbe64430582",
-    "title": "Simple Clap",
-    "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/0af89c71-e494-4f79-bb8c-820df77df93d/basic_clap_thumbnail_0.png"
   },
   {
     "uuid": "70831936-d97d-48fe-a7e7-d8894e7c5507",
@@ -536,8 +541,8 @@
   },
   {
     "uuid": "4c8ae710-df2e-47cd-814d-cc7bf21a3d67",
-    "title": "Wave",
-    "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/6da99688-53d5-4470-bcc1-a79d07746fba/overhead_wave_thumbnail_0.png"
+    "title": "Waving",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/da6b07f4-6741-443f-84e1-20e81e259766/overhead_wave_thumbnail_0.png"
   },
   {
     "uuid": "c2d6091d-9f91-4a9e-badd-ef8481353cb0",
