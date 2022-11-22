@@ -98,7 +98,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/d7680c67-8e54-482a-903d-622ddb43485f.png" width="128" height="128" /> | Swinging Energy Sword | d7680c67-8e54-482a-903d-622ddb43485f |
 | <img src="./images/a57277d5-0693-4c8a-9b5c-45c33fdf7c26.png" width="128" height="128" /> | Sword Flourish | a57277d5-0693-4c8a-9b5c-45c33fdf7c26 |
 | <img src="./images/7cec98d8-55cc-44fe-b0ae-2672b0b2bd37.png" width="128" height="128" /> | The Hammer | 7cec98d8-55cc-44fe-b0ae-2672b0b2bd37 |
-| <img src="./images/2e1cb748-4406-4626-8fd5-5ee4a1675e95.png" width="128" height="128" /> | The Joker’s Mad Laugh | 2e1cb748-4406-4626-8fd5-5ee4a1675e95 |
+| <img src="./images/2e1cb748-4406-4626-8fd5-5ee4a1675e95.png" width="128" height="128" /> | The Joker's Mad Laugh | 2e1cb748-4406-4626-8fd5-5ee4a1675e95 |
 | <img src="./images/88dc7deb-21bb-48c3-8b5a-00757a06aef9.png" width="128" height="128" /> | The Master Chief | 88dc7deb-21bb-48c3-8b5a-00757a06aef9 |
 | <img src="./images/d7519b5a-45ec-4d27-997c-89d402c6b57f.png" width="128" height="128" /> | The Pickaxe | d7519b5a-45ec-4d27-997c-89d402c6b57f |
 | <img src="./images/51871829-e9ef-40aa-939c-b8952295d50e.png" width="128" height="128" /> | The Splits | 51871829-e9ef-40aa-939c-b8952295d50e |
