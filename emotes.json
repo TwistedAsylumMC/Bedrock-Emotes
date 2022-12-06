@@ -90,6 +90,11 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/c248f443-d68c-4870-b881-b26fca045ce9/heel_tap_thumbnail_0.png"
   },
   {
+    "uuid": "fb379452-fc4e-41eb-8371-9f1475456234",
+    "title": "Contorting",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c82c1445-04cd-4bd6-b027-cf491a4d9f5b/ty_lee_contortion_thumbnail_0.png"
+  },
+  {
     "uuid": "f99ccd35-ebda-4122-b458-ff8c9f9a432f",
     "title": "Cowpoke Dancin'",
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/b81da544-1746-486c-afa6-87cf2dea4444/cowboy_thumbnail_0.png"
@@ -355,6 +360,11 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/03beb174-30ae-40da-aac8-8b1c1e65e6f8/proposal_thumbnail_0.png"
   },
   {
+    "uuid": "547e5f6c-d445-49a9-b06e-6919b1f9e48e",
+    "title": "Opening Chakras",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c87d890-5dd9-48e7-978f-51f87d018551/opening_chakras_thumbnail_0.png"
+  },
+  {
     "uuid": "71721c51-b7d1-46b1-b7ea-eb4c4126c3db",
     "title": "Over Here!",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1e3a08bb-c5e9-4f6c-b675-82ab7357d93c/lookatme_thumbnail_0.png"
@@ -458,6 +468,11 @@
     "uuid": "cd8c3bc6-f455-43d2-836e-62c1a19474c7",
     "title": "Sonic-Victory Spinning",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/9efb0d30-9045-4d94-9694-9a8d90f169a1/sonic_spin_thumbnail_0.png"
+  },
+  {
+    "uuid": "be10427e-4a69-40fb-949f-b2d51ce25f66",
+    "title": "Staff Spinning",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/344041c8-149b-42d1-b38b-aec0ecd0e725/wind_blow_thumbnail_0.png"
   },
   {
     "uuid": "daeaaa6f-db91-4461-8617-400c5d1b8646",

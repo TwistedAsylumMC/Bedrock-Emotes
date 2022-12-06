@@ -20,6 +20,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/af61c759-6252-431d-a7de-94d477cfb54c.png" width="128" height="128" /> | Chun-Li Spinning Kick | af61c759-6252-431d-a7de-94d477cfb54c |
 | <img src="./images/9a469a61-c83b-4ba9-b507-bdbe64430582.png" width="128" height="128" /> | Clapping | 9a469a61-c83b-4ba9-b507-bdbe64430582 |
 | <img src="./images/495d686a-4cb3-4f0b-beb5-bebdcb95eed9.png" width="128" height="128" /> | Clicking Heels | 495d686a-4cb3-4f0b-beb5-bebdcb95eed9 |
+| <img src="./images/fb379452-fc4e-41eb-8371-9f1475456234.png" width="128" height="128" /> | Contorting | fb379452-fc4e-41eb-8371-9f1475456234 |
 | <img src="./images/f99ccd35-ebda-4122-b458-ff8c9f9a432f.png" width="128" height="128" /> | Cowpoke Dancin' | f99ccd35-ebda-4122-b458-ff8c9f9a432f |
 | <img src="./images/beb74219-e90c-46aa-8a4b-a1c175f6cab5.png" width="128" height="128" /> | DJing | beb74219-e90c-46aa-8a4b-a1c175f6cab5 |
 | <img src="./images/f15ceb56-6651-41c0-8bd5-087951204d81.png" width="128" height="128" /> | Dancing Like Rapunzel | f15ceb56-6651-41c0-8bd5-087951204d81 |
@@ -73,6 +74,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/a51f8e7c-a4dd-4ce1-9fc9-2c3cad66cede.png" width="128" height="128" /> | Minion Taunting | a51f8e7c-a4dd-4ce1-9fc9-2c3cad66cede |
 | <img src="./images/a5f9881c-23b7-4650-8e92-039cd7a16889.png" width="128" height="128" /> | Nodding Off | a5f9881c-23b7-4650-8e92-039cd7a16889 |
 | <img src="./images/21e0054a-5bf4-468d-bfc4-fc4b49bd44ac.png" width="128" height="128" /> | Offering | 21e0054a-5bf4-468d-bfc4-fc4b49bd44ac |
+| <img src="./images/547e5f6c-d445-49a9-b06e-6919b1f9e48e.png" width="128" height="128" /> | Opening Chakras | 547e5f6c-d445-49a9-b06e-6919b1f9e48e |
 | <img src="./images/71721c51-b7d1-46b1-b7ea-eb4c4126c3db.png" width="128" height="128" /> | Over Here! | 71721c51-b7d1-46b1-b7ea-eb4c4126c3db |
 | <img src="./images/ce5c0300-7f03-455d-aaf1-352e4927b54d.png" width="128" height="128" /> | Over There! | ce5c0300-7f03-455d-aaf1-352e4927b54d |
 | <img src="./images/2ecc0fd1-312b-4664-9bfa-a06429838706.png" width="128" height="128" /> | Peekaboo | 2ecc0fd1-312b-4664-9bfa-a06429838706 |
@@ -94,6 +96,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e8a91ad4-6f7a-479e-9556-e1a7c058351b.png" width="128" height="128" /> | Sonic-Finger Wagging | e8a91ad4-6f7a-479e-9556-e1a7c058351b |
 | <img src="./images/b8e54924-ec3f-409c-8914-bca61fbe9242.png" width="128" height="128" /> | Sonic-Running | b8e54924-ec3f-409c-8914-bca61fbe9242 |
 | <img src="./images/cd8c3bc6-f455-43d2-836e-62c1a19474c7.png" width="128" height="128" /> | Sonic-Victory Spinning | cd8c3bc6-f455-43d2-836e-62c1a19474c7 |
+| <img src="./images/be10427e-4a69-40fb-949f-b2d51ce25f66.png" width="128" height="128" /> | Staff Spinning | be10427e-4a69-40fb-949f-b2d51ce25f66 |
 | <img src="./images/daeaaa6f-db91-4461-8617-400c5d1b8646.png" width="128" height="128" /> | Surrendering | daeaaa6f-db91-4461-8617-400c5d1b8646 |
 | <img src="./images/d7680c67-8e54-482a-903d-622ddb43485f.png" width="128" height="128" /> | Swinging Energy Sword | d7680c67-8e54-482a-903d-622ddb43485f |
 | <img src="./images/a57277d5-0693-4c8a-9b5c-45c33fdf7c26.png" width="128" height="128" /> | Sword Flourish | a57277d5-0693-4c8a-9b5c-45c33fdf7c26 |
