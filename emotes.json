@@ -221,8 +221,8 @@
   },
   {
     "uuid": "5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e",
-    "title": "Ghast Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/4412704f-7261-4468-8900-f8a329812a55/dance_ghast_thumbnail_0.png"
+    "title": "Ghast Dancing",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/131b9b5a-6059-4bec-834b-03c3dfe1539f/dance_ghast_thumbnail_0.png"
   },
   {
     "uuid": "738497ce-539f-4e06-9a03-dc528506a468",
@@ -298,6 +298,11 @@
     "uuid": "d24f27c0-6bc8-4193-842c-8e33fdae5e8e",
     "title": "Hungry",
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/5687e6db-dda4-4b49-a35a-69df57b3495e/hungry_thumbnail_0.png"
+  },
+  {
+    "uuid": "6d35a7a6-942f-4d6f-a233-1499be044158",
+    "title": "Inspecting Item",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/34b4ccb3-ae03-4165-812b-690d29d07e2d/spyglass_inspect_item_thumbnail_0.png"
   },
   {
     "uuid": "87c039b7-7bdc-45d1-8684-e940a131ec0a",

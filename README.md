@@ -46,7 +46,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/17428c4c-3813-4ea1-b3a9-d6a32f83afca.png" width="128" height="128" /> | Follow | 17428c4c-3813-4ea1-b3a9-d6a32f83afca |
 | <img src="./images/13334afa-bd66-4285-b3d9-d974046db479.png" width="128" height="128" /> | Foot Stomp! | 13334afa-bd66-4285-b3d9-d974046db479 |
 | <img src="./images/b690c36b-bd02-45df-a60b-00c0dbbf265f.png" width="128" height="128" /> | Found Inspiration | b690c36b-bd02-45df-a60b-00c0dbbf265f |
-| <img src="./images/5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e.png" width="128" height="128" /> | Ghast Dance | 5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e |
+| <img src="./images/5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e.png" width="128" height="128" /> | Ghast Dancing | 5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e |
 | <img src="./images/738497ce-539f-4e06-9a03-dc528506a468.png" width="128" height="128" /> | Giddy | 738497ce-539f-4e06-9a03-dc528506a468 |
 | <img src="./images/e1090020-cbe0-4b64-9c41-a3b9619da029.png" width="128" height="128" /> | Giving R2-D2 a Message | e1090020-cbe0-4b64-9c41-a3b9619da029 |
 | <img src="./images/7393aa53-9145-4e66-b23b-ec86def6c6f2.png" width="128" height="128" /> | Gliding | 7393aa53-9145-4e66-b23b-ec86def6c6f2 |
@@ -62,6 +62,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/fb9b884a-b217-46a2-85fd-d3ab0f2f33e6.png" width="128" height="128" /> | Hoppin' | fb9b884a-b217-46a2-85fd-d3ab0f2f33e6 |
 | <img src="./images/54e2209a-41ec-4502-8500-dd51e569ab69.png" width="128" height="128" /> | Hugging Themselves | 54e2209a-41ec-4502-8500-dd51e569ab69 |
 | <img src="./images/d24f27c0-6bc8-4193-842c-8e33fdae5e8e.png" width="128" height="128" /> | Hungry | d24f27c0-6bc8-4193-842c-8e33fdae5e8e |
+| <img src="./images/6d35a7a6-942f-4d6f-a233-1499be044158.png" width="128" height="128" /> | Inspecting Item | 6d35a7a6-942f-4d6f-a233-1499be044158 |
 | <img src="./images/87c039b7-7bdc-45d1-8684-e940a131ec0a.png" width="128" height="128" /> | Intercom and Attack | 87c039b7-7bdc-45d1-8684-e940a131ec0a |
 | <img src="./images/c4272178-5e93-4892-b161-1aecdef4a54d.png" width="128" height="128" /> | Investigating | c4272178-5e93-4892-b161-1aecdef4a54d |
 | <img src="./images/b13966b3-1f7c-4f07-8ab8-9d85170203f5.png" width="128" height="128" /> | Jumping Jacks | b13966b3-1f7c-4f07-8ab8-9d85170203f5 |
