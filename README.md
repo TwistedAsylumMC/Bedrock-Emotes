@@ -70,6 +70,8 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/310b41de-1c7a-4098-928d-addcd905bf65.png" width="128" height="128" /> | Laughing Out Loud | 310b41de-1c7a-4098-928d-addcd905bf65 |
 | <img src="./images/63cb3c45-b3b3-4c02-a4f3-fb4b9853dbe9.png" width="128" height="128" /> | Mad Falling | 63cb3c45-b3b3-4c02-a4f3-fb4b9853dbe9 |
 | <img src="./images/85957448-e7bb-4bb4-9182-510b4428e52c.png" width="128" height="128" /> | Meditating Like Luke | 85957448-e7bb-4bb4-9182-510b4428e52c |
+| <img src="./images/ae421dd2-6a61-46b7-b260-0323e523fdc1.png" width="128" height="128" /> | Mega Man Jump | ae421dd2-6a61-46b7-b260-0323e523fdc1 |
+| <img src="./images/92572802-402b-4e50-a55b-804a48853ce6.png" width="128" height="128" /> | Mega Man Victory | 92572802-402b-4e50-a55b-804a48853ce6 |
 | <img src="./images/6174a111-19ac-41d1-a483-0e0b37f9d049.png" width="128" height="128" /> | Minion Cheering | 6174a111-19ac-41d1-a483-0e0b37f9d049 |
 | <img src="./images/79e93b59-38f0-4796-8033-f99d7aa9334e.png" width="128" height="128" /> | Minion Panicking | 79e93b59-38f0-4796-8033-f99d7aa9334e |
 | <img src="./images/a51f8e7c-a4dd-4ce1-9fc9-2c3cad66cede.png" width="128" height="128" /> | Minion Taunting | a51f8e7c-a4dd-4ce1-9fc9-2c3cad66cede |
