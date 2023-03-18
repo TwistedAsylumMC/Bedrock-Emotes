@@ -420,6 +420,11 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/650bbf3d-702c-4058-8ead-22aa7f1c749c/emotion_rofl_thumbnail_0.png"
   },
   {
+    "uuid": "50e51304-515d-441f-81d8-7921327b97f9",
+    "title": "Rallying",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b8c4814d-711d-4998-94f3-f9ea3c129d86/emote_rally_thumbnail_0.png"
+  },
+  {
     "uuid": "a602063f-1ded-4959-b978-b5ae7f353536",
     "title": "Rebooting",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d532ca8e-b86e-4b68-adb6-bf0d2acb6008/dance_robot_thumbnail_0.png"
@@ -543,6 +548,11 @@
     "uuid": "79e8cb30-c1b4-4e41-8aa8-96492c6f390c",
     "title": "To Infinity and Beyond",
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d3fc24ae-270d-4220-9d56-86026ba33d81/hero_pose_thumbnail_0.png"
+  },
+  {
+    "uuid": "6131e1e3-0c13-4cd3-96cf-fbb39b277b6d",
+    "title": "Triumphantly Cheering",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/db54d398-1385-477c-be09-934ab22a2876/winning_battle_thumbnail_0.png"
   },
   {
     "uuid": "05af18ca-920f-4232-83cb-133b2d913dd6",

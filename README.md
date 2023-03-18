@@ -86,6 +86,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/7102c0f7-6113-44f5-b37c-4e94841b0e81.png" width="128" height="128" /> | Posing Like a Hero | 7102c0f7-6113-44f5-b37c-4e94841b0e81 |
 | <img src="./images/34259925-44dd-46f0-98e5-80ccebc086d0.png" width="128" height="128" /> | Pouting | 34259925-44dd-46f0-98e5-80ccebc086d0 |
 | <img src="./images/6f82688e-e549-408c-946d-f8e99b91808d.png" width="128" height="128" /> | ROFL | 6f82688e-e549-408c-946d-f8e99b91808d |
+| <img src="./images/50e51304-515d-441f-81d8-7921327b97f9.png" width="128" height="128" /> | Rallying | 50e51304-515d-441f-81d8-7921327b97f9 |
 | <img src="./images/a602063f-1ded-4959-b978-b5ae7f353536.png" width="128" height="128" /> | Rebooting | a602063f-1ded-4959-b978-b5ae7f353536 |
 | <img src="./images/0c141653-1166-448b-87a2-38d0679bb549.png" width="128" height="128" /> | Ryu Guarding | 0c141653-1166-448b-87a2-38d0679bb549 |
 | <img src="./images/98a68056-e025-4c0f-a959-d6e330ccb5f5.png" width="128" height="128" /> | Sad Sigh | 98a68056-e025-4c0f-a959-d6e330ccb5f5 |
@@ -111,6 +112,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/42fde774-37d4-4422-b374-89ff13a6535a.png" width="128" height="128" /> | The Woodpunch | 42fde774-37d4-4422-b374-89ff13a6535a |
 | <img src="./images/20bcb500-af82-4c2f-9239-e78191c61375.png" width="128" height="128" /> | Thinking | 20bcb500-af82-4c2f-9239-e78191c61375 |
 | <img src="./images/79e8cb30-c1b4-4e41-8aa8-96492c6f390c.png" width="128" height="128" /> | To Infinity and Beyond | 79e8cb30-c1b4-4e41-8aa8-96492c6f390c |
+| <img src="./images/6131e1e3-0c13-4cd3-96cf-fbb39b277b6d.png" width="128" height="128" /> | Triumphantly Cheering | 6131e1e3-0c13-4cd3-96cf-fbb39b277b6d |
 | <img src="./images/05af18ca-920f-4232-83cb-133b2d913dd6.png" width="128" height="128" /> | Underwater Dancing | 05af18ca-920f-4232-83cb-133b2d913dd6 |
 | <img src="./images/4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044.png" width="128" height="128" /> | Using Jedi Mind Trick | 4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044 |
 | <img src="./images/77053f59-c79b-4d5c-8dc5-539ed28002e9.png" width="128" height="128" /> | Victorious | 77053f59-c79b-4d5c-8dc5-539ed28002e9 |
