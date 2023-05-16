@@ -190,6 +190,11 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cb67865f-68c0-419b-8f08-0ef90b8eefb7/fisherman_dance_thumbnail_0.png"
   },
   {
+    "uuid": "51cfdf2e-d725-09dc-a5dc-caab497dec43",
+    "title": "Flares",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1ca3c500-df39-4ddd-af36-ece020e3f01d/flares_emote_thumbnail_0.png"
+  },
+  {
     "uuid": "b310ea06-0485-4ad1-8424-df271ca6ec37",
     "title": "Flight",
     "image": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/8a7db0d3-8634-487e-a8fa-bc58d8b2db1c/infinity_and_beyond_thumbnail_0.png"
@@ -468,6 +473,11 @@
     "uuid": "946f04ea-8ff0-416e-a66d-8b0d0751e8bf",
     "title": "Sid Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e717813a-b9dc-4b05-a0da-d932bf31d7b7/sid_dance_thumbnail_0.png"
+  },
+  {
+    "uuid": "137730ec-9617-4fa9-a715-c2a671a7210e",
+    "title": "Sitting",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9e8d9f8d-6ee4-49a5-a46d-11f3c795de8d/idle_sit_down_thumbnail_0.png"
   },
   {
     "uuid": "70831936-d97d-48fe-a7e7-d8894e7c5507",

@@ -40,6 +40,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/bb6f1764-2b0b-4a3a-adfd-3334627cdee4.png" width="128" height="128" /> | Feeling Sick | bb6f1764-2b0b-4a3a-adfd-3334627cdee4 |
 | <img src="./images/91d79d4a-c998-4e32-bd36-f195e619a0d8.png" width="128" height="128" /> | Fighting Batman-style | 91d79d4a-c998-4e32-bd36-f195e619a0d8 |
 | <img src="./images/33a3e311-5be8-414e-972d-a0b2e27219bd.png" width="128" height="128" /> | Fishy Dancing | 33a3e311-5be8-414e-972d-a0b2e27219bd |
+| <img src="./images/51cfdf2e-d725-09dc-a5dc-caab497dec43.png" width="128" height="128" /> | Flares | 51cfdf2e-d725-09dc-a5dc-caab497dec43 |
 | <img src="./images/b310ea06-0485-4ad1-8424-df271ca6ec37.png" width="128" height="128" /> | Flight | b310ea06-0485-4ad1-8424-df271ca6ec37 |
 | <img src="./images/9c939344-f9d6-4a3a-95a5-f64dd3d94e45.png" width="128" height="128" /> | Fluttering | 9c939344-f9d6-4a3a-95a5-f64dd3d94e45 |
 | <img src="./images/949c4f24-6aa6-4f2a-bad5-1b3de7e12749.png" width="128" height="128" /> | Flying Like Peter Pan | 949c4f24-6aa6-4f2a-bad5-1b3de7e12749 |
@@ -96,6 +97,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a.png" width="128" height="128" /> | Shrug | 4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a |
 | <img src="./images/f1e18201-729d-472d-9e4f-5cdd7f6bba0c.png" width="128" height="128" /> | Shy Giggling | f1e18201-729d-472d-9e4f-5cdd7f6bba0c |
 | <img src="./images/946f04ea-8ff0-416e-a66d-8b0d0751e8bf.png" width="128" height="128" /> | Sid Dance | 946f04ea-8ff0-416e-a66d-8b0d0751e8bf |
+| <img src="./images/137730ec-9617-4fa9-a715-c2a671a7210e.png" width="128" height="128" /> | Sitting | 137730ec-9617-4fa9-a715-c2a671a7210e |
 | <img src="./images/70831936-d97d-48fe-a7e7-d8894e7c5507.png" width="128" height="128" /> | Slimin' | 70831936-d97d-48fe-a7e7-d8894e7c5507 |
 | <img src="./images/e8a91ad4-6f7a-479e-9556-e1a7c058351b.png" width="128" height="128" /> | Sonic-Finger Wagging | e8a91ad4-6f7a-479e-9556-e1a7c058351b |
 | <img src="./images/b8e54924-ec3f-409c-8914-bca61fbe9242.png" width="128" height="128" /> | Sonic-Running | b8e54924-ec3f-409c-8914-bca61fbe9242 |
