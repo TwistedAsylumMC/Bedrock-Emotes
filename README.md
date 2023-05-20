@@ -10,7 +10,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/79452f7e-ffa0-470f-8283-f5063348471d.png" width="128" height="128" /> | Ballerina Twirl | 79452f7e-ffa0-470f-8283-f5063348471d |
 | <img src="./images/bb5baae6-1694-42c0-9cc8-6ff4bb5503c6.png" width="128" height="128" /> | Batman Landing | bb5baae6-1694-42c0-9cc8-6ff4bb5503c6 |
 | <img src="./images/819f2f36-2a16-440c-8e46-94c6b003a2e0.png" width="128" height="128" /> | Big Chuckles | 819f2f36-2a16-440c-8e46-94c6b003a2e0 |
-| <img src="./images/7a314ecf-f94c-42c0-945f-76903c923808.png" width="128" height="128" /> | Bored | 7a314ecf-f94c-42c0-945f-76903c923808 |
 | <img src="./images/ddfa6f0e-88ca-46de-b189-2bd5b18e96a0.png" width="128" height="128" /> | Bow | ddfa6f0e-88ca-46de-b189-2bd5b18e96a0 |
 | <img src="./images/1dbaa006-0ec6-42c3-9440-a3bfa0c6fdbe.png" width="128" height="128" /> | Breakdance | 1dbaa006-0ec6-42c3-9440-a3bfa0c6fdbe |
 | <img src="./images/9f5d4732-0513-4a0a-8ea2-b6b8d7587e74.png" width="128" height="128" /> | Calling a Dragon | 9f5d4732-0513-4a0a-8ea2-b6b8d7587e74 |
