@@ -53,7 +53,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/71afa8ed-03b6-4808-b537-330daf9dbf50.png" width="128" height="128" /> | Hakuna Matata | 71afa8ed-03b6-4808-b537-330daf9dbf50 |
 | <img src="./images/7cec98d8-55cc-44fe-b0ae-2672b0b2bd37.png" width="128" height="128" /> | Hammering | 7cec98d8-55cc-44fe-b0ae-2672b0b2bd37 |
 | <img src="./images/5dd129f9-cfc3-4fc1-b464-c66a03061545.png" width="128" height="128" /> | Hand Stand | 5dd129f9-cfc3-4fc1-b464-c66a03061545 |
-| <img src="./images/f65b8ee3-65db-42fc-9b00-4b0751d62364.png" width="128" height="128" /> | High Five | f65b8ee3-65db-42fc-9b00-4b0751d62364 |
 | <img src="./images/1e30e8f4-2991-4aac-a58a-a6bf90a080c5.png" width="128" height="128" /> | Hitting the Omnitrix | 1e30e8f4-2991-4aac-a58a-a6bf90a080c5 |
 | <img src="./images/c4b5b251-24d3-43eb-9c05-46be246aeefb.png" width="128" height="128" /> | Hooray! | c4b5b251-24d3-43eb-9c05-46be246aeefb |
 | <img src="./images/fb9b884a-b217-46a2-85fd-d3ab0f2f33e6.png" width="128" height="128" /> | Hoppin' | fb9b884a-b217-46a2-85fd-d3ab0f2f33e6 |
