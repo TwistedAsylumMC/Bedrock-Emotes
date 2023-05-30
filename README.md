@@ -62,6 +62,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/6d35a7a6-942f-4d6f-a233-1499be044158.png" width="128" height="128" /> | Inspecting Item | 6d35a7a6-942f-4d6f-a233-1499be044158 |
 | <img src="./images/87c039b7-7bdc-45d1-8684-e940a131ec0a.png" width="128" height="128" /> | Intercom and Attack | 87c039b7-7bdc-45d1-8684-e940a131ec0a |
 | <img src="./images/c4272178-5e93-4892-b161-1aecdef4a54d.png" width="128" height="128" /> | Investigating | c4272178-5e93-4892-b161-1aecdef4a54d |
+| <img src="./images/1e909865-4c80-4708-839c-b0c0fcaa2f1c.png" width="128" height="128" /> | Juggling | 1e909865-4c80-4708-839c-b0c0fcaa2f1c |
 | <img src="./images/495d686a-4cb3-4f0b-beb5-bebdcb95eed9.png" width="128" height="128" /> | Jumping Heel Touch | 495d686a-4cb3-4f0b-beb5-bebdcb95eed9 |
 | <img src="./images/b13966b3-1f7c-4f07-8ab8-9d85170203f5.png" width="128" height="128" /> | Jumping Jacks | b13966b3-1f7c-4f07-8ab8-9d85170203f5 |
 | <img src="./images/24444aea-cb6e-451f-90fc-b74e57cc7c5d.png" width="128" height="128" /> | Kneeling | 24444aea-cb6e-451f-90fc-b74e57cc7c5d |
