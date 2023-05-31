@@ -125,4 +125,5 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4c8ae710-df2e-47cd-814d-cc7bf21a3d67.png" width="128" height="128" /> | Waving | 4c8ae710-df2e-47cd-814d-cc7bf21a3d67 |
 | <img src="./images/c2d6091d-9f91-4a9e-badd-ef8481353cb0.png" width="128" height="128" /> | Waving Like C-3PO | c2d6091d-9f91-4a9e-badd-ef8481353cb0 |
 | <img src="./images/2647f538-6fc6-4775-85ae-7f6f2a8065b2.png" width="128" height="128" /> | Workin' Out | 2647f538-6fc6-4775-85ae-7f6f2a8065b2 |
+| <img src="./images/76f240f9-5d35-4d63-a6ef-f8ad8c154a80.png" width="128" height="128" /> | Worm Dance | 76f240f9-5d35-4d63-a6ef-f8ad8c154a80 |
 | <img src="./images/3f1bdf46-80b0-4a64-b631-4ac2f2491165.png" width="128" height="128" /> | Yoga | 3f1bdf46-80b0-4a64-b631-4ac2f2491165 |
