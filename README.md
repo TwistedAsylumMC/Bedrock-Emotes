@@ -74,6 +74,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/6174a111-19ac-41d1-a483-0e0b37f9d049.png" width="128" height="128" /> | Minion Cheering | 6174a111-19ac-41d1-a483-0e0b37f9d049 |
 | <img src="./images/79e93b59-38f0-4796-8033-f99d7aa9334e.png" width="128" height="128" /> | Minion Panicking | 79e93b59-38f0-4796-8033-f99d7aa9334e |
 | <img src="./images/a51f8e7c-a4dd-4ce1-9fc9-2c3cad66cede.png" width="128" height="128" /> | Minion Taunting | a51f8e7c-a4dd-4ce1-9fc9-2c3cad66cede |
+| <img src="./images/1c6b8fb8-2890-42cb-aca3-f1441625b1ce.png" width="128" height="128" /> | Napping | 1c6b8fb8-2890-42cb-aca3-f1441625b1ce |
 | <img src="./images/a5f9881c-23b7-4650-8e92-039cd7a16889.png" width="128" height="128" /> | Nodding Off | a5f9881c-23b7-4650-8e92-039cd7a16889 |
 | <img src="./images/21e0054a-5bf4-468d-bfc4-fc4b49bd44ac.png" width="128" height="128" /> | Offer | 21e0054a-5bf4-468d-bfc4-fc4b49bd44ac |
 | <img src="./images/547e5f6c-d445-49a9-b06e-6919b1f9e48e.png" width="128" height="128" /> | Opening Chakras | 547e5f6c-d445-49a9-b06e-6919b1f9e48e |
