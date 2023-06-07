@@ -102,6 +102,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/137730ec-9617-4fa9-a715-c2a671a7210e.png" width="128" height="128" /> | Sitting | 137730ec-9617-4fa9-a715-c2a671a7210e |
 | <img src="./images/70831936-d97d-48fe-a7e7-d8894e7c5507.png" width="128" height="128" /> | Slimin' | 70831936-d97d-48fe-a7e7-d8894e7c5507 |
 | <img src="./images/f9345ebb-4ba3-40e6-ad9b-6bfb10c92890.png" width="128" height="128" /> | Sneezing | f9345ebb-4ba3-40e6-ad9b-6bfb10c92890 |
+| <img src="./images/3706e0e2-9991-40ac-98e0-4acd8dd7bc95.png" width="128" height="128" /> | Sniffer Sniffin' | 3706e0e2-9991-40ac-98e0-4acd8dd7bc95 |
 | <img src="./images/e8a91ad4-6f7a-479e-9556-e1a7c058351b.png" width="128" height="128" /> | Sonic-Finger Wagging | e8a91ad4-6f7a-479e-9556-e1a7c058351b |
 | <img src="./images/b8e54924-ec3f-409c-8914-bca61fbe9242.png" width="128" height="128" /> | Sonic-Running | b8e54924-ec3f-409c-8914-bca61fbe9242 |
 | <img src="./images/cd8c3bc6-f455-43d2-836e-62c1a19474c7.png" width="128" height="128" /> | Sonic-Victory Spinning | cd8c3bc6-f455-43d2-836e-62c1a19474c7 |
