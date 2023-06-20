@@ -106,6 +106,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e8a91ad4-6f7a-479e-9556-e1a7c058351b.png" width="128" height="128" /> | Sonic-Finger Wagging | e8a91ad4-6f7a-479e-9556-e1a7c058351b |
 | <img src="./images/b8e54924-ec3f-409c-8914-bca61fbe9242.png" width="128" height="128" /> | Sonic-Running | b8e54924-ec3f-409c-8914-bca61fbe9242 |
 | <img src="./images/cd8c3bc6-f455-43d2-836e-62c1a19474c7.png" width="128" height="128" /> | Sonic-Victory Spinning | cd8c3bc6-f455-43d2-836e-62c1a19474c7 |
+| <img src="./images/d0b833ed-9194-4b3b-ab33-5919ed7f60f3.png" width="128" height="128" /> | Soul Sand Shuffle | d0b833ed-9194-4b3b-ab33-5919ed7f60f3 |
 | <img src="./images/be10427e-4a69-40fb-949f-b2d51ce25f66.png" width="128" height="128" /> | Staff Spinning | be10427e-4a69-40fb-949f-b2d51ce25f66 |
 | <img src="./images/13334afa-bd66-4285-b3d9-d974046db479.png" width="128" height="128" /> | Stomping | 13334afa-bd66-4285-b3d9-d974046db479 |
 | <img src="./images/c2b9dd03-7258-4813-b6f5-37ef9b4a3326.png" width="128" height="128" /> | Superhero Landing | c2b9dd03-7258-4813-b6f5-37ef9b4a3326 |
