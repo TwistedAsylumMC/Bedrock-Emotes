@@ -126,6 +126,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044.png" width="128" height="128" /> | Using Jedi Mind Trick | 4b9b9f17-3722-4d38-a6a9-9ba0e8cf5044 |
 | <img src="./images/77053f59-c79b-4d5c-8dc5-539ed28002e9.png" width="128" height="128" /> | Victorious | 77053f59-c79b-4d5c-8dc5-539ed28002e9 |
 | <img src="./images/d0c60245-538e-4ea2-bdd4-33477db5aa89.png" width="128" height="128" /> | Victory Cheer | d0c60245-538e-4ea2-bdd4-33477db5aa89 |
+| <img src="./images/b305f0e8-cb72-48de-bfea-7e2f4afb63c7.png" width="128" height="128" /> | Wall Running | b305f0e8-cb72-48de-bfea-7e2f4afb63c7 |
 | <img src="./images/6b9c7731-7422-4333-950f-cf3d147ffa47.png" width="128" height="128" /> | Warm Up Drills | 6b9c7731-7422-4333-950f-cf3d147ffa47 |
 | <img src="./images/4c8ae710-df2e-47cd-814d-cc7bf21a3d67.png" width="128" height="128" /> | Waving | 4c8ae710-df2e-47cd-814d-cc7bf21a3d67 |
 | <img src="./images/c2d6091d-9f91-4a9e-badd-ef8481353cb0.png" width="128" height="128" /> | Waving Like C-3PO | c2d6091d-9f91-4a9e-badd-ef8481353cb0 |
