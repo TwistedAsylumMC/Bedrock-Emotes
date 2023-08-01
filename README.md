@@ -20,6 +20,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/9a469a61-c83b-4ba9-b507-bdbe64430582.png" width="128" height="128" /> | Clapping | 9a469a61-c83b-4ba9-b507-bdbe64430582 |
 | <img src="./images/5e1ef7ed-efdf-44a9-8ace-6cca6275d80d.png" width="128" height="128" /> | Conga | 5e1ef7ed-efdf-44a9-8ace-6cca6275d80d |
 | <img src="./images/fb379452-fc4e-41eb-8371-9f1475456234.png" width="128" height="128" /> | Contorting | fb379452-fc4e-41eb-8371-9f1475456234 |
+| <img src="./images/78abdd9a-b6bd-478f-8148-b4e15b6229ba.png" width="128" height="128" /> | Cowabunga! | 78abdd9a-b6bd-478f-8148-b4e15b6229ba |
 | <img src="./images/f99ccd35-ebda-4122-b458-ff8c9f9a432f.png" width="128" height="128" /> | Cowpoke Dancin' | f99ccd35-ebda-4122-b458-ff8c9f9a432f |
 | <img src="./images/beb74219-e90c-46aa-8a4b-a1c175f6cab5.png" width="128" height="128" /> | DJing | beb74219-e90c-46aa-8a4b-a1c175f6cab5 |
 | <img src="./images/f15ceb56-6651-41c0-8bd5-087951204d81.png" width="128" height="128" /> | Dancing Like Rapunzel | f15ceb56-6651-41c0-8bd5-087951204d81 |
@@ -98,6 +99,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/af6ad96c-5754-4cf9-a463-49a8190e6b0e.png" width="128" height="128" /> | Scared | af6ad96c-5754-4cf9-a463-49a8190e6b0e |
 | <img src="./images/ceb97e43-f793-43a6-b74c-32828f08d3e4.png" width="128" height="128" /> | Secret Handshake | ceb97e43-f793-43a6-b74c-32828f08d3e4 |
 | <img src="./images/42fde774-37d4-4422-b374-89ff13a6535a.png" width="128" height="128" /> | Shadow Boxing | 42fde774-37d4-4422-b374-89ff13a6535a |
+| <img src="./images/a9a15546-b597-4937-9ab3-6882192ce6d8.png" width="128" height="128" /> | Shell Spinning | a9a15546-b597-4937-9ab3-6882192ce6d8 |
 | <img src="./images/4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a.png" width="128" height="128" /> | Shrugging | 4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a |
 | <img src="./images/946f04ea-8ff0-416e-a66d-8b0d0751e8bf.png" width="128" height="128" /> | Sid Dance | 946f04ea-8ff0-416e-a66d-8b0d0751e8bf |
 | <img src="./images/86b34976-8f41-475b-a386-385080dc6e83.png" width="128" height="128" /> | Silly | 86b34976-8f41-475b-a386-385080dc6e83 |
@@ -130,6 +132,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/6b9c7731-7422-4333-950f-cf3d147ffa47.png" width="128" height="128" /> | Warm Up Drills | 6b9c7731-7422-4333-950f-cf3d147ffa47 |
 | <img src="./images/4c8ae710-df2e-47cd-814d-cc7bf21a3d67.png" width="128" height="128" /> | Waving | 4c8ae710-df2e-47cd-814d-cc7bf21a3d67 |
 | <img src="./images/c2d6091d-9f91-4a9e-badd-ef8481353cb0.png" width="128" height="128" /> | Waving Like C-3PO | c2d6091d-9f91-4a9e-badd-ef8481353cb0 |
+| <img src="./images/2e17b365-81ee-45af-a15f-09ea012ef4d0.png" width="128" height="128" /> | Weapon Twirling | 2e17b365-81ee-45af-a15f-09ea012ef4d0 |
 | <img src="./images/2647f538-6fc6-4775-85ae-7f6f2a8065b2.png" width="128" height="128" /> | Workin' Out | 2647f538-6fc6-4775-85ae-7f6f2a8065b2 |
 | <img src="./images/76f240f9-5d35-4d63-a6ef-f8ad8c154a80.png" width="128" height="128" /> | Worm Dance | 76f240f9-5d35-4d63-a6ef-f8ad8c154a80 |
 | <img src="./images/3f1bdf46-80b0-4a64-b631-4ac2f2491165.png" width="128" height="128" /> | Yoga | 3f1bdf46-80b0-4a64-b631-4ac2f2491165 |

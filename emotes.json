@@ -90,6 +90,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c7f01772-7cd9-4388-9337-60d0da1e0387/ty_lee_contortion_thumbnail_0.png"
   },
   {
+    "uuid": "78abdd9a-b6bd-478f-8148-b4e15b6229ba",
+    "title": "Cowabunga!",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/24bcba07-3d34-47e6-b0c5-fdee652266eb/team_huddle_thumbnail_0.png"
+  },
+  {
     "uuid": "f99ccd35-ebda-4122-b458-ff8c9f9a432f",
     "title": "Cowpoke Dancin'",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2ef69827-0513-40e4-adec-4051acd27f87/cowboy_thumbnail_0.png"
@@ -480,6 +485,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e0a40ca9-4142-489c-84a7-402bc01508d0/woodpunch_thumbnail_0.png"
   },
   {
+    "uuid": "a9a15546-b597-4937-9ab3-6882192ce6d8",
+    "title": "Shell Spinning",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ed21d1c3-4f83-4003-a175-56135e387efa/shell_spin_thumbnail_0.png"
+  },
+  {
     "uuid": "4ff73ed2-3c2f-4d74-9055-5fa24e59dc7a",
     "title": "Shrugging",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/09650be4-4ee6-4d6a-868c-f0391fa84d85/communication_shrug_thumbnail_0.png"
@@ -638,6 +648,11 @@
     "uuid": "c2d6091d-9f91-4a9e-badd-ef8481353cb0",
     "title": "Waving Like C-3PO",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/26800e61-b474-4495-8487-320830fa29ef/c3p0_thumbnail_0.png"
+  },
+  {
+    "uuid": "2e17b365-81ee-45af-a15f-09ea012ef4d0",
+    "title": "Weapon Twirling",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/819bb168-523c-45a4-bab5-bbd23951e3be/staff_spin_thumbnail_0.png"
   },
   {
     "uuid": "2647f538-6fc6-4775-85ae-7f6f2a8065b2",
