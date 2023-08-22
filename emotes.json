@@ -270,6 +270,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8fe522c3-ed8e-45ca-82d2-b6ef843d558d/hand_stand_thumbnail_0.png"
   },
   {
+    "uuid": "c7dd1194-632a-4392-8eb0-485b50802055",
+    "title": "Happily Dancing",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/35da61a6-4127-41b8-b127-a3238020e555/spinning_snow_white_thumbnail_0.png"
+  },
+  {
     "uuid": "f65b8ee3-65db-42fc-9b00-4b0751d62364",
     "title": "High Five",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9789a544-f4a3-44f5-80f6-6325a3784be1/leaping_high_five_thumbnail_0.png"
@@ -653,6 +658,11 @@
     "uuid": "2e17b365-81ee-45af-a15f-09ea012ef4d0",
     "title": "Weapon Twirling",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/819bb168-523c-45a4-bab5-bbd23951e3be/staff_spin_thumbnail_0.png"
+  },
+  {
+    "uuid": "ba83e17e-9ed5-421b-a0ce-4b4787d13277",
+    "title": "Wildly Skipping",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/57a978e8-e318-4728-a721-16533758d311/skipping_in_wonderland_thumbnail_0.png"
   },
   {
     "uuid": "2647f538-6fc6-4775-85ae-7f6f2a8065b2",

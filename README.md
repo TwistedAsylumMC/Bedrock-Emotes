@@ -56,6 +56,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/71afa8ed-03b6-4808-b537-330daf9dbf50.png" width="128" height="128" /> | Hakuna Matata | 71afa8ed-03b6-4808-b537-330daf9dbf50 |
 | <img src="./images/7cec98d8-55cc-44fe-b0ae-2672b0b2bd37.png" width="128" height="128" /> | Hammering | 7cec98d8-55cc-44fe-b0ae-2672b0b2bd37 |
 | <img src="./images/5dd129f9-cfc3-4fc1-b464-c66a03061545.png" width="128" height="128" /> | Hand Stand | 5dd129f9-cfc3-4fc1-b464-c66a03061545 |
+| <img src="./images/c7dd1194-632a-4392-8eb0-485b50802055.png" width="128" height="128" /> | Happily Dancing | c7dd1194-632a-4392-8eb0-485b50802055 |
 | <img src="./images/f65b8ee3-65db-42fc-9b00-4b0751d62364.png" width="128" height="128" /> | High Five | f65b8ee3-65db-42fc-9b00-4b0751d62364 |
 | <img src="./images/1e30e8f4-2991-4aac-a58a-a6bf90a080c5.png" width="128" height="128" /> | Hitting the Omnitrix | 1e30e8f4-2991-4aac-a58a-a6bf90a080c5 |
 | <img src="./images/c4b5b251-24d3-43eb-9c05-46be246aeefb.png" width="128" height="128" /> | Hooray! | c4b5b251-24d3-43eb-9c05-46be246aeefb |
@@ -133,6 +134,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4c8ae710-df2e-47cd-814d-cc7bf21a3d67.png" width="128" height="128" /> | Waving | 4c8ae710-df2e-47cd-814d-cc7bf21a3d67 |
 | <img src="./images/c2d6091d-9f91-4a9e-badd-ef8481353cb0.png" width="128" height="128" /> | Waving Like C-3PO | c2d6091d-9f91-4a9e-badd-ef8481353cb0 |
 | <img src="./images/2e17b365-81ee-45af-a15f-09ea012ef4d0.png" width="128" height="128" /> | Weapon Twirling | 2e17b365-81ee-45af-a15f-09ea012ef4d0 |
+| <img src="./images/ba83e17e-9ed5-421b-a0ce-4b4787d13277.png" width="128" height="128" /> | Wildly Skipping | ba83e17e-9ed5-421b-a0ce-4b4787d13277 |
 | <img src="./images/2647f538-6fc6-4775-85ae-7f6f2a8065b2.png" width="128" height="128" /> | Workin' Out | 2647f538-6fc6-4775-85ae-7f6f2a8065b2 |
 | <img src="./images/76f240f9-5d35-4d63-a6ef-f8ad8c154a80.png" width="128" height="128" /> | Worm Dance | 76f240f9-5d35-4d63-a6ef-f8ad8c154a80 |
 | <img src="./images/3f1bdf46-80b0-4a64-b631-4ac2f2491165.png" width="128" height="128" /> | Yoga | 3f1bdf46-80b0-4a64-b631-4ac2f2491165 |
