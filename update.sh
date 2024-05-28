@@ -1,10 +1,10 @@
 #!/bin/bash
 
-LOGINRESULT=`curl -s -L -X POST 'https://20ca2.playfabapi.com/Client/LoginWithPlayFab' \
+LOGINRESULT=`curl -s -L -X POST 'https://20ca2.playfabapi.com/Client/LoginWithEmailAddress' \
 -H 'Content-Type: application/json' \
 -d @<(cat <<EOF
 {
-  "Username": "$USERNAME",
+  "Email": "$EMAIL",
   "Password": "$PASSWORD",
   "TitleId": "20ca2"
 }
