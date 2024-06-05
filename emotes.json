@@ -250,6 +250,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/dfe104b0-f988-45dd-aae5-71d7edd4bb7f/em_aria_backflip_wave_thumbnail_0.png"
   },
   {
+    "uuid": "a152a09e-b889-0a08-3992-3f2a087bf75c",
+    "title": "Baka",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2bb0623f-dbba-4f4e-b760-4f39779cb2da/em_baka_emote_thumbnail_0.png"
+  },
+  {
     "uuid": "786fec7c-694b-841a-0a03-d5b9668eca9d",
     "title": "Ballerina Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/17d776eb-ac9a-4b57-b45a-94e27d3c1070/ballerina_dance_thumbnail_0.png"
@@ -860,6 +865,11 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bd6975f0-be64-4ed1-9c4c-69595a18dc75/em_fingermaps_evl_thumbnail_0.png"
   },
   {
+    "uuid": "8f4c970c-44b3-a75d-f12b-0fe90b0e96ee",
+    "title": "Evil Laugh",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b2d03871-280e-4f1a-a78a-fd130416cdd1/em_gloriousstudios_laugh_thumbnail_0.png"
+  },
+  {
     "uuid": "9a497899-4a54-c936-f73b-08b259afe370",
     "title": "Evil Laughing",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d512259f-6e8b-4fdb-bb61-614fa3c0bd29/evil_laugh_thumbnail_0.png"
@@ -1238,15 +1248,5 @@
     "uuid": "e1090020-cbe0-4b64-9c41-a3b9619da029",
     "title": "Giving R2-D2 a Message",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/19271fcb-195e-4890-bb71-021bff6133bd/leia_r2_thumbnail_0.png"
-  },
-  {
-    "uuid": "7393aa53-9145-4e66-b23b-ec86def6c6f2",
-    "title": "Gliding",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/97311301-3b05-4dbb-be8f-00e2ecf5884d/elytra_thumbnail_0.png"
-  },
-  {
-    "uuid": "f4374f93-f441-5ef5-e72f-33b14e8ed144",
-    "title": "Glitch Walk",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b6e249dd-e2f7-4c4d-8dff-8a67edfac120/glitch_walk_thumbnail_0.png"
   }
 ]

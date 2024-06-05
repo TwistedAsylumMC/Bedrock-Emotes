@@ -52,6 +52,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e301938b-0c4a-6630-d0a8-b7dde72ccf5c.png" width="128" height="128" /> | Backflip Fail | e301938b-0c4a-6630-d0a8-b7dde72ccf5c |
 | <img src="./images/5f0f79b3-1205-2b21-4acc-ec24e3618a94.png" width="128" height="128" /> | Backflip Pose | 5f0f79b3-1205-2b21-4acc-ec24e3618a94 |
 | <img src="./images/8465bd2e-2a59-ba73-70fc-b88cf9d8727c.png" width="128" height="128" /> | Backflip Wave | 8465bd2e-2a59-ba73-70fc-b88cf9d8727c |
+| <img src="./images/a152a09e-b889-0a08-3992-3f2a087bf75c.png" width="128" height="128" /> | Baka | a152a09e-b889-0a08-3992-3f2a087bf75c |
 | <img src="./images/786fec7c-694b-841a-0a03-d5b9668eca9d.png" width="128" height="128" /> | Ballerina Dance | 786fec7c-694b-841a-0a03-d5b9668eca9d |
 | <img src="./images/b6b0b5fe-aa5c-8ba2-3924-55fe16d5f3f8.png" width="128" height="128" /> | Ballet Dancing | b6b0b5fe-aa5c-8ba2-3924-55fe16d5f3f8 |
 | <img src="./images/bb5baae6-1694-42c0-9cc8-6ff4bb5503c6.png" width="128" height="128" /> | Batman Landing | bb5baae6-1694-42c0-9cc8-6ff4bb5503c6 |
@@ -174,6 +175,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/6e41eff6-7ecb-dba5-0f85-3534f7bb8156.png" width="128" height="128" /> | Epic Break Dance | 6e41eff6-7ecb-dba5-0f85-3534f7bb8156 |
 | <img src="./images/17f6d944-1e2c-4027-d1a0-545baec5cd77.png" width="128" height="128" /> | Epic Dab | 17f6d944-1e2c-4027-d1a0-545baec5cd77 |
 | <img src="./images/7a913508-8cf4-4f49-b760-0e77e32e7482.png" width="128" height="128" /> | Evil Laugh | 7a913508-8cf4-4f49-b760-0e77e32e7482 |
+| <img src="./images/8f4c970c-44b3-a75d-f12b-0fe90b0e96ee.png" width="128" height="128" /> | Evil Laugh | 8f4c970c-44b3-a75d-f12b-0fe90b0e96ee |
 | <img src="./images/9a497899-4a54-c936-f73b-08b259afe370.png" width="128" height="128" /> | Evil Laughing | 9a497899-4a54-c936-f73b-08b259afe370 |
 | <img src="./images/d9d1192d-1262-470d-bc0c-5ba46bedab72.png" width="128" height="128" /> | Excitedly Dancing | d9d1192d-1262-470d-bc0c-5ba46bedab72 |
 | <img src="./images/2391b018-3b8a-4bb0-9596-8edfc502d302.png" width="128" height="128" /> | Exhausted | 2391b018-3b8a-4bb0-9596-8edfc502d302 |
@@ -250,5 +252,3 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/f1e18201-729d-472d-9e4f-5cdd7f6bba0c.png" width="128" height="128" /> | Giggling | f1e18201-729d-472d-9e4f-5cdd7f6bba0c |
 | <img src="./images/2eab8285-6de6-1be9-b7ce-e22b70047047.png" width="128" height="128" /> | Gives Heart | 2eab8285-6de6-1be9-b7ce-e22b70047047 |
 | <img src="./images/e1090020-cbe0-4b64-9c41-a3b9619da029.png" width="128" height="128" /> | Giving R2-D2 a Message | e1090020-cbe0-4b64-9c41-a3b9619da029 |
-| <img src="./images/7393aa53-9145-4e66-b23b-ec86def6c6f2.png" width="128" height="128" /> | Gliding | 7393aa53-9145-4e66-b23b-ec86def6c6f2 |
-| <img src="./images/f4374f93-f441-5ef5-e72f-33b14e8ed144.png" width="128" height="128" /> | Glitch Walk | f4374f93-f441-5ef5-e72f-33b14e8ed144 |
