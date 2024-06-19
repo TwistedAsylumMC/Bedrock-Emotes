@@ -835,6 +835,26 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6b8c7562-f007-4305-b27b-471307a84a64/em_qwerty_elevate_thumbnail_0.png"
   },
   {
+    "uuid": "1c082444-afe2-2223-7c7f-1d0e9fe5a5e0",
+    "title": "Emote 1",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/23e07591-cc29-46f0-bb29-cf73f7556c03/em_emote_1_thumbnail_0.png"
+  },
+  {
+    "uuid": "7e7efcf4-3100-1dea-b126-c89903492b35",
+    "title": "Emote 2",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cb9dfa68-6e79-469e-8e65-7bfba25f1789/em_emote_2_thumbnail_0.png"
+  },
+  {
+    "uuid": "48db5bc8-b360-6ffd-f034-d013918e157b",
+    "title": "Emote 3",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c71d14fe-af53-49a1-982f-41152c3a6eb2/em_emote_3_thumbnail_0.png"
+  },
+  {
+    "uuid": "4d87632b-5391-a28d-424a-5a87923a2f87",
+    "title": "Emote 4",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b405a8cb-4252-4eec-884c-ec33ccf0ba4e/em_emote_4_thumbnail_0.png"
+  },
+  {
     "uuid": "c4d87a21-d4c4-498b-8bc1-5dd78c895e9f",
     "title": "Enamoured",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/154a8533-c934-483a-b30a-374b740ee0b5/reacting_to_cute_things_thumbnail_0.png"
@@ -1228,25 +1248,5 @@
     "uuid": "5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e",
     "title": "Ghast Dancing",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/131b9b5a-6059-4bec-834b-03c3dfe1539f/dance_ghast_thumbnail_0.png"
-  },
-  {
-    "uuid": "738497ce-539f-4e06-9a03-dc528506a468",
-    "title": "Giddy",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a6dd1d3f-aee2-4149-b4db-4120ec363cc2/emotional_giddy_thumbnail_0.png"
-  },
-  {
-    "uuid": "f1e18201-729d-472d-9e4f-5cdd7f6bba0c",
-    "title": "Giggling",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90d5f68d-9b50-4acd-a866-87d4e6c66557/communication_giggle_thumbnail_0.png"
-  },
-  {
-    "uuid": "2eab8285-6de6-1be9-b7ce-e22b70047047",
-    "title": "Gives Heart",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b65b2a78-dd9b-48fb-86e6-7d4928577dff/gives_heart_thumbnail_0.png"
-  },
-  {
-    "uuid": "e1090020-cbe0-4b64-9c41-a3b9619da029",
-    "title": "Giving R2-D2 a Message",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/19271fcb-195e-4890-bb71-021bff6133bd/leia_r2_thumbnail_0.png"
   }
 ]
