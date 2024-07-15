@@ -100,6 +100,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/3d10a8c7-213c-4fbe-a208-a0f7990d5bbb.png" width="128" height="128" /> | Cheer Routine | 3d10a8c7-213c-4fbe-a208-a0f7990d5bbb |
 | <img src="./images/9cb096e8-3220-af69-a311-4d7473866c84.png" width="128" height="128" /> | Cheerleading | 9cb096e8-3220-af69-a311-4d7473866c84 |
 | <img src="./images/d3c0dc87-f568-0aa3-9565-d30fcde8ef6a.png" width="128" height="128" /> | Cheerleading | d3c0dc87-f568-0aa3-9565-d30fcde8ef6a |
+| <img src="./images/e023347d-e9bf-a884-1213-eecef49c5e56.png" width="128" height="128" /> | Chicken Dance | e023347d-e9bf-a884-1213-eecef49c5e56 |
 | <img src="./images/c6231238-3869-4acd-8f8e-818a34a59c2c.png" width="128" height="128" /> | Chill Victory | c6231238-3869-4acd-8f8e-818a34a59c2c |
 | <img src="./images/043d6f77-f539-2df1-8f81-137d2b650787.png" width="128" height="128" /> | Chilling | 043d6f77-f539-2df1-8f81-137d2b650787 |
 | <img src="./images/af61c759-6252-431d-a7de-94d477cfb54c.png" width="128" height="128" /> | Chun-Li Spinning Kick | af61c759-6252-431d-a7de-94d477cfb54c |
@@ -251,4 +252,3 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/a72ea226-06ee-ad9c-1fd6-5d8543ce7b0c.png" width="128" height="128" /> | Gasp | a72ea226-06ee-ad9c-1fd6-5d8543ce7b0c |
 | <img src="./images/e0b54d13-6a1b-1871-04ca-9577d178ebaa.png" width="128" height="128" /> | Get It Off Me | e0b54d13-6a1b-1871-04ca-9577d178ebaa |
 | <img src="./images/a237e7cb-47da-710f-75b5-66818ae4fb01.png" width="128" height="128" /> | Get Over Here | a237e7cb-47da-710f-75b5-66818ae4fb01 |
-| <img src="./images/5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e.png" width="128" height="128" /> | Ghast Dancing | 5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e |

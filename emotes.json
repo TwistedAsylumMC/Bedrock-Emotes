@@ -490,6 +490,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bce55062-2bc7-4f3b-aaed-6b12c5ea2158/em_cheerleading_emote_thumbnail_0.png"
   },
   {
+    "uuid": "e023347d-e9bf-a884-1213-eecef49c5e56",
+    "title": "Chicken Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/dede159e-3265-41a8-9198-708d51897fdb/em_chicken_dance_thumbnail_0.png"
+  },
+  {
     "uuid": "c6231238-3869-4acd-8f8e-818a34a59c2c",
     "title": "Chill Victory",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2890aabf-c780-4085-9e5b-d5fcb1d09b30/em_yeggs_cvy_thumbnail_0.png"
@@ -1243,10 +1248,5 @@
     "uuid": "a237e7cb-47da-710f-75b5-66818ae4fb01",
     "title": "Get Over Here",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/21afdd15-8cc2-40c6-a7d6-0f42bd3a2738/get_over_here_thumbnail_0.png"
-  },
-  {
-    "uuid": "5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e",
-    "title": "Ghast Dancing",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/131b9b5a-6059-4bec-834b-03c3dfe1539f/dance_ghast_thumbnail_0.png"
   }
 ]
