@@ -900,6 +900,11 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d512259f-6e8b-4fdb-bb61-614fa3c0bd29/evil_laugh_thumbnail_0.png"
   },
   {
+    "uuid": "7c888d4c-a520-504a-e425-145e220810bf",
+    "title": "Exaggerated Faceplant",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/54a2ff49-4559-45cd-b8d3-d2e340f2c817/exaggerated_faceplant_thumbnail_0.png"
+  },
+  {
     "uuid": "d9d1192d-1262-470d-bc0c-5ba46bedab72",
     "title": "Excitedly Dancing",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8ac87d0b-a6f6-4846-ba8a-ce036c756b9b/excitement_thumbnail_0.png"
@@ -1243,10 +1248,5 @@
     "uuid": "e0b54d13-6a1b-1871-04ca-9577d178ebaa",
     "title": "Get It Off Me",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d52579aa-bd3e-4ed6-a9e9-524c1178cc87/em_getitoffme_sapix_thumbnail_0.png"
-  },
-  {
-    "uuid": "a237e7cb-47da-710f-75b5-66818ae4fb01",
-    "title": "Get Over Here",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/21afdd15-8cc2-40c6-a7d6-0f42bd3a2738/get_over_here_thumbnail_0.png"
   }
 ]

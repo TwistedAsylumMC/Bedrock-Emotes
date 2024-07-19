@@ -182,6 +182,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/7a913508-8cf4-4f49-b760-0e77e32e7482.png" width="128" height="128" /> | Evil Laugh | 7a913508-8cf4-4f49-b760-0e77e32e7482 |
 | <img src="./images/8f4c970c-44b3-a75d-f12b-0fe90b0e96ee.png" width="128" height="128" /> | Evil Laugh | 8f4c970c-44b3-a75d-f12b-0fe90b0e96ee |
 | <img src="./images/9a497899-4a54-c936-f73b-08b259afe370.png" width="128" height="128" /> | Evil Laughing | 9a497899-4a54-c936-f73b-08b259afe370 |
+| <img src="./images/7c888d4c-a520-504a-e425-145e220810bf.png" width="128" height="128" /> | Exaggerated Faceplant | 7c888d4c-a520-504a-e425-145e220810bf |
 | <img src="./images/d9d1192d-1262-470d-bc0c-5ba46bedab72.png" width="128" height="128" /> | Excitedly Dancing | d9d1192d-1262-470d-bc0c-5ba46bedab72 |
 | <img src="./images/2391b018-3b8a-4bb0-9596-8edfc502d302.png" width="128" height="128" /> | Exhausted | 2391b018-3b8a-4bb0-9596-8edfc502d302 |
 | <img src="./images/a7bb7cfa-ed75-7375-8ffb-4800cfd7e150.png" width="128" height="128" /> | Face Plant | a7bb7cfa-ed75-7375-8ffb-4800cfd7e150 |
@@ -251,4 +252,3 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/c1b25df4-88ab-c758-7df8-faffee9e832c.png" width="128" height="128" /> | Gangnam Style Dance | c1b25df4-88ab-c758-7df8-faffee9e832c |
 | <img src="./images/a72ea226-06ee-ad9c-1fd6-5d8543ce7b0c.png" width="128" height="128" /> | Gasp | a72ea226-06ee-ad9c-1fd6-5d8543ce7b0c |
 | <img src="./images/e0b54d13-6a1b-1871-04ca-9577d178ebaa.png" width="128" height="128" /> | Get It Off Me | e0b54d13-6a1b-1871-04ca-9577d178ebaa |
-| <img src="./images/a237e7cb-47da-710f-75b5-66818ae4fb01.png" width="128" height="128" /> | Get Over Here | a237e7cb-47da-710f-75b5-66818ae4fb01 |
