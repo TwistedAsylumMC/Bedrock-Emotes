@@ -495,6 +495,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/dede159e-3265-41a8-9198-708d51897fdb/em_chicken_dance_thumbnail_0.png"
   },
   {
+    "uuid": "1c082444-afe2-2223-7c7f-1d0e9fe5a5e0",
+    "title": "Chicken Flying",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/de4ca3e7-738c-44bb-a7ac-7c5a30fb7710/em_chicken_flying_thumbnail_0.png"
+  },
+  {
     "uuid": "c6231238-3869-4acd-8f8e-818a34a59c2c",
     "title": "Chill Victory",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2890aabf-c780-4085-9e5b-d5fcb1d09b30/em_yeggs_cvy_thumbnail_0.png"
@@ -603,6 +608,11 @@
     "uuid": "88025a03-fe17-4f3c-a620-21ba47a0ddf5",
     "title": "Crossack",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ad1cf61c-918e-444f-80d4-7a8c810d094d/crossack_emote_thumbnail_0.png"
+  },
+  {
+    "uuid": "7e7efcf4-3100-1dea-b126-c89903492b35",
+    "title": "Crowd Kisses",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/97f58a8f-037f-4f9e-86fc-725cb4c0ac5d/em_crowd_kisses_thumbnail_0.png"
   },
   {
     "uuid": "4d9167f2-019c-2033-244c-d470ff86ef51",
@@ -838,26 +848,6 @@
     "uuid": "6e0c1592-aed2-ad36-95be-5f854bd28546",
     "title": "Elevate",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6b8c7562-f007-4305-b27b-471307a84a64/em_qwerty_elevate_thumbnail_0.png"
-  },
-  {
-    "uuid": "1c082444-afe2-2223-7c7f-1d0e9fe5a5e0",
-    "title": "Emote 1",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/23e07591-cc29-46f0-bb29-cf73f7556c03/em_emote_1_thumbnail_0.png"
-  },
-  {
-    "uuid": "7e7efcf4-3100-1dea-b126-c89903492b35",
-    "title": "Emote 2",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cb9dfa68-6e79-469e-8e65-7bfba25f1789/em_emote_2_thumbnail_0.png"
-  },
-  {
-    "uuid": "48db5bc8-b360-6ffd-f034-d013918e157b",
-    "title": "Emote 3",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c71d14fe-af53-49a1-982f-41152c3a6eb2/em_emote_3_thumbnail_0.png"
-  },
-  {
-    "uuid": "4d87632b-5391-a28d-424a-5a87923a2f87",
-    "title": "Emote 4",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b405a8cb-4252-4eec-884c-ec33ccf0ba4e/em_emote_4_thumbnail_0.png"
   },
   {
     "uuid": "c4d87a21-d4c4-498b-8bc1-5dd78c895e9f",
@@ -1248,5 +1238,15 @@
     "uuid": "e0b54d13-6a1b-1871-04ca-9577d178ebaa",
     "title": "Get It Off Me",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d52579aa-bd3e-4ed6-a9e9-524c1178cc87/em_getitoffme_sapix_thumbnail_0.png"
+  },
+  {
+    "uuid": "a237e7cb-47da-710f-75b5-66818ae4fb01",
+    "title": "Get Over Here",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/21afdd15-8cc2-40c6-a7d6-0f42bd3a2738/get_over_here_thumbnail_0.png"
+  },
+  {
+    "uuid": "5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e",
+    "title": "Ghast Dancing",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/131b9b5a-6059-4bec-834b-03c3dfe1539f/dance_ghast_thumbnail_0.png"
   }
 ]

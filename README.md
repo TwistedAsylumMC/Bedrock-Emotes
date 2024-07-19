@@ -101,6 +101,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/9cb096e8-3220-af69-a311-4d7473866c84.png" width="128" height="128" /> | Cheerleading | 9cb096e8-3220-af69-a311-4d7473866c84 |
 | <img src="./images/d3c0dc87-f568-0aa3-9565-d30fcde8ef6a.png" width="128" height="128" /> | Cheerleading | d3c0dc87-f568-0aa3-9565-d30fcde8ef6a |
 | <img src="./images/e023347d-e9bf-a884-1213-eecef49c5e56.png" width="128" height="128" /> | Chicken Dance | e023347d-e9bf-a884-1213-eecef49c5e56 |
+| <img src="./images/1c082444-afe2-2223-7c7f-1d0e9fe5a5e0.png" width="128" height="128" /> | Chicken Flying | 1c082444-afe2-2223-7c7f-1d0e9fe5a5e0 |
 | <img src="./images/c6231238-3869-4acd-8f8e-818a34a59c2c.png" width="128" height="128" /> | Chill Victory | c6231238-3869-4acd-8f8e-818a34a59c2c |
 | <img src="./images/043d6f77-f539-2df1-8f81-137d2b650787.png" width="128" height="128" /> | Chilling | 043d6f77-f539-2df1-8f81-137d2b650787 |
 | <img src="./images/af61c759-6252-431d-a7de-94d477cfb54c.png" width="128" height="128" /> | Chun-Li Spinning Kick | af61c759-6252-431d-a7de-94d477cfb54c |
@@ -123,6 +124,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/f99ccd35-ebda-4122-b458-ff8c9f9a432f.png" width="128" height="128" /> | Cowpoke Dancin' | f99ccd35-ebda-4122-b458-ff8c9f9a432f |
 | <img src="./images/e90d32e1-bb24-c68b-33b6-117b51209109.png" width="128" height="128" /> | Crazy Rider | e90d32e1-bb24-c68b-33b6-117b51209109 |
 | <img src="./images/88025a03-fe17-4f3c-a620-21ba47a0ddf5.png" width="128" height="128" /> | Crossack | 88025a03-fe17-4f3c-a620-21ba47a0ddf5 |
+| <img src="./images/7e7efcf4-3100-1dea-b126-c89903492b35.png" width="128" height="128" /> | Crowd Kisses | 7e7efcf4-3100-1dea-b126-c89903492b35 |
 | <img src="./images/4d9167f2-019c-2033-244c-d470ff86ef51.png" width="128" height="128" /> | Curtsy | 4d9167f2-019c-2033-244c-d470ff86ef51 |
 | <img src="./images/6edc87cc-0285-29a8-47a4-aa0d423b327d.png" width="128" height="128" /> | Cute Laying Down | 6edc87cc-0285-29a8-47a4-aa0d423b327d |
 | <img src="./images/17356799-2d42-54c6-deb8-6f78d8a4a35d.png" width="128" height="128" /> | Cute Roll | 17356799-2d42-54c6-deb8-6f78d8a4a35d |
@@ -170,10 +172,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4c815b7c-1f7c-bf8c-64d6-4f8948c56ebf.png" width="128" height="128" /> | Eagle | 4c815b7c-1f7c-bf8c-64d6-4f8948c56ebf |
 | <img src="./images/9e902cf9-4416-558c-eef1-426f5fe2d020.png" width="128" height="128" /> | Eagle | 9e902cf9-4416-558c-eef1-426f5fe2d020 |
 | <img src="./images/6e0c1592-aed2-ad36-95be-5f854bd28546.png" width="128" height="128" /> | Elevate | 6e0c1592-aed2-ad36-95be-5f854bd28546 |
-| <img src="./images/1c082444-afe2-2223-7c7f-1d0e9fe5a5e0.png" width="128" height="128" /> | Emote 1 | 1c082444-afe2-2223-7c7f-1d0e9fe5a5e0 |
-| <img src="./images/7e7efcf4-3100-1dea-b126-c89903492b35.png" width="128" height="128" /> | Emote 2 | 7e7efcf4-3100-1dea-b126-c89903492b35 |
-| <img src="./images/48db5bc8-b360-6ffd-f034-d013918e157b.png" width="128" height="128" /> | Emote 3 | 48db5bc8-b360-6ffd-f034-d013918e157b |
-| <img src="./images/4d87632b-5391-a28d-424a-5a87923a2f87.png" width="128" height="128" /> | Emote 4 | 4d87632b-5391-a28d-424a-5a87923a2f87 |
 | <img src="./images/c4d87a21-d4c4-498b-8bc1-5dd78c895e9f.png" width="128" height="128" /> | Enamoured | c4d87a21-d4c4-498b-8bc1-5dd78c895e9f |
 | <img src="./images/13634fe0-ba1d-4db6-9fc4-c2af1c082f34.png" width="128" height="128" /> | Energetic Jumping | 13634fe0-ba1d-4db6-9fc4-c2af1c082f34 |
 | <img src="./images/c4a34f85-f0c4-b78b-1513-4726549361fa.png" width="128" height="128" /> | Energetic Rave | c4a34f85-f0c4-b78b-1513-4726549361fa |
@@ -252,3 +250,5 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/c1b25df4-88ab-c758-7df8-faffee9e832c.png" width="128" height="128" /> | Gangnam Style Dance | c1b25df4-88ab-c758-7df8-faffee9e832c |
 | <img src="./images/a72ea226-06ee-ad9c-1fd6-5d8543ce7b0c.png" width="128" height="128" /> | Gasp | a72ea226-06ee-ad9c-1fd6-5d8543ce7b0c |
 | <img src="./images/e0b54d13-6a1b-1871-04ca-9577d178ebaa.png" width="128" height="128" /> | Get It Off Me | e0b54d13-6a1b-1871-04ca-9577d178ebaa |
+| <img src="./images/a237e7cb-47da-710f-75b5-66818ae4fb01.png" width="128" height="128" /> | Get Over Here | a237e7cb-47da-710f-75b5-66818ae4fb01 |
+| <img src="./images/5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e.png" width="128" height="128" /> | Ghast Dancing | 5a5b2c0c-a924-4e13-a99b-4c12e3f02e1e |
