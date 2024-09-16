@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 964 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 972 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -42,6 +42,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/f3860b0e-fb05-5b8b-863b-ba7693afce11.png" width="128" height="128" /> | Anime Running | f3860b0e-fb05-5b8b-863b-ba7693afce11 |
 | <img src="./images/4699d33f-630a-ee9d-bda2-ca6a8fe4df5a.png" width="128" height="128" /> | Anime Slash | 4699d33f-630a-ee9d-bda2-ca6a8fe4df5a |
 | <img src="./images/ba52157f-4dd9-650a-a8f8-ab0fe5b66756.png" width="128" height="128" /> | Antigravity | ba52157f-4dd9-650a-a8f8-ab0fe5b66756 |
+| <img src="./images/531dc549-7c27-f3c2-7438-8af2f0c6deb9.png" width="128" height="128" /> | Arm Dance | 531dc549-7c27-f3c2-7438-8af2f0c6deb9 |
 | <img src="./images/c4aa9ca0-abcc-7d0c-01c7-76a7e4d4840e.png" width="128" height="128" /> | Arm swing | c4aa9ca0-abcc-7d0c-01c7-76a7e4d4840e |
 | <img src="./images/73cead3f-0c5a-42ce-dc8b-8f8dab394204.png" width="128" height="128" /> | Armadillo | 73cead3f-0c5a-42ce-dc8b-8f8dab394204 |
 | <img src="./images/f4ebe54a-fc1e-7f65-dc3e-68e51d2d7ca3.png" width="128" height="128" /> | Around the World | f4ebe54a-fc1e-7f65-dc3e-68e51d2d7ca3 |
@@ -134,6 +135,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/34a9df51-c283-b494-62ab-f77405829f30.png" width="128" height="128" /> | Check This! | 34a9df51-c283-b494-62ab-f77405829f30 |
 | <img src="./images/3d10a8c7-213c-4fbe-a208-a0f7990d5bbb.png" width="128" height="128" /> | Cheer Routine | 3d10a8c7-213c-4fbe-a208-a0f7990d5bbb |
 | <img src="./images/af8ce5e0-2a4a-7534-11ca-def5235eb814.png" width="128" height="128" /> | Cheer Routine | af8ce5e0-2a4a-7534-11ca-def5235eb814 |
+| <img src="./images/d244fd95-b089-381e-4e29-8c3538ffd902.png" width="128" height="128" /> | Cheerful Step | d244fd95-b089-381e-4e29-8c3538ffd902 |
 | <img src="./images/39d0af0b-0fe3-576e-d6bc-3840b65b6b4c.png" width="128" height="128" /> | Cheering | 39d0af0b-0fe3-576e-d6bc-3840b65b6b4c |
 | <img src="./images/9cb096e8-3220-af69-a311-4d7473866c84.png" width="128" height="128" /> | Cheerleading | 9cb096e8-3220-af69-a311-4d7473866c84 |
 | <img src="./images/d3c0dc87-f568-0aa3-9565-d30fcde8ef6a.png" width="128" height="128" /> | Cheerleading | d3c0dc87-f568-0aa3-9565-d30fcde8ef6a |
@@ -192,6 +194,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/f15ceb56-6651-41c0-8bd5-087951204d81.png" width="128" height="128" /> | Dancing Like Rapunzel | f15ceb56-6651-41c0-8bd5-087951204d81 |
 | <img src="./images/a12252fa-4ec8-42e0-a7d0-d44fbc90d753.png" width="128" height="128" /> | Dancing Like Toothless | a12252fa-4ec8-42e0-a7d0-d44fbc90d753 |
 | <img src="./images/0e1655a0-ebd9-a219-6464-25a927b114e9.png" width="128" height="128" /> | Dancing Like an Elf | 0e1655a0-ebd9-a219-6464-25a927b114e9 |
+| <img src="./images/89769ab0-06d0-4b0a-a076-7a5cc2059e3a.png" width="128" height="128" /> | Dancing With Friends | 89769ab0-06d0-4b0a-a076-7a5cc2059e3a |
 | <img src="./images/bd6d9bfd-fc82-1f3a-3479-837e9246fc8e.png" width="128" height="128" /> | Deep Thought | bd6d9bfd-fc82-1f3a-3479-837e9246fc8e |
 | <img src="./images/5a5df86b-727d-f884-305f-89a4c9738988.png" width="128" height="128" /> | Default Gamers Dance | 5a5df86b-727d-f884-305f-89a4c9738988 |
 | <img src="./images/28aa6563-36b8-0d81-c021-6acd1584378e.png" width="128" height="128" /> | Dip and Point | 28aa6563-36b8-0d81-c021-6acd1584378e |
@@ -262,6 +265,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/98b76df3-4839-3a24-1d9d-0c369fa36c97.png" width="128" height="128" /> | Fight Taunt | 98b76df3-4839-3a24-1d9d-0c369fa36c97 |
 | <img src="./images/91d79d4a-c998-4e32-bd36-f195e619a0d8.png" width="128" height="128" /> | Fighting Batman-style | 91d79d4a-c998-4e32-bd36-f195e619a0d8 |
 | <img src="./images/7494b32e-84ce-4daa-8278-2839e48a532e.png" width="128" height="128" /> | Figure Skating | 7494b32e-84ce-4daa-8278-2839e48a532e |
+| <img src="./images/5ad431f8-035a-8c6e-17c5-005d8caebb6b.png" width="128" height="128" /> | Fish Flop | 5ad431f8-035a-8c6e-17c5-005d8caebb6b |
 | <img src="./images/fef070e7-d689-0bb8-21bb-b3a7059f2172.png" width="128" height="128" /> | Fish mode | fef070e7-d689-0bb8-21bb-b3a7059f2172 |
 | <img src="./images/33a3e311-5be8-414e-972d-a0b2e27219bd.png" width="128" height="128" /> | Fishy Dancing | 33a3e311-5be8-414e-972d-a0b2e27219bd |
 | <img src="./images/1f80d0ed-14c5-ba67-ab1c-285dc917afa6.png" width="128" height="128" /> | Fitness Session | 1f80d0ed-14c5-ba67-ab1c-285dc917afa6 |
@@ -348,6 +352,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/a9a83f69-15a5-d1b7-b7e3-0ac317344e5d.png" width="128" height="128" /> | Great Handshake | a9a83f69-15a5-d1b7-b7e3-0ac317344e5d |
 | <img src="./images/44c0e5e7-40a5-46db-de1f-227881f185f1.png" width="128" height="128" /> | Grid Dance | 44c0e5e7-40a5-46db-de1f-227881f185f1 |
 | <img src="./images/41af2a82-2f46-83c6-7265-229d1a900847.png" width="128" height="128" /> | Griddy | 41af2a82-2f46-83c6-7265-229d1a900847 |
+| <img src="./images/653c913f-d72c-c340-d1e8-764ba4cd579d.png" width="128" height="128" /> | Griddy | 653c913f-d72c-c340-d1e8-764ba4cd579d |
 | <img src="./images/e5ef10b5-d864-9766-c1a0-81035923db4a.png" width="128" height="128" /> | Griddy | e5ef10b5-d864-9766-c1a0-81035923db4a |
 | <img src="./images/fbd5e155-1ed7-7aaf-7206-41c1b153b50b.png" width="128" height="128" /> | Griddy Dance | fbd5e155-1ed7-7aaf-7206-41c1b153b50b |
 | <img src="./images/8f8e4f2d-0b9f-098a-848e-2830a18ce33f.png" width="128" height="128" /> | Griddy Dance | 8f8e4f2d-0b9f-098a-848e-2830a18ce33f |
@@ -363,6 +368,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/70449eb0-0024-3c20-e646-85c6117229a4.png" width="128" height="128" /> | Hand Dance | 70449eb0-0024-3c20-e646-85c6117229a4 |
 | <img src="./images/10c9d263-e6fb-6ba7-f5a3-e8b147782d8b.png" width="128" height="128" /> | Hand Spin | 10c9d263-e6fb-6ba7-f5a3-e8b147782d8b |
 | <img src="./images/5dd129f9-cfc3-4fc1-b464-c66a03061545.png" width="128" height="128" /> | Hand Stand | 5dd129f9-cfc3-4fc1-b464-c66a03061545 |
+| <img src="./images/17f75331-8127-2ac6-282b-afc5b6653289.png" width="128" height="128" /> | Hand Stand | 17f75331-8127-2ac6-282b-afc5b6653289 |
 | <img src="./images/c617b468-52a7-03df-5268-62e24a32616c.png" width="128" height="128" /> | Hand stand | c617b468-52a7-03df-5268-62e24a32616c |
 | <img src="./images/2fcee439-e36d-75a5-0150-32d23050b7e9.png" width="128" height="128" /> | Hand walk | 2fcee439-e36d-75a5-0150-32d23050b7e9 |
 | <img src="./images/de3871ca-4a91-67e3-6922-4f5766e875db.png" width="128" height="128" /> | Handstand | de3871ca-4a91-67e3-6922-4f5766e875db |
@@ -588,6 +594,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/3ff30542-0f8a-91d8-9995-e31a0281f0b0.png" width="128" height="128" /> | Pondering | 3ff30542-0f8a-91d8-9995-e31a0281f0b0 |
 | <img src="./images/a3f0f8d2-71df-2f32-d1f8-ac29aaa9a732.png" width="128" height="128" /> | Pop Lock Dance | a3f0f8d2-71df-2f32-d1f8-ac29aaa9a732 |
 | <img src="./images/2b7b54f9-c2c2-a6d1-a6e4-4b011bda20af.png" width="128" height="128" /> | Pop-Up | 2b7b54f9-c2c2-a6d1-a6e4-4b011bda20af |
+| <img src="./images/ade7e4d9-d8c4-a369-ab18-dfd0094bc34a.png" width="128" height="128" /> | Portal Posing | ade7e4d9-d8c4-a369-ab18-dfd0094bc34a |
 | <img src="./images/7102c0f7-6113-44f5-b37c-4e94841b0e81.png" width="128" height="128" /> | Posing Like a Hero | 7102c0f7-6113-44f5-b37c-4e94841b0e81 |
 | <img src="./images/34259925-44dd-46f0-98e5-80ccebc086d0.png" width="128" height="128" /> | Pouting | 34259925-44dd-46f0-98e5-80ccebc086d0 |
 | <img src="./images/16eee3dd-8ca0-4a80-087e-64aa903e99ea.png" width="128" height="128" /> | Power Flip | 16eee3dd-8ca0-4a80-087e-64aa903e99ea |
@@ -901,6 +908,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/ece705e7-a58d-0c29-e319-3773a4689b42.png" width="128" height="128" /> | Wacky Wavy Dance | ece705e7-a58d-0c29-e319-3773a4689b42 |
 | <img src="./images/4ed7b497-52be-55b4-1db1-d58ce9f0157f.png" width="128" height="128" /> | Wacky waving tube man | 4ed7b497-52be-55b4-1db1-d58ce9f0157f |
 | <img src="./images/d3741459-e845-6896-f4f0-3e580912c01d.png" width="128" height="128" /> | Waiting | d3741459-e845-6896-f4f0-3e580912c01d |
+| <img src="./images/f7a09aa0-90ee-fd39-def5-ec9aa669fb0a.png" width="128" height="128" /> | Waiting | f7a09aa0-90ee-fd39-def5-ec9aa669fb0a |
 | <img src="./images/535db425-48d5-c253-92eb-49e72b36623c.png" width="128" height="128" /> | Waiting | 535db425-48d5-c253-92eb-49e72b36623c |
 | <img src="./images/1a2188a9-a882-3bcf-4c7d-33275b48987d.png" width="128" height="128" /> | Waiting Patiently | 1a2188a9-a882-3bcf-4c7d-33275b48987d |
 | <img src="./images/000a5981-82a9-a1a9-13d4-66b797d2b32a.png" width="128" height="128" /> | Walk Around | 000a5981-82a9-a1a9-13d4-66b797d2b32a |
