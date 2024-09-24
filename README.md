@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 972 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 976 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -49,6 +49,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/7804548a-79b1-0eb7-1d51-229339c033b7.png" width="128" height="128" /> | Around the world dance | 7804548a-79b1-0eb7-1d51-229339c033b7 |
 | <img src="./images/e35b7cb9-714e-92c6-9131-d777e9c0ebbe.png" width="128" height="128" /> | Ascending Glitch | e35b7cb9-714e-92c6-9131-d777e9c0ebbe |
 | <img src="./images/c63d95ad-cf5f-2216-b793-485824adde4d.png" width="128" height="128" /> | Ascension | c63d95ad-cf5f-2216-b793-485824adde4d |
+| <img src="./images/a4747be9-48d4-e203-d2cf-22bef1e47e10.png" width="128" height="128" /> | Autobot Conversion | a4747be9-48d4-e203-d2cf-22bef1e47e10 |
 | <img src="./images/1e137be8-8c5a-c880-e65e-8e98548d5b51.png" width="128" height="128" /> | Awesome Flip | 1e137be8-8c5a-c880-e65e-8e98548d5b51 |
 | <img src="./images/9ee11247-49a1-a816-2775-203727adc879.png" width="128" height="128" /> | Aye Aye Captain | 9ee11247-49a1-a816-2775-203727adc879 |
 | <img src="./images/b59bd4e3-7695-02b4-30d3-def25971f2bc.png" width="128" height="128" /> | Ayy Macarena | b59bd4e3-7695-02b4-30d3-def25971f2bc |
@@ -114,6 +115,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/40fbfc64-2cfb-edb7-69d8-66871c43053c.png" width="128" height="128" /> | Breakdown | 40fbfc64-2cfb-edb7-69d8-66871c43053c |
 | <img src="./images/f2ac4e22-1775-9d2e-f807-cff738499863.png" width="128" height="128" /> | Bridge | f2ac4e22-1775-9d2e-f807-cff738499863 |
 | <img src="./images/32a406ce-9df9-8925-da5c-34702f463051.png" width="128" height="128" /> | Bugged Dance | 32a406ce-9df9-8925-da5c-34702f463051 |
+| <img src="./images/3345ac0d-a0b1-3561-f121-cb0310290bf9.png" width="128" height="128" /> | Bumblebee Combo | 3345ac0d-a0b1-3561-f121-cb0310290bf9 |
 | <img src="./images/a1656439-c8a4-1aa5-fab8-1103dc792d3c.png" width="128" height="128" /> | Bursting with Joy | a1656439-c8a4-1aa5-fab8-1103dc792d3c |
 | <img src="./images/8fea740a-399d-ba05-c13a-847c88afff9f.png" width="128" height="128" /> | Butterfly | 8fea740a-399d-ba05-c13a-847c88afff9f |
 | <img src="./images/24dad7d2-2123-6993-c88b-4a37acb912dc.png" width="128" height="128" /> | Butterfly Twist | 24dad7d2-2123-6993-c88b-4a37acb912dc |
@@ -444,6 +446,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/25210ea3-2728-3fa5-8e89-53e80313c704.png" width="128" height="128" /> | Item Spin | 25210ea3-2728-3fa5-8e89-53e80313c704 |
 | <img src="./images/dffb6b28-0c12-260f-6625-46912448d2ca.png" width="128" height="128" /> | Its Time To Fly | dffb6b28-0c12-260f-6625-46912448d2ca |
 | <img src="./images/ce0fe70e-02d4-a7c2-928c-99030213e7a6.png" width="128" height="128" /> | Jaunty Jig | ce0fe70e-02d4-a7c2-928c-99030213e7a6 |
+| <img src="./images/773e55a0-0897-06e2-c80d-392fb0def159.png" width="128" height="128" /> | Jazz Combo | 773e55a0-0897-06e2-c80d-392fb0def159 |
 | <img src="./images/2c89e326-7528-cb6c-fcbe-0028045b5c4c.png" width="128" height="128" /> | Jet | 2c89e326-7528-cb6c-fcbe-0028045b5c4c |
 | <img src="./images/9b661084-6974-6f9d-7d18-dd485d910045.png" width="128" height="128" /> | Jet Pack Flying | 9b661084-6974-6f9d-7d18-dd485d910045 |
 | <img src="./images/de246188-63cd-43eb-8d3f-2f29a7486216.png" width="128" height="128" /> | Joy | de246188-63cd-43eb-8d3f-2f29a7486216 |
@@ -557,6 +560,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/b3b9b834-8c25-da7e-6dd6-164abe0c7cf0.png" width="128" height="128" /> | One-Arm Handstand | b3b9b834-8c25-da7e-6dd6-164abe0c7cf0 |
 | <img src="./images/06b192f8-7422-0676-1537-cfabe2758f20.png" width="128" height="128" /> | Ooo Big Stretch | 06b192f8-7422-0676-1537-cfabe2758f20 |
 | <img src="./images/547e5f6c-d445-49a9-b06e-6919b1f9e48e.png" width="128" height="128" /> | Opening Chakras | 547e5f6c-d445-49a9-b06e-6919b1f9e48e |
+| <img src="./images/58c03144-dbf1-cee4-84bf-97a0fb753f1c.png" width="128" height="128" /> | Optimus Prime Kick | 58c03144-dbf1-cee4-84bf-97a0fb753f1c |
 | <img src="./images/cf4f83da-87e7-e362-665a-578201548375.png" width="128" height="128" /> | Orange Dance | cf4f83da-87e7-e362-665a-578201548375 |
 | <img src="./images/842edb97-9393-6ce6-f02c-69743f0f64eb.png" width="128" height="128" /> | Orange Justice Emote | 842edb97-9393-6ce6-f02c-69743f0f64eb |
 | <img src="./images/65587973-a8c7-e24c-637c-63feebb35a71.png" width="128" height="128" /> | Outburst | 65587973-a8c7-e24c-637c-63feebb35a71 |

@@ -235,6 +235,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/10a5898c-49a2-43af-85ca-8f526f8ad3f1/ascension_thumbnail_0.png"
   },
   {
+    "uuid": "a4747be9-48d4-e203-d2cf-22bef1e47e10",
+    "title": "Autobot Conversion",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/74d9292d-2031-47db-9852-1a7440f5f44b/em_syclone_studios_roll_out_thumbnail_0.png"
+  },
+  {
     "uuid": "1e137be8-8c5a-c880-e65e-8e98548d5b51",
     "title": "Awesome Flip",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5e2de4fa-61d8-46c8-a7a1-0a1e05d462d8/em_awesome_flip_thumbnail_0.png"
@@ -558,6 +563,11 @@
     "uuid": "32a406ce-9df9-8925-da5c-34702f463051",
     "title": "Bugged Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/48a120a0-661d-4653-ba41-9e1cecbd0151/em_bugged_dance_thumbnail_0.png"
+  },
+  {
+    "uuid": "3345ac0d-a0b1-3561-f121-cb0310290bf9",
+    "title": "Bumblebee Combo",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9ee4662d-13fa-4df4-8563-2b7d649c4662/em_syclone_studios_optimus_combo_thumbnail_0.png"
   },
   {
     "uuid": "a1656439-c8a4-1aa5-fab8-1103dc792d3c",
@@ -2210,6 +2220,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/befd0524-e522-4a44-86a9-7afc88204a38/emote_thumbnail_0.png"
   },
   {
+    "uuid": "773e55a0-0897-06e2-c80d-392fb0def159",
+    "title": "Jazz Combo",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f9bf4003-4f18-43fa-9b47-a0f30909a585/em_syclone_studios_jazz_combo_thumbnail_0.png"
+  },
+  {
     "uuid": "2c89e326-7528-cb6c-fcbe-0028045b5c4c",
     "title": "Jet",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aebff76f-1a61-4357-9c86-34cda9311418/em_4ks_jet_thumbnail_0.png"
@@ -2773,6 +2788,11 @@
     "uuid": "547e5f6c-d445-49a9-b06e-6919b1f9e48e",
     "title": "Opening Chakras",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/662e6953-aaa5-43a7-9e07-d9097b21a01b/opening_chakras_thumbnail_0.png"
+  },
+  {
+    "uuid": "58c03144-dbf1-cee4-84bf-97a0fb753f1c",
+    "title": "Optimus Prime Kick",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b661ae74-898b-4d43-86f7-f8ab1c21c82e/em_optimus_kick_thumbnail_0.png"
   },
   {
     "uuid": "cf4f83da-87e7-e362-665a-578201548375",
