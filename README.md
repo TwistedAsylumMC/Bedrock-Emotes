@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 976 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 977 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -831,6 +831,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/c8474bab-3189-a03d-2bbf-ab280e9d3022.png" width="128" height="128" /> | Tantrum | c8474bab-3189-a03d-2bbf-ab280e9d3022 |
 | <img src="./images/27cf15b3-f24b-99c6-e41f-d148811a0e04.png" width="128" height="128" /> | Teleporting | 27cf15b3-f24b-99c6-e41f-d148811a0e04 |
 | <img src="./images/415ddb6e-0032-806a-1c7d-207247db36a9.png" width="128" height="128" /> | Terrified | 415ddb6e-0032-806a-1c7d-207247db36a9 |
+| <img src="./images/15b16e4d-f8a3-2dc4-9a5d-f9552136764a.png" width="128" height="128" /> | Terrified | 15b16e4d-f8a3-2dc4-9a5d-f9552136764a |
 | <img src="./images/ac674580-0265-ad54-8208-e3a560474143.png" width="128" height="128" /> | Tetris® Dance | ac674580-0265-ad54-8208-e3a560474143 |
 | <img src="./images/277c914d-f09e-b3f9-dc38-26434ea0d79b.png" width="128" height="128" /> | Textbook Faceplant | 277c914d-f09e-b3f9-dc38-26434ea0d79b |
 | <img src="./images/16489f0f-3219-aa2e-af88-cea0d4525144.png" width="128" height="128" /> | That's the word! | 16489f0f-3219-aa2e-af88-cea0d4525144 |
