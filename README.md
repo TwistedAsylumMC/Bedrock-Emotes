@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 977 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 980 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -388,6 +388,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/6545956a-f9f8-6fdf-3569-608ee37df971.png" width="128" height="128" /> | Headspin | 6545956a-f9f8-6fdf-3569-608ee37df971 |
 | <img src="./images/01989f13-cc9f-d0c9-c6ec-d81b2d97f603.png" width="128" height="128" /> | Headspin | 01989f13-cc9f-d0c9-c6ec-d81b2d97f603 |
 | <img src="./images/8c925ffb-a376-5a34-d9de-9e648fd3cc94.png" width="128" height="128" /> | Heart Emote | 8c925ffb-a376-5a34-d9de-9e648fd3cc94 |
+| <img src="./images/eda0b91e-2b63-a533-2e16-612e9e2e57d3.png" width="128" height="128" /> | Heihei Strut | eda0b91e-2b63-a533-2e16-612e9e2e57d3 |
 | <img src="./images/599420df-f690-c022-eac0-6b4538e8104d.png" width="128" height="128" /> | Helicopter | 599420df-f690-c022-eac0-6b4538e8104d |
 | <img src="./images/4b586b00-c18e-9734-4138-8da140958c04.png" width="128" height="128" /> | Helicopter | 4b586b00-c18e-9734-4138-8da140958c04 |
 | <img src="./images/8ec59f5b-0366-a066-57d2-94742e7a90b1.png" width="128" height="128" /> | Helicopter | 8ec59f5b-0366-a066-57d2-94742e7a90b1 |
@@ -552,6 +553,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/1c32d42a-df61-bad4-a47b-b5fb0a6b781e.png" width="128" height="128" /> | No no no | 1c32d42a-df61-bad4-a47b-b5fb0a6b781e |
 | <img src="./images/9307ceae-4556-17e5-d6a7-cd3671a3325d.png" width="128" height="128" /> | Novice Climber | 9307ceae-4556-17e5-d6a7-cd3671a3325d |
 | <img src="./images/942142a7-7640-423a-a5ca-ad1f740eb41a.png" width="128" height="128" /> | Numa Numa Meme | 942142a7-7640-423a-a5ca-ad1f740eb41a |
+| <img src="./images/295c948c-d651-45fb-84d5-8500a15b23c6.png" width="128" height="128" /> | Ocean Dance | 295c948c-d651-45fb-84d5-8500a15b23c6 |
 | <img src="./images/21e0054a-5bf4-468d-bfc4-fc4b49bd44ac.png" width="128" height="128" /> | Offer | 21e0054a-5bf4-468d-bfc4-fc4b49bd44ac |
 | <img src="./images/52969d45-6e3c-006c-62ac-cacb258e6cea.png" width="128" height="128" /> | Oh, No! | 52969d45-6e3c-006c-62ac-cacb258e6cea |
 | <img src="./images/fced8dcb-6818-f2c0-45c1-dd7b36641fef.png" width="128" height="128" /> | On Your Mark | fced8dcb-6818-f2c0-45c1-dd7b36641fef |
@@ -967,6 +969,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/fd0f4a49-cdf0-25a6-2bfe-eaa661240c26.png" width="128" height="128" /> | You Lose | fd0f4a49-cdf0-25a6-2bfe-eaa661240c26 |
 | <img src="./images/6e5a23ec-a694-b5a7-8634-eee5d57a2f34.png" width="128" height="128" /> | You Lost | 6e5a23ec-a694-b5a7-8634-eee5d57a2f34 |
 | <img src="./images/2033f5be-848b-99f5-9697-e0c6b0f81d34.png" width="128" height="128" /> | You're Welcome | 2033f5be-848b-99f5-9697-e0c6b0f81d34 |
+| <img src="./images/709d88c2-dde7-4831-97fc-9b4cb14fdeb3.png" width="128" height="128" /> | You're Welcome | 709d88c2-dde7-4831-97fc-9b4cb14fdeb3 |
 | <img src="./images/cd8026f6-f767-6659-a186-c65f81784521.png" width="128" height="128" /> | Zen Attitude | cd8026f6-f767-6659-a186-c65f81784521 |
 | <img src="./images/b5052ca5-fd22-e95a-37ad-992ba821ab62.png" width="128" height="128" /> | Zen Mode | b5052ca5-fd22-e95a-37ad-992ba821ab62 |
 | <img src="./images/36e36f79-09e2-ca54-a79f-bd318e97b4ff.png" width="128" height="128" /> | Zero Gravity | 36e36f79-09e2-ca54-a79f-bd318e97b4ff |

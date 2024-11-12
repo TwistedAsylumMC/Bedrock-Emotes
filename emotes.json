@@ -1930,6 +1930,11 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1b38d86d-6797-46eb-8896-fbd003fc7ea6/em_heart_emote_thumbnail_0.png"
   },
   {
+    "uuid": "eda0b91e-2b63-a533-2e16-612e9e2e57d3",
+    "title": "Heihei Strut",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9d50dcd1-d702-430f-a812-92203a84dcc6/em_heihei_strut_thumbnail_0.png"
+  },
+  {
     "uuid": "599420df-f690-c022-eac0-6b4538e8104d",
     "title": "Helicopter",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/41d0c82b-c456-42bc-a341-4f646b9a0a1a/em_horizonblocks_helicopter_thumbnail_0.png"
@@ -2748,6 +2753,11 @@
     "uuid": "942142a7-7640-423a-a5ca-ad1f740eb41a",
     "title": "Numa Numa Meme",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1b4daf20-be2e-4ae1-9d81-1f16149aa10e/em_emote_numa_numa_thumbnail_0.png"
+  },
+  {
+    "uuid": "295c948c-d651-45fb-84d5-8500a15b23c6",
+    "title": "Ocean Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/09f5ba9f-b271-4361-9a01-edb4298a9f37/em_ocean_dance_thumbnail_0.png"
   },
   {
     "uuid": "21e0054a-5bf4-468d-bfc4-fc4b49bd44ac",
@@ -4823,6 +4833,11 @@
     "uuid": "2033f5be-848b-99f5-9697-e0c6b0f81d34",
     "title": "You're Welcome",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7f8802d8-4754-418f-ab25-2e1a920041b1/em_you_are_welcome_thumbnail_0.png"
+  },
+  {
+    "uuid": "709d88c2-dde7-4831-97fc-9b4cb14fdeb3",
+    "title": "You're Welcome",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/561f2537-cc7a-49c1-a708-ba249840160e/em_youre_welcome_thumbnail_0.png"
   },
   {
     "uuid": "cd8026f6-f767-6659-a186-c65f81784521",
