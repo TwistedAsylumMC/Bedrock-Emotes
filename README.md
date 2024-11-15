@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 980 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 981 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -808,6 +808,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/f20de429-1b45-daf9-d22b-6a3d59955d57.png" width="128" height="128" /> | Surf's Up | f20de429-1b45-daf9-d22b-6a3d59955d57 |
 | <img src="./images/a27cbb8e-06da-dafb-8fde-35ea15d048a5.png" width="128" height="128" /> | Surfin' Bird Dance | a27cbb8e-06da-dafb-8fde-35ea15d048a5 |
 | <img src="./images/4b8ad72a-388b-3407-5c47-beffe1fcea15.png" width="128" height="128" /> | Surfing | 4b8ad72a-388b-3407-5c47-beffe1fcea15 |
+| <img src="./images/7d4d7ceb-6ea7-ed79-ccbe-85d064372b78.png" width="128" height="128" /> | Surprise | 7d4d7ceb-6ea7-ed79-ccbe-85d064372b78 |
 | <img src="./images/9f18b97c-0bc4-0291-678b-1fd18024290a.png" width="128" height="128" /> | Surprised | 9f18b97c-0bc4-0291-678b-1fd18024290a |
 | <img src="./images/daeaaa6f-db91-4461-8617-400c5d1b8646.png" width="128" height="128" /> | Surrendering | daeaaa6f-db91-4461-8617-400c5d1b8646 |
 | <img src="./images/12807615-314c-7958-88bc-c7393b1744b8.png" width="128" height="128" /> | Suspicious Potion | 12807615-314c-7958-88bc-c7393b1744b8 |
