@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 981 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 982 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -8,6 +8,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4e3413af-86a1-1ea6-6537-c50f4e332f94.png" width="128" height="128" /> | Acting Like Santa | 4e3413af-86a1-1ea6-6537-c50f4e332f94 |
 | <img src="./images/c2a47805-c792-4882-a56d-17c80b6c57a8.png" width="128" height="128" /> | Acting Like a Dragon | c2a47805-c792-4882-a56d-17c80b6c57a8 |
 | <img src="./images/2c2183c9-d8a2-aacd-9ad6-cdb260d7fc33.png" width="128" height="128" /> | Aggressive Pointing | 2c2183c9-d8a2-aacd-9ad6-cdb260d7fc33 |
+| <img src="./images/2645be4e-c691-5072-a583-cb2acf397abd.png" width="128" height="128" /> | Ahhhhh! | 2645be4e-c691-5072-a583-cb2acf397abd |
 | <img src="./images/2b01a3b6-a86f-dd83-6c53-1c2f89b9e18f.png" width="128" height="128" /> | Air Basketball | 2b01a3b6-a86f-dd83-6c53-1c2f89b9e18f |
 | <img src="./images/1a321afa-7087-e803-8513-6c79a50929d7.png" width="128" height="128" /> | Air Dive | 1a321afa-7087-e803-8513-6c79a50929d7 |
 | <img src="./images/e115b8af-b508-06c0-c4a9-fe540bf2fd5b.png" width="128" height="128" /> | Air Guitar | e115b8af-b508-06c0-c4a9-fe540bf2fd5b |
