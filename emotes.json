@@ -2670,6 +2670,11 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c279cea7-d295-41a8-b5ea-5cf314a29a52/jig_i_drop_thumbnail_0.png"
   },
   {
+    "uuid": "c3cbc0ce-8318-d087-aa5f-07038a735bd3",
+    "title": "I See You",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d7eb5aea-ed39-4f3f-b898-832c0fe5b1f9/em_i_see_you_thumbnail_0.png"
+  },
+  {
     "uuid": "fec9763a-5af6-6c58-5878-1843ced63d8f",
     "title": "I Surrender",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/88b0068c-38cd-4b3c-85d5-4506dcd03f58/em_surrender_squidgey_thumbnail_0.png"
@@ -3373,6 +3378,11 @@
     "uuid": "bcb113fd-1167-3ffa-ed80-17514fa4a71b",
     "title": "Mutant Roar",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/635495c1-3a32-46b1-8065-79963dd186b5/em_jig_mutant_roar_thumbnail_0.png"
+  },
+  {
+    "uuid": "07b248e0-1872-0f7e-e569-05db0bf3cd00",
+    "title": "Na'vi Crouch",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/aacae9ce-dc0b-494a-a884-489e18e51de1/em_gm1_crouch_thumbnail_0.png"
   },
   {
     "uuid": "1c6b8fb8-2890-42cb-aca3-f1441625b1ce",
@@ -4858,6 +4868,11 @@
     "uuid": "12cda254-ed05-d295-8020-a6dd695afbea",
     "title": "Stunned",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b084c00e-d296-4a24-a6e4-b7ec3c65aafb/stunned_thumbnail_0.png"
+  },
+  {
+    "uuid": "82fd6b58-b8b1-acba-870b-2dd16bb41435",
+    "title": "Successful Hunt!",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c696be78-0767-4194-83b0-0d814a9d6a85/em_successful_hunt_thumbnail_0.png"
   },
   {
     "uuid": "ace4d38b-c089-52f4-cc2f-2a979804f597",

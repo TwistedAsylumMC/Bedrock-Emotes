@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1205 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1208 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -536,6 +536,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/419272b3-cd1c-e4bc-b711-ac56e9eff24a.png" width="128" height="128" /> | Hype! | 419272b3-cd1c-e4bc-b711-ac56e9eff24a |
 | <img src="./images/2227fd15-1fd4-bf01-384c-dc5da6867b84.png" width="128" height="128" /> | Hyped | 2227fd15-1fd4-bf01-384c-dc5da6867b84 |
 | <img src="./images/87478e1d-07f8-7641-a6cb-db006625683b.png" width="128" height="128" /> | I Drop | 87478e1d-07f8-7641-a6cb-db006625683b |
+| <img src="./images/c3cbc0ce-8318-d087-aa5f-07038a735bd3.png" width="128" height="128" /> | I See You | c3cbc0ce-8318-d087-aa5f-07038a735bd3 |
 | <img src="./images/fec9763a-5af6-6c58-5878-1843ced63d8f.png" width="128" height="128" /> | I Surrender | fec9763a-5af6-6c58-5878-1843ced63d8f |
 | <img src="./images/4d7dba4e-eb94-54b5-fc43-bbc454bd8c0b.png" width="128" height="128" /> | I am Better | 4d7dba4e-eb94-54b5-fc43-bbc454bd8c0b |
 | <img src="./images/70b5d2b6-f70a-93a7-f8a3-323f38927abd.png" width="128" height="128" /> | I'm Sleeping | 70b5d2b6-f70a-93a7-f8a3-323f38927abd |
@@ -677,6 +678,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/c7ea8c03-3661-4db7-b8e2-2b3135c923ef.png" width="128" height="128" /> | Moonwalk | c7ea8c03-3661-4db7-b8e2-2b3135c923ef |
 | <img src="./images/d5bb612f-68db-3bf3-6aef-e5ae57a00256.png" width="128" height="128" /> | Moonwalk | d5bb612f-68db-3bf3-6aef-e5ae57a00256 |
 | <img src="./images/bcb113fd-1167-3ffa-ed80-17514fa4a71b.png" width="128" height="128" /> | Mutant Roar | bcb113fd-1167-3ffa-ed80-17514fa4a71b |
+| <img src="./images/07b248e0-1872-0f7e-e569-05db0bf3cd00.png" width="128" height="128" /> | Na'vi Crouch | 07b248e0-1872-0f7e-e569-05db0bf3cd00 |
 | <img src="./images/1c6b8fb8-2890-42cb-aca3-f1441625b1ce.png" width="128" height="128" /> | Napping | 1c6b8fb8-2890-42cb-aca3-f1441625b1ce |
 | <img src="./images/975f3227-0874-c60a-0e75-e4d43bb7cd75.png" width="128" height="128" /> | Naruto Run | 975f3227-0874-c60a-0e75-e4d43bb7cd75 |
 | <img src="./images/86a386e7-c422-f0ae-0268-736b2aca2226.png" width="128" height="128" /> | Neck Stretches | 86a386e7-c422-f0ae-0268-736b2aca2226 |
@@ -974,6 +976,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/58dada1b-99e0-a5f0-b1f7-40e9813bdf79.png" width="128" height="128" /> | Stuck in the celling | 58dada1b-99e0-a5f0-b1f7-40e9813bdf79 |
 | <img src="./images/d5cb4cf5-54e3-182b-2dec-677a9842069c.png" width="128" height="128" /> | Stunned | d5cb4cf5-54e3-182b-2dec-677a9842069c |
 | <img src="./images/12cda254-ed05-d295-8020-a6dd695afbea.png" width="128" height="128" /> | Stunned | 12cda254-ed05-d295-8020-a6dd695afbea |
+| <img src="./images/82fd6b58-b8b1-acba-870b-2dd16bb41435.png" width="128" height="128" /> | Successful Hunt! | 82fd6b58-b8b1-acba-870b-2dd16bb41435 |
 | <img src="./images/ace4d38b-c089-52f4-cc2f-2a979804f597.png" width="128" height="128" /> | Summer Dance | ace4d38b-c089-52f4-cc2f-2a979804f597 |
 | <img src="./images/4064135b-d605-4852-a188-54302c71754d.png" width="128" height="128" /> | Super Anime Run! | 4064135b-d605-4852-a188-54302c71754d |
 | <img src="./images/329665c9-ca9a-0ddb-dc5a-a3ef95ea1737.png" width="128" height="128" /> | Super Cute | 329665c9-ca9a-0ddb-dc5a-a3ef95ea1737 |
