@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1208 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1209 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -1040,6 +1040,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/ac674580-0265-ad54-8208-e3a560474143.png" width="128" height="128" /> | Tetris® Dance | ac674580-0265-ad54-8208-e3a560474143 |
 | <img src="./images/277c914d-f09e-b3f9-dc38-26434ea0d79b.png" width="128" height="128" /> | Textbook Faceplant | 277c914d-f09e-b3f9-dc38-26434ea0d79b |
 | <img src="./images/16489f0f-3219-aa2e-af88-cea0d4525144.png" width="128" height="128" /> | That's the word! | 16489f0f-3219-aa2e-af88-cea0d4525144 |
+| <img src="./images/1057bcb1-91ff-cf22-085f-5858498d994e.png" width="128" height="128" /> | The Creak | 1057bcb1-91ff-cf22-085f-5858498d994e |
 | <img src="./images/9dc76bac-f94e-76ca-c7f6-ef096246195b.png" width="128" height="128" /> | The Creep | 9dc76bac-f94e-76ca-c7f6-ef096246195b |
 | <img src="./images/97f14f9f-fb0d-f394-4fba-072a33947c45.png" width="128" height="128" /> | The Dab Dance | 97f14f9f-fb0d-f394-4fba-072a33947c45 |
 | <img src="./images/7d9ac564-aa1b-91ae-d94f-594ace61553b.png" width="128" height="128" /> | The Dip | 7d9ac564-aa1b-91ae-d94f-594ace61553b |
