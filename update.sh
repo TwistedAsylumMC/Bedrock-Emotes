@@ -49,7 +49,7 @@ fetch_items() {
       \"top\": $count
     }")
     
-    ITEMS+=$(echo $ITEMRESULT | jq -r '[.data.Items[] | {uuid: .DisplayProperties.packIdentity[0].uuid, title: .Title.neutral, image: .Images[0].Url}]')
+    ITEMS+=$(echo $ITEMRESULT | jq -r '[.data.Items[] | {uuid: .DisplayProperties.packIdentity[0].uuid, title: .Title.neutral, image: .Images[0].Url, rarity: .DisplayProperties.rarity, keywords: .Keywords.neutral.Values}]')
     ITEMS+=","
     
     if [ $TOTALCOUNT -eq 1 ]; then
@@ -65,6 +65,10 @@ while [ $SKIP -lt $TOTALCOUNT ]; do
 done
 
 echo "[${ITEMS::-1}]" | jq -r '[.[] | .[]]' > emotes.json
+cat emotes.json | jq -r '{
+  keywords: [.[] | .keywords | select(. != null) | .[]] | unique,
+  rarities: [.[] | .rarity] | unique
+}' > metadata.json
 
 echo "# Bedrock Emotes" > README.md
 echo "This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently $(echo $TOTALCOUNT) emotes on the Marketplace." >> README.md
