@@ -281,6 +281,13 @@
     ]
   },
   {
+    "uuid": "89539297-3a49-dae3-894e-9731b7ddaf4e",
+    "title": "Amy's Hammer Smash",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b295cf3c-aa4a-4ed4-9d3c-2900aeee2775/em_amy_hammer_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "07f49bd8-aff9-eae3-7735-6e14dc4836ba",
     "title": "Anger",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fdb24ac8-5ec9-46be-8090-d76663ae3fea/anger_thumbnail_0.png",
@@ -6404,6 +6411,13 @@
     ]
   },
   {
+    "uuid": "66145f06-5979-a9ac-7b49-fe7199c8992a",
+    "title": "Knuckles' Glide",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/14871e9e-cb77-49b1-ba6a-88ac22353b27/em_knuckles_glide_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "87ffab6a-3e1d-7e29-88ed-9106f1d3b34a",
     "title": "L Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cb34dc6f-6b5b-4e09-9a71-d2ce7f98eed7/l_dance_emote_thumbnail_0.png",
@@ -8753,6 +8767,13 @@
     "uuid": "42fde774-37d4-4422-b374-89ff13a6535a",
     "title": "Shadow Boxing",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e0a40ca9-4142-489c-84a7-402bc01508d0/woodpunch_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
+    "uuid": "36b2368b-b55c-e9ce-2667-4ea5dcac05de",
+    "title": "Shadow's Skating",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7aa78774-6b45-42db-b0d6-eaded32fbb5a/em_shadow_skate_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },

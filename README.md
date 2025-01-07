@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1209 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1212 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -26,6 +26,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/009f3f8d-0937-b9f3-6577-9bc1c8b53889.png" width="128" height="128" /> | Airplane | 009f3f8d-0937-b9f3-6577-9bc1c8b53889 |
 | <img src="./images/c08c6523-0915-95af-e718-ecbfeba55472.png" width="128" height="128" /> | Almost Fell | c08c6523-0915-95af-e718-ecbfeba55472 |
 | <img src="./images/a43b566a-77da-2b2b-e016-e2e82393041e.png" width="128" height="128" /> | Alphabet A | a43b566a-77da-2b2b-e016-e2e82393041e |
+| <img src="./images/89539297-3a49-dae3-894e-9731b7ddaf4e.png" width="128" height="128" /> | Amy's Hammer Smash | 89539297-3a49-dae3-894e-9731b7ddaf4e |
 | <img src="./images/07f49bd8-aff9-eae3-7735-6e14dc4836ba.png" width="128" height="128" /> | Anger | 07f49bd8-aff9-eae3-7735-6e14dc4836ba |
 | <img src="./images/a0b1a9f2-0ea4-48d0-8641-ada998beee4d.png" width="128" height="128" /> | Anger Management | a0b1a9f2-0ea4-48d0-8641-ada998beee4d |
 | <img src="./images/a92a58d8-8a86-61bb-3d59-4ad944252949.png" width="128" height="128" /> | Anime Dance | a92a58d8-8a86-61bb-3d59-4ad944252949 |
@@ -609,6 +610,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/8d39e0a2-2f3a-2bc9-efb7-56edc2404060.png" width="128" height="128" /> | Knock-Out | 8d39e0a2-2f3a-2bc9-efb7-56edc2404060 |
 | <img src="./images/a631f0cb-6f18-c338-8f41-a94f32b8c598.png" width="128" height="128" /> | Knock-Out | a631f0cb-6f18-c338-8f41-a94f32b8c598 |
 | <img src="./images/1426dd13-079f-a746-becf-5924e17fb63d.png" width="128" height="128" /> | Knocked Out | 1426dd13-079f-a746-becf-5924e17fb63d |
+| <img src="./images/66145f06-5979-a9ac-7b49-fe7199c8992a.png" width="128" height="128" /> | Knuckles' Glide | 66145f06-5979-a9ac-7b49-fe7199c8992a |
 | <img src="./images/87ffab6a-3e1d-7e29-88ed-9106f1d3b34a.png" width="128" height="128" /> | L Dance | 87ffab6a-3e1d-7e29-88ed-9106f1d3b34a |
 | <img src="./images/effd638f-f3c8-59f3-4e80-1e2bd3a79ad0.png" width="128" height="128" /> | L Dance | effd638f-f3c8-59f3-4e80-1e2bd3a79ad0 |
 | <img src="./images/29d48236-7347-4671-5b79-9b2768cc3407.png" width="128" height="128" /> | L Dance | 29d48236-7347-4671-5b79-9b2768cc3407 |
@@ -847,6 +849,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/be2fac28-b980-4ef2-9274-326559601af0.png" width="128" height="128" /> | Secure The W | be2fac28-b980-4ef2-9274-326559601af0 |
 | <img src="./images/f583825c-682c-1821-485e-16900899f928.png" width="128" height="128" /> | Sewer Dance | f583825c-682c-1821-485e-16900899f928 |
 | <img src="./images/42fde774-37d4-4422-b374-89ff13a6535a.png" width="128" height="128" /> | Shadow Boxing | 42fde774-37d4-4422-b374-89ff13a6535a |
+| <img src="./images/36b2368b-b55c-e9ce-2667-4ea5dcac05de.png" width="128" height="128" /> | Shadow's Skating | 36b2368b-b55c-e9ce-2667-4ea5dcac05de |
 | <img src="./images/8fffc6d4-f69f-d94f-1334-7c27153fdf04.png" width="128" height="128" /> | Shake | 8fffc6d4-f69f-d94f-1334-7c27153fdf04 |
 | <img src="./images/7e0d851f-9a86-4d4b-9b8b-31fc18d1b23b.png" width="128" height="128" /> | Shake Dance | 7e0d851f-9a86-4d4b-9b8b-31fc18d1b23b |
 | <img src="./images/5852abca-45b2-3361-08a6-337e8a054f9c.png" width="128" height="128" /> | Shake it | 5852abca-45b2-3361-08a6-337e8a054f9c |
