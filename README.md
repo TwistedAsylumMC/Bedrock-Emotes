@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1212 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1214 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -546,6 +546,8 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e9ab2d64-615e-7067-1495-c6beb9fa410d.png" width="128" height="128" /> | Ice Dance | e9ab2d64-615e-7067-1495-c6beb9fa410d |
 | <img src="./images/ed6c9b79-9b19-4d18-aa7d-1b37f13109d7.png" width="128" height="128" /> | Ice Skating | ed6c9b79-9b19-4d18-aa7d-1b37f13109d7 |
 | <img src="./images/41dae449-ee61-1908-a681-1869ada47706.png" width="128" height="128" /> | Iconic Dance | 41dae449-ee61-1908-a681-1869ada47706 |
+| <img src="./images/238c8de3-766a-a419-a3dc-c23063ce680e.png" width="128" height="128" /> | Idaho emote 1 | 238c8de3-766a-a419-a3dc-c23063ce680e |
+| <img src="./images/5bf11df3-97a9-e4aa-2276-291b92e7c012.png" width="128" height="128" /> | Idaho emote 2 | 5bf11df3-97a9-e4aa-2276-291b92e7c012 |
 | <img src="./images/132153ae-66fb-d586-9e0f-71fb8369df9e.png" width="128" height="128" /> | Im Levitating | 132153ae-66fb-d586-9e0f-71fb8369df9e |
 | <img src="./images/34ad2ad5-44ba-2876-b3e2-9474221a04a4.png" width="128" height="128" /> | In Awe | 34ad2ad5-44ba-2876-b3e2-9474221a04a4 |
 | <img src="./images/892fa7e4-24e6-997e-8297-88b84e0cfa88.png" width="128" height="128" /> | Infinite Dab | 892fa7e4-24e6-997e-8297-88b84e0cfa88 |
