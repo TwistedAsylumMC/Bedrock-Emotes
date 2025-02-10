@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1214 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1215 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -448,6 +448,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/a9a83f69-15a5-d1b7-b7e3-0ac317344e5d.png" width="128" height="128" /> | Great Handshake | a9a83f69-15a5-d1b7-b7e3-0ac317344e5d |
 | <img src="./images/44c0e5e7-40a5-46db-de1f-227881f185f1.png" width="128" height="128" /> | Grid Dance | 44c0e5e7-40a5-46db-de1f-227881f185f1 |
 | <img src="./images/41af2a82-2f46-83c6-7265-229d1a900847.png" width="128" height="128" /> | Griddy | 41af2a82-2f46-83c6-7265-229d1a900847 |
+| <img src="./images/f987cf41-070c-1c9a-b8c0-dc7c39d213ac.png" width="128" height="128" /> | Griddy | f987cf41-070c-1c9a-b8c0-dc7c39d213ac |
 | <img src="./images/653c913f-d72c-c340-d1e8-764ba4cd579d.png" width="128" height="128" /> | Griddy | 653c913f-d72c-c340-d1e8-764ba4cd579d |
 | <img src="./images/e5ef10b5-d864-9766-c1a0-81035923db4a.png" width="128" height="128" /> | Griddy | e5ef10b5-d864-9766-c1a0-81035923db4a |
 | <img src="./images/2b6060f2-b794-e9ac-aa99-6efcc301d90d.png" width="128" height="128" /> | Griddy | 2b6060f2-b794-e9ac-aa99-6efcc301d90d |
