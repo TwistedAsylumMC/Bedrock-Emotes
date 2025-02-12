@@ -4061,6 +4061,22 @@
     "keywords": null
   },
   {
+    "uuid": "edfa45b2-39b0-dd31-afd6-b148a4b5af4f",
+    "title": "Flying Faceplant",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/26cfe8a4-bdd0-4699-83e5-ef8591a1dd01/em_xp_flyingfaceplant_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Funny",
+      "Cool",
+      "Animation",
+      "Fly",
+      "Comedy",
+      "Emoji",
+      "Trendy",
+      "Dance"
+    ]
+  },
+  {
     "uuid": "7fed3efa-797a-7939-5da9-df5a0ff62e5d",
     "title": "Flying Helicopter",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9f752658-28dc-4662-8543-604ba4e3646c/em_flying_helicopter_thumbnail_0.png",
@@ -9828,6 +9844,22 @@
       "Animated",
       "Cool",
       "Epic"
+    ]
+  },
+  {
+    "uuid": "30bd3f62-64c1-b89c-7601-da25798f3cc4",
+    "title": "Spidey Flip",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7dca1539-210b-4ba4-943f-e6a24a85f0c6/em_spideyflip_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animated",
+      "Cool",
+      "Friends",
+      "Fun",
+      "Funny",
+      "Superhero",
+      "Trendy",
+      "Animation"
     ]
   },
   {

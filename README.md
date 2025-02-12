@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1215 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1217 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -383,6 +383,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/535b5f46-e58b-a53c-1f83-f75077684b6c.png" width="128" height="128" /> | Flying | 535b5f46-e58b-a53c-1f83-f75077684b6c |
 | <img src="./images/bc1ffa2e-687c-45ad-b9e6-cf303c770537.png" width="128" height="128" /> | Flying | bc1ffa2e-687c-45ad-b9e6-cf303c770537 |
 | <img src="./images/884f2cdf-0191-d300-b651-cc148a21f7e6.png" width="128" height="128" /> | Flying Chicken | 884f2cdf-0191-d300-b651-cc148a21f7e6 |
+| <img src="./images/edfa45b2-39b0-dd31-afd6-b148a4b5af4f.png" width="128" height="128" /> | Flying Faceplant | edfa45b2-39b0-dd31-afd6-b148a4b5af4f |
 | <img src="./images/7fed3efa-797a-7939-5da9-df5a0ff62e5d.png" width="128" height="128" /> | Flying Helicopter | 7fed3efa-797a-7939-5da9-df5a0ff62e5d |
 | <img src="./images/9e9f9ca4-345a-3bd9-7ed7-de53f826dfd2.png" width="128" height="128" /> | Flying Hero | 9e9f9ca4-345a-3bd9-7ed7-de53f826dfd2 |
 | <img src="./images/949c4f24-6aa6-4f2a-bad5-1b3de7e12749.png" width="128" height="128" /> | Flying Like Peter Pan | 949c4f24-6aa6-4f2a-bad5-1b3de7e12749 |
@@ -945,6 +946,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/764e0885-e4f8-4357-b95e-30fdac27a54d.png" width="128" height="128" /> | Spider Crawl | 764e0885-e4f8-4357-b95e-30fdac27a54d |
 | <img src="./images/ba328f8d-7b22-b04e-bdac-6660d3dacc81.png" width="128" height="128" /> | Spider Flip | ba328f8d-7b22-b04e-bdac-6660d3dacc81 |
 | <img src="./images/6fef6029-fd35-d537-317e-0e687c2d8815.png" width="128" height="128" /> | Spider Sitting | 6fef6029-fd35-d537-317e-0e687c2d8815 |
+| <img src="./images/30bd3f62-64c1-b89c-7601-da25798f3cc4.png" width="128" height="128" /> | Spidey Flip | 30bd3f62-64c1-b89c-7601-da25798f3cc4 |
 | <img src="./images/a43368fe-8bc7-e9cf-ce84-ed091577fe57.png" width="128" height="128" /> | Spin Fail | a43368fe-8bc7-e9cf-ce84-ed091577fe57 |
 | <img src="./images/2a9abfc3-4662-48eb-60d5-145d0540c4f1.png" width="128" height="128" /> | Spinner | 2a9abfc3-4662-48eb-60d5-145d0540c4f1 |
 | <img src="./images/c5ea5554-b6fd-eec2-8474-4d53cc990814.png" width="128" height="128" /> | Spinning | c5ea5554-b6fd-eec2-8474-4d53cc990814 |
