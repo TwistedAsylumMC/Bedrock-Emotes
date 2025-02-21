@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1217 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1218 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/97bf992c-a10d-45d1-a730-219d5614822f.png" width="128" height="128" /> | 8bit Glitch Dance | 97bf992c-a10d-45d1-a730-219d5614822f |
@@ -627,6 +627,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/21be5810-49ee-e475-c2e9-24de85f4dc31.png" width="128" height="128" /> | LOL | 21be5810-49ee-e475-c2e9-24de85f4dc31 |
 | <img src="./images/ae22f0c0-5aca-db12-c28c-e871bfeee589.png" width="128" height="128" /> | LOL | ae22f0c0-5aca-db12-c28c-e871bfeee589 |
 | <img src="./images/48ffb6a9-9fb3-3bcb-01ad-7951bdf4e80b.png" width="128" height="128" /> | LOL | 48ffb6a9-9fb3-3bcb-01ad-7951bdf4e80b |
+| <img src="./images/a0db0cc0-bc44-03db-d64f-03c397da3a63.png" width="128" height="128" /> | Lagging Out | a0db0cc0-bc44-03db-d64f-03c397da3a63 |
 | <img src="./images/297a8c6f-661a-c292-bd0b-7ba1c1a3d4c6.png" width="128" height="128" /> | Laugh It Up | 297a8c6f-661a-c292-bd0b-7ba1c1a3d4c6 |
 | <img src="./images/4c069001-156e-6fc4-d2e6-dfbe131baa1e.png" width="128" height="128" /> | Laugh! | 4c069001-156e-6fc4-d2e6-dfbe131baa1e |
 | <img src="./images/cc20ffdf-d48f-85cf-1138-492d13e8d464.png" width="128" height="128" /> | Laughing | cc20ffdf-d48f-85cf-1138-492d13e8d464 |
