@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1384 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1385 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/1db795d3-ce37-e023-f101-90d37f25ca3a.png" width="128" height="128" /> | 8-Bit Shuffle | 1db795d3-ce37-e023-f101-90d37f25ca3a |
@@ -172,6 +172,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/f3d7fe12-6f7d-2c61-48fe-1673b89cb59e.png" width="128" height="128" /> | Buzz Off | f3d7fe12-6f7d-2c61-48fe-1673b89cb59e |
 | <img src="./images/f68c433b-70ca-c41c-5548-b5abd167c040.png" width="128" height="128" /> | Bye Bye Bye | f68c433b-70ca-c41c-5548-b5abd167c040 |
 | <img src="./images/5b025702-94a7-e151-6902-0bb3ae15f1cd.png" width="128" height="128" /> | Bye bye bye | 5b025702-94a7-e151-6902-0bb3ae15f1cd |
+| <img src="./images/5df6377e-6327-c5f1-e5eb-a053ef6ed498.png" width="128" height="128" /> | C Emote | 5df6377e-6327-c5f1-e5eb-a053ef6ed498 |
 | <img src="./images/405d0578-4ad0-1108-3a55-89520739fa8c.png" width="128" height="128" /> | Calculated | 405d0578-4ad0-1108-3a55-89520739fa8c |
 | <img src="./images/9f5d4732-0513-4a0a-8ea2-b6b8d7587e74.png" width="128" height="128" /> | Calling a Dragon | 9f5d4732-0513-4a0a-8ea2-b6b8d7587e74 |
 | <img src="./images/308f742d-ff45-d537-9368-1afe54b88577.png" width="128" height="128" /> | Can't See Me | 308f742d-ff45-d537-9368-1afe54b88577 |

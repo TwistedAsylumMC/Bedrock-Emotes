@@ -1826,6 +1826,13 @@
     ]
   },
   {
+    "uuid": "5df6377e-6327-c5f1-e5eb-a053ef6ed498",
+    "title": "C Emote",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/30884b89-7ebc-4712-9610-4ed22c44fcd3/emote_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "405d0578-4ad0-1108-3a55-89520739fa8c",
     "title": "Calculated",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4b670ebe-c88e-4ca5-a88d-a7b86e6141c4/calculated_emote_thumbnail_0.png",
