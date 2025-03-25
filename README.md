@@ -105,6 +105,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/47362e9d-a1a6-6877-2aaa-245f783caf07.png" width="128" height="128" /> | Bark Bark | 47362e9d-a1a6-6877-2aaa-245f783caf07 |
 | <img src="./images/e267f2b5-f4db-4850-8ff0-4b3696d92336.png" width="128" height="128" /> | Basketball | e267f2b5-f4db-4850-8ff0-4b3696d92336 |
 | <img src="./images/bb5baae6-1694-42c0-9cc8-6ff4bb5503c6.png" width="128" height="128" /> | Batman Landing | bb5baae6-1694-42c0-9cc8-6ff4bb5503c6 |
+| <img src="./images/5bf11df3-97a9-e4aa-2276-291b92e7c012.png" width="128" height="128" /> | Battle Cry | 5bf11df3-97a9-e4aa-2276-291b92e7c012 |
 | <img src="./images/07cc3814-a2e3-47ae-cee1-1e68aad35817.png" width="128" height="128" /> | Battle Dance | 07cc3814-a2e3-47ae-cee1-1e68aad35817 |
 | <img src="./images/f8a5f2ad-7fac-195f-e8fe-8c0fcb31d18a.png" width="128" height="128" /> | Be a NINJA! | f8a5f2ad-7fac-195f-e8fe-8c0fcb31d18a |
 | <img src="./images/5a3db893-db64-b23a-5d36-6ba42855cddd.png" width="128" height="128" /> | Be a Superhero! | 5a3db893-db64-b23a-5d36-6ba42855cddd |
@@ -626,8 +627,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e9ab2d64-615e-7067-1495-c6beb9fa410d.png" width="128" height="128" /> | Ice Dance | e9ab2d64-615e-7067-1495-c6beb9fa410d |
 | <img src="./images/ed6c9b79-9b19-4d18-aa7d-1b37f13109d7.png" width="128" height="128" /> | Ice Skating | ed6c9b79-9b19-4d18-aa7d-1b37f13109d7 |
 | <img src="./images/41dae449-ee61-1908-a681-1869ada47706.png" width="128" height="128" /> | Iconic Dance | 41dae449-ee61-1908-a681-1869ada47706 |
-| <img src="./images/238c8de3-766a-a419-a3dc-c23063ce680e.png" width="128" height="128" /> | Idaho emote 1 | 238c8de3-766a-a419-a3dc-c23063ce680e |
-| <img src="./images/5bf11df3-97a9-e4aa-2276-291b92e7c012.png" width="128" height="128" /> | Idaho emote 2 | 5bf11df3-97a9-e4aa-2276-291b92e7c012 |
 | <img src="./images/132153ae-66fb-d586-9e0f-71fb8369df9e.png" width="128" height="128" /> | Im Levitating | 132153ae-66fb-d586-9e0f-71fb8369df9e |
 | <img src="./images/34ad2ad5-44ba-2876-b3e2-9474221a04a4.png" width="128" height="128" /> | In Awe | 34ad2ad5-44ba-2876-b3e2-9474221a04a4 |
 | <img src="./images/892fa7e4-24e6-997e-8297-88b84e0cfa88.png" width="128" height="128" /> | Infinite Dab | 892fa7e4-24e6-997e-8297-88b84e0cfa88 |
@@ -683,6 +682,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/c4b85459-d763-46ba-ba3d-cc01a3c23a4e.png" width="128" height="128" /> | Just Griddy | c4b85459-d763-46ba-ba3d-cc01a3c23a4e |
 | <img src="./images/95207bbe-0824-4c76-b7b1-e11e9aa860a5.png" width="128" height="128" /> | K-Pop Dance | 95207bbe-0824-4c76-b7b1-e11e9aa860a5 |
 | <img src="./images/35ef5920-a8c5-e502-2a5a-b8a8f4a44770.png" width="128" height="128" /> | K-Pop Style | 35ef5920-a8c5-e502-2a5a-b8a8f4a44770 |
+| <img src="./images/238c8de3-766a-a419-a3dc-c23063ce680e.png" width="128" height="128" /> | Kadoosh! | 238c8de3-766a-a419-a3dc-c23063ce680e |
 | <img src="./images/f29ed70d-d8f0-00d7-45a5-c6857e44ba23.png" width="128" height="128" /> | Kamehameha | f29ed70d-d8f0-00d7-45a5-c6857e44ba23 |
 | <img src="./images/4108684b-7081-98d7-ba67-db688588c19a.png" width="128" height="128" /> | Kamehameha | 4108684b-7081-98d7-ba67-db688588c19a |
 | <img src="./images/880e4a06-f26e-638f-24de-7f34e1b1e5dd.png" width="128" height="128" /> | Kangaroo Dance | 880e4a06-f26e-638f-24de-7f34e1b1e5dd |

@@ -1136,6 +1136,13 @@
     "keywords": null
   },
   {
+    "uuid": "5bf11df3-97a9-e4aa-2276-291b92e7c012",
+    "title": "Battle Cry",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3fd829ce-cf52-4338-a064-2b5c347023a8/em_spark_battle_cry_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "07cc3814-a2e3-47ae-cee1-1e68aad35817",
     "title": "Battle Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/62fe90b4-e41e-454f-82fa-5affaed54b54/em_sqst_battledance_thumbnail_0.png",
@@ -6588,20 +6595,6 @@
     ]
   },
   {
-    "uuid": "238c8de3-766a-a419-a3dc-c23063ce680e",
-    "title": "Idaho emote 1",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ffefe9b8-f559-45d1-a043-34f5abebec30/em_idaho_emote_1_thumbnail_0.png",
-    "rarity": "rare",
-    "keywords": null
-  },
-  {
-    "uuid": "5bf11df3-97a9-e4aa-2276-291b92e7c012",
-    "title": "Idaho emote 2",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/df897416-0708-4d45-bc25-16417c9f5420/em_idaho_emote_2_thumbnail_0.png",
-    "rarity": "rare",
-    "keywords": null
-  },
-  {
     "uuid": "132153ae-66fb-d586-9e0f-71fb8369df9e",
     "title": "Im Levitating",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/86a05a2b-f70f-42ea-a3ac-f8636e42fef8/em_bxb_im_levitating_thumbnail_0.png",
@@ -7150,6 +7143,13 @@
       "Funny",
       "Trendy"
     ]
+  },
+  {
+    "uuid": "238c8de3-766a-a419-a3dc-c23063ce680e",
+    "title": "Kadoosh!",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cd2695fa-40e9-43ce-91d1-4f5092360172/em_kadoosh_emote_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "f29ed70d-d8f0-00d7-45a5-c6857e44ba23",
