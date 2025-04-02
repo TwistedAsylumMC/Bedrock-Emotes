@@ -147,6 +147,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/ea25b3dc-9749-5e79-ae9c-2e929100721e.png" width="128" height="128" /> | Bouncy Sidejumps | ea25b3dc-9749-5e79-ae9c-2e929100721e |
 | <img src="./images/0b524099-7a5b-8cc8-f600-e9ff776b842a.png" width="128" height="128" /> | Bow | 0b524099-7a5b-8cc8-f600-e9ff776b842a |
 | <img src="./images/ddfa6f0e-88ca-46de-b189-2bd5b18e96a0.png" width="128" height="128" /> | Bow | ddfa6f0e-88ca-46de-b189-2bd5b18e96a0 |
+| <img src="./images/5df6377e-6327-c5f1-e5eb-a053ef6ed498.png" width="128" height="128" /> | Bowing | 5df6377e-6327-c5f1-e5eb-a053ef6ed498 |
 | <img src="./images/31e76724-b95a-0c49-c2e7-3f6f903836de.png" width="128" height="128" /> | Break Dance | 31e76724-b95a-0c49-c2e7-3f6f903836de |
 | <img src="./images/852cf616-7700-fd7d-1d64-d56afa707979.png" width="128" height="128" /> | Break Dance | 852cf616-7700-fd7d-1d64-d56afa707979 |
 | <img src="./images/b6e9822c-68d0-d7da-fe5a-92871092fdbc.png" width="128" height="128" /> | Break Dance | b6e9822c-68d0-d7da-fe5a-92871092fdbc |
@@ -173,7 +174,6 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/f3d7fe12-6f7d-2c61-48fe-1673b89cb59e.png" width="128" height="128" /> | Buzz Off | f3d7fe12-6f7d-2c61-48fe-1673b89cb59e |
 | <img src="./images/f68c433b-70ca-c41c-5548-b5abd167c040.png" width="128" height="128" /> | Bye Bye Bye | f68c433b-70ca-c41c-5548-b5abd167c040 |
 | <img src="./images/5b025702-94a7-e151-6902-0bb3ae15f1cd.png" width="128" height="128" /> | Bye bye bye | 5b025702-94a7-e151-6902-0bb3ae15f1cd |
-| <img src="./images/5df6377e-6327-c5f1-e5eb-a053ef6ed498.png" width="128" height="128" /> | C Emote | 5df6377e-6327-c5f1-e5eb-a053ef6ed498 |
 | <img src="./images/405d0578-4ad0-1108-3a55-89520739fa8c.png" width="128" height="128" /> | Calculated | 405d0578-4ad0-1108-3a55-89520739fa8c |
 | <img src="./images/9f5d4732-0513-4a0a-8ea2-b6b8d7587e74.png" width="128" height="128" /> | Calling a Dragon | 9f5d4732-0513-4a0a-8ea2-b6b8d7587e74 |
 | <img src="./images/308f742d-ff45-d537-9368-1afe54b88577.png" width="128" height="128" /> | Can't See Me | 308f742d-ff45-d537-9368-1afe54b88577 |

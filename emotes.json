@@ -1572,6 +1572,13 @@
     ]
   },
   {
+    "uuid": "5df6377e-6327-c5f1-e5eb-a053ef6ed498",
+    "title": "Bowing",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/08b0be68-0150-4530-9083-ef0c67c4eba9/emote_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "31e76724-b95a-0c49-c2e7-3f6f903836de",
     "title": "Break Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/57a42f38-eaff-441a-9981-9b3b81f9068c/em_break_dance_thumbnail_0.png",
@@ -1831,13 +1838,6 @@
       "Emoji",
       "Advanced"
     ]
-  },
-  {
-    "uuid": "5df6377e-6327-c5f1-e5eb-a053ef6ed498",
-    "title": "C Emote",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/30884b89-7ebc-4712-9610-4ed22c44fcd3/emote_thumbnail_0.png",
-    "rarity": "common",
-    "keywords": null
   },
   {
     "uuid": "405d0578-4ad0-1108-3a55-89520739fa8c",
