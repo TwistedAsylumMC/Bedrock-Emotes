@@ -3777,6 +3777,17 @@
     ]
   },
   {
+    "uuid": "43da0026-44bd-3d62-bbd3-1960d8b04495",
+    "title": "Extreme Throw",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ec4d1e58-8133-42c8-9f10-7caabad96d78/em_rainbowtheory_extremethrow_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Cool",
+      "Jump",
+      "Animation"
+    ]
+  },
+  {
     "uuid": "8f3915e4-6ced-9ab4-31ba-4e5f08f81fa2",
     "title": "FOUND SOMETHING!",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4e50de5e-8f15-4eca-9e4b-1faa0e6d2300/em_found_something_valuable_thumbnail_0.png",
@@ -13152,6 +13163,20 @@
     ]
   },
   {
+    "uuid": "bb456b2a-e832-97c7-ab78-aa12dfcff49e",
+    "title": "Ultimate Helicopter",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/10d5353a-0f63-4a23-943e-221fe2dc3e0b/em_emote_ultimatehelicopter_blockception_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Funny",
+      "Fun",
+      "Dance",
+      "Helicopters",
+      "Wave",
+      "Vehicles"
+    ]
+  },
+  {
     "uuid": "9b2d7221-f48d-a329-6646-9ae4679744af",
     "title": "Ultimate dab",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cc9a8183-afed-4203-a4cb-1fc12e7a00d6/em_emote_ultimatedab_blockception_thumbnail_0.png",
@@ -13317,6 +13342,18 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/740229a7-c230-4e28-b3ba-4880dd87f76b/em_bigdyegaming_victorypunch_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
+  },
+  {
+    "uuid": "4e72a051-11b4-b043-f705-baeff7a54c87",
+    "title": "Villian Laugh",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/83331ef4-9e67-4377-a12d-cd20e3cf96e0/em_villain_laugh_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Emoji",
+      "Emotional",
+      "Epic",
+      "Villain Protagonist"
+    ]
   },
   {
     "uuid": "418f6c15-03d9-4b03-848c-23b9ee7d3d94",

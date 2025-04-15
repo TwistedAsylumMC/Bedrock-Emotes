@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1385 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1388 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/1db795d3-ce37-e023-f101-90d37f25ca3a.png" width="128" height="128" /> | 8-Bit Shuffle | 1db795d3-ce37-e023-f101-90d37f25ca3a |
@@ -359,6 +359,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/6ea51093-d2c2-ef07-0717-1af224071632.png" width="128" height="128" /> | Explosive Push-Ups | 6ea51093-d2c2-ef07-0717-1af224071632 |
 | <img src="./images/6a7c36d4-ba48-8cec-4a6e-62acac1535a5.png" width="128" height="128" /> | Extreme Fast Run | 6a7c36d4-ba48-8cec-4a6e-62acac1535a5 |
 | <img src="./images/263ea123-78be-1975-d34c-818d6f0f7ee1.png" width="128" height="128" /> | Extreme Laugh | 263ea123-78be-1975-d34c-818d6f0f7ee1 |
+| <img src="./images/43da0026-44bd-3d62-bbd3-1960d8b04495.png" width="128" height="128" /> | Extreme Throw | 43da0026-44bd-3d62-bbd3-1960d8b04495 |
 | <img src="./images/8f3915e4-6ced-9ab4-31ba-4e5f08f81fa2.png" width="128" height="128" /> | FOUND SOMETHING! | 8f3915e4-6ced-9ab4-31ba-4e5f08f81fa2 |
 | <img src="./images/2c2468fe-3276-cf58-19d7-9294deeec7c8.png" width="128" height="128" /> | Face Palm | 2c2468fe-3276-cf58-19d7-9294deeec7c8 |
 | <img src="./images/a7bb7cfa-ed75-7375-8ffb-4800cfd7e150.png" width="128" height="128" /> | Face Plant | a7bb7cfa-ed75-7375-8ffb-4800cfd7e150 |
@@ -1270,6 +1271,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e3cf5b89-5694-1844-34e3-c388c61b3bce.png" width="128" height="128" /> | ULTRA BACK FLIP | e3cf5b89-5694-1844-34e3-c388c61b3bce |
 | <img src="./images/2fca42e1-1b6e-dee0-2a86-43737b5879b2.png" width="128" height="128" /> | Ultimate Floss Dance | 2fca42e1-1b6e-dee0-2a86-43737b5879b2 |
 | <img src="./images/fea3a570-cc0c-3328-63d7-b9834a2c2997.png" width="128" height="128" /> | Ultimate Griddy | fea3a570-cc0c-3328-63d7-b9834a2c2997 |
+| <img src="./images/bb456b2a-e832-97c7-ab78-aa12dfcff49e.png" width="128" height="128" /> | Ultimate Helicopter | bb456b2a-e832-97c7-ab78-aa12dfcff49e |
 | <img src="./images/9b2d7221-f48d-a329-6646-9ae4679744af.png" width="128" height="128" /> | Ultimate dab | 9b2d7221-f48d-a329-6646-9ae4679744af |
 | <img src="./images/05af18ca-920f-4232-83cb-133b2d913dd6.png" width="128" height="128" /> | Underwater Dancing | 05af18ca-920f-4232-83cb-133b2d913dd6 |
 | <img src="./images/de5be08b-99c1-a460-c46e-6074deac475b.png" width="128" height="128" /> | Unwinding | de5be08b-99c1-a460-c46e-6074deac475b |
@@ -1289,6 +1291,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/d0c60245-538e-4ea2-bdd4-33477db5aa89.png" width="128" height="128" /> | Victory Cheer | d0c60245-538e-4ea2-bdd4-33477db5aa89 |
 | <img src="./images/7a2ff2ed-68f2-0a5a-318c-96173e0121ca.png" width="128" height="128" /> | Victory Dance | 7a2ff2ed-68f2-0a5a-318c-96173e0121ca |
 | <img src="./images/ac757a66-0a3e-f8c5-e804-1ce74ad102e8.png" width="128" height="128" /> | Victory Jump | ac757a66-0a3e-f8c5-e804-1ce74ad102e8 |
+| <img src="./images/4e72a051-11b4-b043-f705-baeff7a54c87.png" width="128" height="128" /> | Villian Laugh | 4e72a051-11b4-b043-f705-baeff7a54c87 |
 | <img src="./images/418f6c15-03d9-4b03-848c-23b9ee7d3d94.png" width="128" height="128" /> | WAVING | 418f6c15-03d9-4b03-848c-23b9ee7d3d94 |
 | <img src="./images/7e034327-28ef-4e03-99f4-6c0b804e9a21.png" width="128" height="128" /> | WORM DANCE | 7e034327-28ef-4e03-99f4-6c0b804e9a21 |
 | <img src="./images/ece705e7-a58d-0c29-e319-3773a4689b42.png" width="128" height="128" /> | Wacky Wavy Dance | ece705e7-a58d-0c29-e319-3773a4689b42 |
