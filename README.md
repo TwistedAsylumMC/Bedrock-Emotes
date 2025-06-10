@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1521 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1522 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -341,6 +341,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/4f304a4b-200d-bb9f-299e-87dff8732479.png" width="128" height="128" /> | Double Dab | 4f304a4b-200d-bb9f-299e-87dff8732479 |
 | <img src="./images/69b11536-f269-d93b-a31c-28c86dfc7c59.png" width="128" height="128" /> | Double Flip | 69b11536-f269-d93b-a31c-28c86dfc7c59 |
 | <img src="./images/38b06488-2351-60a3-5ec6-53ded3b4d98f.png" width="128" height="128" /> | Double Flip Emote | 38b06488-2351-60a3-5ec6-53ded3b4d98f |
+| <img src="./images/5fd4e50d-d25c-4511-f006-6c5f838e63e3.png" width="128" height="128" /> | Dragon Bonding | 5fd4e50d-d25c-4511-f006-6c5f838e63e3 |
 | <img src="./images/0d99f5f3-84b7-399b-093a-00bd5d190e24.png" width="128" height="128" /> | Dragon Dance | 0d99f5f3-84b7-399b-093a-00bd5d190e24 |
 | <img src="./images/80298db9-9016-cda9-d0f6-4f89ca4842af.png" width="128" height="128" /> | Dramatic Anime Poses | 80298db9-9016-cda9-d0f6-4f89ca4842af |
 | <img src="./images/174c346c-f43e-418c-8acf-f282be1c6768.png" width="128" height="128" /> | Dramatic Fall | 174c346c-f43e-418c-8acf-f282be1c6768 |
