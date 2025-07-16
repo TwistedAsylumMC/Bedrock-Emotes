@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1522 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1524 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -677,6 +677,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/7938ed24-63c8-4c0e-4523-2a4ed813a7d8.png" width="128" height="128" /> | Hula Hooper | 7938ed24-63c8-4c0e-4523-2a4ed813a7d8 |
 | <img src="./images/d24f27c0-6bc8-4193-842c-8e33fdae5e8e.png" width="128" height="128" /> | Hungry | d24f27c0-6bc8-4193-842c-8e33fdae5e8e |
 | <img src="./images/eee01cfe-0750-c41c-8de2-4e5cc7b20594.png" width="128" height="128" /> | Hype | eee01cfe-0750-c41c-8de2-4e5cc7b20594 |
+| <img src="./images/30604058-7fa8-bbd0-48f0-3809504a7ebe.png" width="128" height="128" /> | Hype | 30604058-7fa8-bbd0-48f0-3809504a7ebe |
 | <img src="./images/9ea376ad-6693-8941-8543-ae9d37bfbe10.png" width="128" height="128" /> | Hype Dance | 9ea376ad-6693-8941-8543-ae9d37bfbe10 |
 | <img src="./images/9d3a45b2-9a28-71d3-1b70-6cef9a6127b0.png" width="128" height="128" /> | Hype Dance | 9d3a45b2-9a28-71d3-1b70-6cef9a6127b0 |
 | <img src="./images/419272b3-cd1c-e4bc-b711-ac56e9eff24a.png" width="128" height="128" /> | Hype! | 419272b3-cd1c-e4bc-b711-ac56e9eff24a |
@@ -869,6 +870,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/c7ea8c03-3661-4db7-b8e2-2b3135c923ef.png" width="128" height="128" /> | Moonwalk | c7ea8c03-3661-4db7-b8e2-2b3135c923ef |
 | <img src="./images/d5bb612f-68db-3bf3-6aef-e5ae57a00256.png" width="128" height="128" /> | Moonwalk | d5bb612f-68db-3bf3-6aef-e5ae57a00256 |
 | <img src="./images/af0bc51d-56cf-33b1-bc78-dee2983fe247.png" width="128" height="128" /> | Moonwalking | af0bc51d-56cf-33b1-bc78-dee2983fe247 |
+| <img src="./images/b6e932e5-3b24-3b7e-3938-c6673d3769b5.png" width="128" height="128" /> | Moves | b6e932e5-3b24-3b7e-3938-c6673d3769b5 |
 | <img src="./images/bcb113fd-1167-3ffa-ed80-17514fa4a71b.png" width="128" height="128" /> | Mutant Roar | bcb113fd-1167-3ffa-ed80-17514fa4a71b |
 | <img src="./images/07b248e0-1872-0f7e-e569-05db0bf3cd00.png" width="128" height="128" /> | Na'vi Crouch | 07b248e0-1872-0f7e-e569-05db0bf3cd00 |
 | <img src="./images/1c6b8fb8-2890-42cb-aca3-f1441625b1ce.png" width="128" height="128" /> | Napping | 1c6b8fb8-2890-42cb-aca3-f1441625b1ce |

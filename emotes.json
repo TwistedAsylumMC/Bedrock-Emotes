@@ -7137,6 +7137,13 @@
     ]
   },
   {
+    "uuid": "30604058-7fa8-bbd0-48f0-3809504a7ebe",
+    "title": "Hype",
+    "image": null,
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "9ea376ad-6693-8941-8543-ae9d37bfbe10",
     "title": "Hype Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1da367dd-cffd-48fb-a9ed-63fbffe89f64/hype_emote_thumbnail_0.png",
@@ -9040,6 +9047,13 @@
     "title": "Moonwalking",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/54ed1c13-b77d-44db-a050-77b58f6324b4/em_foxynotail_moonwalking_thumbnail_0.png",
     "rarity": "uncommon",
+    "keywords": null
+  },
+  {
+    "uuid": "b6e932e5-3b24-3b7e-3938-c6673d3769b5",
+    "title": "Moves",
+    "image": null,
+    "rarity": "rare",
     "keywords": null
   },
   {
