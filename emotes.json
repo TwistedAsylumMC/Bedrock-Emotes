@@ -3001,6 +3001,13 @@
     ]
   },
   {
+    "uuid": "efd31c1e-97f2-2a60-ac6c-c30665c065c8",
+    "title": "Dab",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3725a982-e1d8-42ec-b1ac-f34ba7215b53/em_oggames_dab_emote_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "e1e615e8-08dd-5196-991b-ffba79b2b147",
     "title": "Dab",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e9e1d40b-15a7-491f-a993-77b66e1181a5/dab_emote_thumbnail_0.png",
@@ -7139,7 +7146,7 @@
   {
     "uuid": "30604058-7fa8-bbd0-48f0-3809504a7ebe",
     "title": "Hype",
-    "image": null,
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fefb46d6-8a17-40a8-9029-6e6356ac7e22/em_minty_hype_emote_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -9052,7 +9059,7 @@
   {
     "uuid": "b6e932e5-3b24-3b7e-3938-c6673d3769b5",
     "title": "Moves",
-    "image": null,
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/631f4cb1-8d9a-4049-be50-73f40b9bf3ab/em_oggames_moves_emote_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },

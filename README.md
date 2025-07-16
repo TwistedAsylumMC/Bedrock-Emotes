@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1524 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1525 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -283,6 +283,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e2e6416e-6095-5f0d-ce8c-95ad1789453b.png" width="128" height="128" /> | Dab | e2e6416e-6095-5f0d-ce8c-95ad1789453b |
 | <img src="./images/e298581c-3ba1-6f5a-e112-85d4de973a26.png" width="128" height="128" /> | Dab | e298581c-3ba1-6f5a-e112-85d4de973a26 |
 | <img src="./images/d0d835fd-62b0-51ac-6392-0badd988b68b.png" width="128" height="128" /> | Dab | d0d835fd-62b0-51ac-6392-0badd988b68b |
+| <img src="./images/efd31c1e-97f2-2a60-ac6c-c30665c065c8.png" width="128" height="128" /> | Dab | efd31c1e-97f2-2a60-ac6c-c30665c065c8 |
 | <img src="./images/e1e615e8-08dd-5196-991b-ffba79b2b147.png" width="128" height="128" /> | Dab | e1e615e8-08dd-5196-991b-ffba79b2b147 |
 | <img src="./images/74dfdfb7-dcd4-95c1-85bb-4e290c1e9219.png" width="128" height="128" /> | Dab | 74dfdfb7-dcd4-95c1-85bb-4e290c1e9219 |
 | <img src="./images/4653dd8b-deea-cee6-d90a-e904886cbeea.png" width="128" height="128" /> | Dab Backflip | 4653dd8b-deea-cee6-d90a-e904886cbeea |
