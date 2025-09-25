@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1663 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1664 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -994,6 +994,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/cf4f83da-87e7-e362-665a-578201548375.png" width="128" height="128" /> | Orange Dance | cf4f83da-87e7-e362-665a-578201548375 |
 | <img src="./images/3453bd23-777e-32a9-081d-f77d773f003c.png" width="128" height="128" /> | Orange Justice | 3453bd23-777e-32a9-081d-f77d773f003c |
 | <img src="./images/842edb97-9393-6ce6-f02c-69743f0f64eb.png" width="128" height="128" /> | Orange Justice Emote | 842edb97-9393-6ce6-f02c-69743f0f64eb |
+| <img src="./images/6289ef6e-ccbe-5ce0-792b-4abd9ba4421f.png" width="128" height="128" /> | Organizing Like a Golem | 6289ef6e-ccbe-5ce0-792b-4abd9ba4421f |
 | <img src="./images/65587973-a8c7-e24c-637c-63feebb35a71.png" width="128" height="128" /> | Outburst | 65587973-a8c7-e24c-637c-63feebb35a71 |
 | <img src="./images/3f065f92-f258-ecd5-5fc6-12a4ae5bb391.png" width="128" height="128" /> | Outfit Check | 3f065f92-f258-ecd5-5fc6-12a4ae5bb391 |
 | <img src="./images/756b1480-5a0b-545d-dd5a-4ae99acf71ac.png" width="128" height="128" /> | Over Here! | 756b1480-5a0b-545d-dd5a-4ae99acf71ac |
