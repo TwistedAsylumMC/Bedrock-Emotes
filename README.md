@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1664 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1666 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -33,6 +33,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/95c74c13-88f8-3606-d9ad-78a91015a557.png" width="128" height="128" /> | Air Punch | 95c74c13-88f8-3606-d9ad-78a91015a557 |
 | <img src="./images/211aabd3-39ac-f3eb-1417-724626276482.png" width="128" height="128" /> | Air Swim | 211aabd3-39ac-f3eb-1417-724626276482 |
 | <img src="./images/d9a3800d-e6b7-86e0-0187-f10c5f5d3651.png" width="128" height="128" /> | Airflare Breakdance | d9a3800d-e6b7-86e0-0187-f10c5f5d3651 |
+| <img src="./images/0e603af0-90c4-41a2-ab84-d1d44c4ce9e7.png" width="128" height="128" /> | Airhead | 0e603af0-90c4-41a2-ab84-d1d44c4ce9e7 |
 | <img src="./images/e7bb3d8c-811d-442a-bfc5-775556d05d7a.png" width="128" height="128" /> | Airplane | e7bb3d8c-811d-442a-bfc5-775556d05d7a |
 | <img src="./images/009f3f8d-0937-b9f3-6577-9bc1c8b53889.png" width="128" height="128" /> | Airplane | 009f3f8d-0937-b9f3-6577-9bc1c8b53889 |
 | <img src="./images/be5fe8e6-46b3-a443-ecd5-45055b8d414e.png" width="128" height="128" /> | Alien Abduction | be5fe8e6-46b3-a443-ecd5-45055b8d414e |
@@ -246,6 +247,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/39d0af0b-0fe3-576e-d6bc-3840b65b6b4c.png" width="128" height="128" /> | Cheering | 39d0af0b-0fe3-576e-d6bc-3840b65b6b4c |
 | <img src="./images/9cb096e8-3220-af69-a311-4d7473866c84.png" width="128" height="128" /> | Cheerleading | 9cb096e8-3220-af69-a311-4d7473866c84 |
 | <img src="./images/d3c0dc87-f568-0aa3-9565-d30fcde8ef6a.png" width="128" height="128" /> | Cheerleading | d3c0dc87-f568-0aa3-9565-d30fcde8ef6a |
+| <img src="./images/56cfaf05-0252-291a-8993-daa048dea0a4.png" width="128" height="128" /> | Chibi! | 56cfaf05-0252-291a-8993-daa048dea0a4 |
 | <img src="./images/899a3044-3aee-2585-ccd0-55ab593e6b3b.png" width="128" height="128" /> | Chicken | 899a3044-3aee-2585-ccd0-55ab593e6b3b |
 | <img src="./images/b8c0bd1e-64ed-0f96-e7d7-a145492268a0.png" width="128" height="128" /> | Chicken Dance | b8c0bd1e-64ed-0f96-e7d7-a145492268a0 |
 | <img src="./images/f0677405-fff2-3e35-7b04-d61deb7ab18f.png" width="128" height="128" /> | Chicken Dance | f0677405-fff2-3e35-7b04-d61deb7ab18f |

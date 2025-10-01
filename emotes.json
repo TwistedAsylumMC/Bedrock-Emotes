@@ -351,6 +351,18 @@
     ]
   },
   {
+    "uuid": "0e603af0-90c4-41a2-ab84-d1d44c4ce9e7",
+    "title": "Airhead",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/96519476-1d8d-4d9b-b57b-bae6e9da8a5c/em_plank_airhead_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Cool",
+      "Epic",
+      "Friends",
+      "Fun"
+    ]
+  },
+  {
     "uuid": "e7bb3d8c-811d-442a-bfc5-775556d05d7a",
     "title": "Airplane",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2753fab1-7779-4656-90df-21444172dc2e/airplane_thumbnail_0.png",
@@ -2608,6 +2620,13 @@
       "Dance",
       "Emoji"
     ]
+  },
+  {
+    "uuid": "56cfaf05-0252-291a-8993-daa048dea0a4",
+    "title": "Chibi!",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8380192a-77ab-4260-b978-7ea4cabdecf6/em_verart_chibi_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "899a3044-3aee-2585-ccd0-55ab593e6b3b",
