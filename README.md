@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1666 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1667 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -14,6 +14,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/2bbea8bc-bae7-6fba-a42e-19403d9516a5.png" width="128" height="128" /> | Acrobatics | 2bbea8bc-bae7-6fba-a42e-19403d9516a5 |
 | <img src="./images/4e3413af-86a1-1ea6-6537-c50f4e332f94.png" width="128" height="128" /> | Acting Like Santa | 4e3413af-86a1-1ea6-6537-c50f4e332f94 |
 | <img src="./images/c2a47805-c792-4882-a56d-17c80b6c57a8.png" width="128" height="128" /> | Acting Like a Dragon | c2a47805-c792-4882-a56d-17c80b6c57a8 |
+| <img src="./images/ad8d49fe-e19e-e80d-b9bc-a70b23912e8a.png" width="128" height="128" /> | Action Actor | ad8d49fe-e19e-e80d-b9bc-a70b23912e8a |
 | <img src="./images/650c0a76-9c5a-3eee-84e0-dafcbfbd26ea.png" width="128" height="128" /> | Aerial Flip | 650c0a76-9c5a-3eee-84e0-dafcbfbd26ea |
 | <img src="./images/2c2183c9-d8a2-aacd-9ad6-cdb260d7fc33.png" width="128" height="128" /> | Aggressive Pointing | 2c2183c9-d8a2-aacd-9ad6-cdb260d7fc33 |
 | <img src="./images/2645be4e-c691-5072-a583-cb2acf397abd.png" width="128" height="128" /> | Ahhhhh! | 2645be4e-c691-5072-a583-cb2acf397abd |
