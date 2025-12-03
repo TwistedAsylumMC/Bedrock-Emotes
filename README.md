@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1783 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1785 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -136,6 +136,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/649f5852-a2fa-1504-a4c2-17768f3178f2.png" width="128" height="128" /> | Banana Peel | 649f5852-a2fa-1504-a4c2-17768f3178f2 |
 | <img src="./images/36cbb754-1ad4-a0f2-8bf7-210279fdc530.png" width="128" height="128" /> | Banana Sliding | 36cbb754-1ad4-a0f2-8bf7-210279fdc530 |
 | <img src="./images/8825cb7c-d9c2-dbb5-6a4b-5874f45e208c.png" width="128" height="128" /> | Banananana Aura | 8825cb7c-d9c2-dbb5-6a4b-5874f45e208c |
+| <img src="./images/731f652f-8c4f-3f89-04d1-362dc63db7e4.png" width="128" height="128" /> | Band Jam | 731f652f-8c4f-3f89-04d1-362dc63db7e4 |
 | <img src="./images/47362e9d-a1a6-6877-2aaa-245f783caf07.png" width="128" height="128" /> | Bark Bark | 47362e9d-a1a6-6877-2aaa-245f783caf07 |
 | <img src="./images/a449c120-e324-ccfa-2e4a-3bdbd742d0c1.png" width="128" height="128" /> | Barrel Roll | a449c120-e324-ccfa-2e4a-3bdbd742d0c1 |
 | <img src="./images/e267f2b5-f4db-4850-8ff0-4b3696d92336.png" width="128" height="128" /> | Basketball | e267f2b5-f4db-4850-8ff0-4b3696d92336 |
@@ -1598,6 +1599,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/79e8cb30-c1b4-4e41-8aa8-96492c6f390c.png" width="128" height="128" /> | To Infinity and Beyond | 79e8cb30-c1b4-4e41-8aa8-96492c6f390c |
 | <img src="./images/e64848e7-cd6a-1eb4-476f-e53ccba1a087.png" width="128" height="128" /> | To di World | e64848e7-cd6a-1eb4-476f-e53ccba1a087 |
 | <img src="./images/8d81d839-53c0-3587-329d-638868090d77.png" width="128" height="128" /> | Toilet Flushed | 8d81d839-53c0-3587-329d-638868090d77 |
+| <img src="./images/c76023c9-90c2-7a3d-9de6-35bece5d86e8.png" width="128" height="128" /> | Too Sweet | c76023c9-90c2-7a3d-9de6-35bece5d86e8 |
 | <img src="./images/eb451dd5-36d9-c9a5-aada-fef83e5d3f63.png" width="128" height="128" /> | Too Tired! | eb451dd5-36d9-c9a5-aada-fef83e5d3f63 |
 | <img src="./images/3acbf278-59b0-5ba3-cf00-c4694d5e913b.png" width="128" height="128" /> | Toosie Slide | 3acbf278-59b0-5ba3-cf00-c4694d5e913b |
 | <img src="./images/876cc6a8-4eb3-5429-bde8-c7140ed648cd.png" width="128" height="128" /> | Tornado | 876cc6a8-4eb3-5429-bde8-c7140ed648cd |

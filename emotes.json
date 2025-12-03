@@ -1504,6 +1504,13 @@
     ]
   },
   {
+    "uuid": "731f652f-8c4f-3f89-04d1-362dc63db7e4",
+    "title": "Band Jam",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8e59e147-8e22-4eb6-97bd-fe0c37397325/em_dlb_band_jam_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "47362e9d-a1a6-6877-2aaa-245f783caf07",
     "title": "Bark Bark",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/70b0bcee-4167-49a6-bb38-296a4a5625b7/em_wonder_bark_thumbnail_0.png",
@@ -16687,6 +16694,18 @@
       "Fun",
       "Funny",
       "Trendy"
+    ]
+  },
+  {
+    "uuid": "c76023c9-90c2-7a3d-9de6-35bece5d86e8",
+    "title": "Too Sweet",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aca21c7c-1504-4e2f-b5fb-e41dc9d5dd9d/em_plank_too_sweet_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Cool",
+      "Epic",
+      "Friends",
+      "Fun"
     ]
   },
   {
