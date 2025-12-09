@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1785 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1786 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -1384,6 +1384,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/76debf4f-84c1-441a-84e1-26fe55391e71.png" width="128" height="128" /> | Space Walk | 76debf4f-84c1-441a-84e1-26fe55391e71 |
 | <img src="./images/6cbf4d9d-25e3-6da8-d361-133de9473fdb.png" width="128" height="128" /> | Space Walk | 6cbf4d9d-25e3-6da8-d361-133de9473fdb |
 | <img src="./images/51e7999e-d481-3cee-53b5-349bc9b866b9.png" width="128" height="128" /> | Spacewalk | 51e7999e-d481-3cee-53b5-349bc9b866b9 |
+| <img src="./images/f01c6f96-f701-9fb9-1723-5bc94cca9ee8.png" width="128" height="128" /> | Spear Spinning | f01c6f96-f701-9fb9-1723-5bc94cca9ee8 |
 | <img src="./images/c8866b79-8ccf-d82f-d494-c374c5b41da4.png" width="128" height="128" /> | Spell | c8866b79-8ccf-d82f-d494-c374c5b41da4 |
 | <img src="./images/764e0885-e4f8-4357-b95e-30fdac27a54d.png" width="128" height="128" /> | Spider Crawl | 764e0885-e4f8-4357-b95e-30fdac27a54d |
 | <img src="./images/ba328f8d-7b22-b04e-bdac-6660d3dacc81.png" width="128" height="128" /> | Spider Flip | ba328f8d-7b22-b04e-bdac-6660d3dacc81 |
