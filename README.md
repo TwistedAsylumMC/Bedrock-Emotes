@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1786 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1789 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -378,6 +378,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/a438bf1f-fcfb-f0bc-4286-771d533497c0.png" width="128" height="128" /> | Default Dance | a438bf1f-fcfb-f0bc-4286-771d533497c0 |
 | <img src="./images/5a5df86b-727d-f884-305f-89a4c9738988.png" width="128" height="128" /> | Default Gamers Dance | 5a5df86b-727d-f884-305f-89a4c9738988 |
 | <img src="./images/b41ff405-dfdf-d123-0a9e-5f314ed2efde.png" width="128" height="128" /> | Delicious Day | b41ff405-dfdf-d123-0a9e-5f314ed2efde |
+| <img src="./images/72dccb22-f975-4603-e05d-2c700d4c9aa6.png" width="128" height="128" /> | Demogorgon Roar | 72dccb22-f975-4603-e05d-2c700d4c9aa6 |
 | <img src="./images/601ea605-11d4-2b12-ae0f-ea1a00965633.png" width="128" height="128" /> | Derpy Eagle | 601ea605-11d4-2b12-ae0f-ea1a00965633 |
 | <img src="./images/ff30f2be-b4b4-bc55-3921-8178ad163789.png" width="128" height="128" /> | Derpy Squid | ff30f2be-b4b4-bc55-3921-8178ad163789 |
 | <img src="./images/2265f791-d077-44b6-c0a9-8399220b3b3d.png" width="128" height="128" /> | Dip | 2265f791-d077-44b6-c0a9-8399220b3b3d |
@@ -446,6 +447,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/17715e4d-bd90-f263-cafc-9fd2d9dbe6ba.png" width="128" height="128" /> | Electro shuffle | 17715e4d-bd90-f263-cafc-9fd2d9dbe6ba |
 | <img src="./images/fb495159-1ba7-4fe1-bc92-842ca9512eaf.png" width="128" height="128" /> | Electrocuted | fb495159-1ba7-4fe1-bc92-842ca9512eaf |
 | <img src="./images/6e0c1592-aed2-ad36-95be-5f854bd28546.png" width="128" height="128" /> | Elevate | 6e0c1592-aed2-ad36-95be-5f854bd28546 |
+| <img src="./images/73601fd4-6ccc-c6fb-d33a-eb4b2dcabcec.png" width="128" height="128" /> | Eleven's Power | 73601fd4-6ccc-c6fb-d33a-eb4b2dcabcec |
 | <img src="./images/c4d87a21-d4c4-498b-8bc1-5dd78c895e9f.png" width="128" height="128" /> | Enamoured | c4d87a21-d4c4-498b-8bc1-5dd78c895e9f |
 | <img src="./images/af09eef5-0f70-9015-29d5-89cf8612c6f3.png" width="128" height="128" /> | Enchanted Pose | af09eef5-0f70-9015-29d5-89cf8612c6f3 |
 | <img src="./images/2fd67ef3-ed18-6d05-ee94-90acc19ba0ac.png" width="128" height="128" /> | Enderman TP | 2fd67ef3-ed18-6d05-ee94-90acc19ba0ac |
@@ -1653,6 +1655,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/45941813-d36e-65a7-f524-9c4391d6d74d.png" width="128" height="128" /> | UwU | 45941813-d36e-65a7-f524-9c4391d6d74d |
 | <img src="./images/1c5f9f88-88cc-ab5a-3eca-aa9f427e4aa6.png" width="128" height="128" /> | V-Pose | 1c5f9f88-88cc-ab5a-3eca-aa9f427e4aa6 |
 | <img src="./images/3a749d01-085c-8b34-551f-c63b13303812.png" width="128" height="128" /> | Valentine Flowers | 3a749d01-085c-8b34-551f-c63b13303812 |
+| <img src="./images/a27f2f41-7186-c8ff-8701-0d287ce759ab.png" width="128" height="128" /> | Vecna's Possession | a27f2f41-7186-c8ff-8701-0d287ce759ab |
 | <img src="./images/e05d99fa-3b93-fb24-f888-5df4d4400bbf.png" width="128" height="128" /> | Vertical Vibe Check | e05d99fa-3b93-fb24-f888-5df4d4400bbf |
 | <img src="./images/af8e2b99-bb8f-1fd1-df1a-19151e47a4ca.png" width="128" height="128" /> | Vibing | af8e2b99-bb8f-1fd1-df1a-19151e47a4ca |
 | <img src="./images/77053f59-c79b-4d5c-8dc5-539ed28002e9.png" width="128" height="128" /> | Victorious | 77053f59-c79b-4d5c-8dc5-539ed28002e9 |

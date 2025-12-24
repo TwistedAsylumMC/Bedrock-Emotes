@@ -4056,6 +4056,13 @@
     ]
   },
   {
+    "uuid": "72dccb22-f975-4603-e05d-2c700d4c9aa6",
+    "title": "Demogorgon Roar",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90971079-7e23-4379-ac6c-c60a07d3acae/em_emote_demogorgon_roar_strangerthings_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "601ea605-11d4-2b12-ae0f-ea1a00965633",
     "title": "Derpy Eagle",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/97473f6a-315c-46b4-b5f9-1ff733295245/em_sphax_derpy_eagle_thumbnail_0.png",
@@ -4763,6 +4770,13 @@
     "keywords": [
       "Trendy"
     ]
+  },
+  {
+    "uuid": "73601fd4-6ccc-c6fb-d33a-eb4b2dcabcec",
+    "title": "Eleven's Power",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7b58b457-8832-46c4-8d7c-e14dfee897ce/em_emote_eleven_powerstance_strangerthings_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "c4d87a21-d4c4-498b-8bc1-5dd78c895e9f",
@@ -17228,6 +17242,13 @@
       "Character Customization",
       "Animation"
     ]
+  },
+  {
+    "uuid": "a27f2f41-7186-c8ff-8701-0d287ce759ab",
+    "title": "Vecna's Possession",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5aab49fe-6771-497c-8bdc-55db0623a5a4/em_emote_vecna_possession_strangerthings_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "e05d99fa-3b93-fb24-f888-5df4d4400bbf",
