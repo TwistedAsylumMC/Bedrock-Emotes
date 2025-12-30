@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1789 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1790 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -757,6 +757,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/eda0b91e-2b63-a533-2e16-612e9e2e57d3.png" width="128" height="128" /> | Heihei Strut | eda0b91e-2b63-a533-2e16-612e9e2e57d3 |
 | <img src="./images/599420df-f690-c022-eac0-6b4538e8104d.png" width="128" height="128" /> | Helicopter | 599420df-f690-c022-eac0-6b4538e8104d |
 | <img src="./images/4b586b00-c18e-9734-4138-8da140958c04.png" width="128" height="128" /> | Helicopter | 4b586b00-c18e-9734-4138-8da140958c04 |
+| <img src="./images/6b6930ef-af3b-836e-a8a6-a98e3fbfef04.png" width="128" height="128" /> | Helicopter | 6b6930ef-af3b-836e-a8a6-a98e3fbfef04 |
 | <img src="./images/8ec59f5b-0366-a066-57d2-94742e7a90b1.png" width="128" height="128" /> | Helicopter | 8ec59f5b-0366-a066-57d2-94742e7a90b1 |
 | <img src="./images/294c4ef4-d7d1-1edb-14b7-95e1677e827e.png" width="128" height="128" /> | Helicopter | 294c4ef4-d7d1-1edb-14b7-95e1677e827e |
 | <img src="./images/4242f8a4-a0fa-d3e9-944d-4625f7b3c4e3.png" width="128" height="128" /> | Helicopter | 4242f8a4-a0fa-d3e9-944d-4625f7b3c4e3 |
