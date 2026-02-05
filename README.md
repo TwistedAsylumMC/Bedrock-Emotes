@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1790 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1795 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -137,6 +137,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/36cbb754-1ad4-a0f2-8bf7-210279fdc530.png" width="128" height="128" /> | Banana Sliding | 36cbb754-1ad4-a0f2-8bf7-210279fdc530 |
 | <img src="./images/8825cb7c-d9c2-dbb5-6a4b-5874f45e208c.png" width="128" height="128" /> | Banananana Aura | 8825cb7c-d9c2-dbb5-6a4b-5874f45e208c |
 | <img src="./images/731f652f-8c4f-3f89-04d1-362dc63db7e4.png" width="128" height="128" /> | Band Jam | 731f652f-8c4f-3f89-04d1-362dc63db7e4 |
+| <img src="./images/393088c2-fe92-ace6-5fcf-e92d6eb76cf5.png" width="128" height="128" /> | Bandit's Dance | 393088c2-fe92-ace6-5fcf-e92d6eb76cf5 |
 | <img src="./images/47362e9d-a1a6-6877-2aaa-245f783caf07.png" width="128" height="128" /> | Bark Bark | 47362e9d-a1a6-6877-2aaa-245f783caf07 |
 | <img src="./images/a449c120-e324-ccfa-2e4a-3bdbd742d0c1.png" width="128" height="128" /> | Barrel Roll | a449c120-e324-ccfa-2e4a-3bdbd742d0c1 |
 | <img src="./images/e267f2b5-f4db-4850-8ff0-4b3696d92336.png" width="128" height="128" /> | Basketball | e267f2b5-f4db-4850-8ff0-4b3696d92336 |
@@ -162,6 +163,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/78a57a32-a610-362e-2424-9649aeb96784.png" width="128" height="128" /> | Big Steps | 78a57a32-a610-362e-2424-9649aeb96784 |
 | <img src="./images/988ed8d3-4da4-e1d4-f47d-0c2d00992ae4.png" width="128" height="128" /> | Big Yawn | 988ed8d3-4da4-e1d4-f47d-0c2d00992ae4 |
 | <img src="./images/843c5805-7e82-be78-5d68-6ff58d68c96f.png" width="128" height="128" /> | Billy Bounce | 843c5805-7e82-be78-5d68-6ff58d68c96f |
+| <img src="./images/4494924a-a375-f454-79cf-bd337f5968bd.png" width="128" height="128" /> | Bingo's Dance | 4494924a-a375-f454-79cf-bd337f5968bd |
 | <img src="./images/5b33cccc-46e6-b79a-f1eb-ad381acfcc0d.png" width="128" height="128" /> | Bird Dance | 5b33cccc-46e6-b79a-f1eb-ad381acfcc0d |
 | <img src="./images/5421df8a-d600-e415-d51c-5fa9f32ac3bd.png" width="128" height="128" /> | Bird Dance | 5421df8a-d600-e415-d51c-5fa9f32ac3bd |
 | <img src="./images/0309ad4f-e467-819c-65cf-e30005da6530.png" width="128" height="128" /> | Bird Flying | 0309ad4f-e467-819c-65cf-e30005da6530 |
@@ -171,6 +173,8 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/e0e0e66f-020c-e039-6e12-d4563289ba05.png" width="128" height="128" /> | Blowing a Kiss | e0e0e66f-020c-e039-6e12-d4563289ba05 |
 | <img src="./images/ea635ced-a58d-77ce-2278-b0d3060d6ef1.png" width="128" height="128" /> | Blowing a Kiss | ea635ced-a58d-77ce-2278-b0d3060d6ef1 |
 | <img src="./images/4a43a411-7800-2000-3c43-33f5a51dce94.png" width="128" height="128" /> | Blue Shirt Guy Dancing | 4a43a411-7800-2000-3c43-33f5a51dce94 |
+| <img src="./images/aaee54dc-6ec5-edf0-9387-fc192535234e.png" width="128" height="128" /> | Bluey's Dance | aaee54dc-6ec5-edf0-9387-fc192535234e |
+| <img src="./images/47b252d1-a9ac-aaac-9c29-131228d40529.png" width="128" height="128" /> | Bluey's Hooray | 47b252d1-a9ac-aaac-9c29-131228d40529 |
 | <img src="./images/435f11cf-2279-8af9-a1fd-25be63706e7f.png" width="128" height="128" /> | Bobble | 435f11cf-2279-8af9-a1fd-25be63706e7f |
 | <img src="./images/79afba04-6dd5-f734-0821-1f6d7cefc6a4.png" width="128" height="128" /> | Bobble Head | 79afba04-6dd5-f734-0821-1f6d7cefc6a4 |
 | <img src="./images/d18eeca7-afef-404c-813f-c513645c0819.png" width="128" height="128" /> | Boing Boom Blasting | d18eeca7-afef-404c-813f-c513645c0819 |
@@ -280,6 +284,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/eae99c4e-a235-4a8b-ae84-048f4055e9cc.png" width="128" height="128" /> | Chill Float Nap | eae99c4e-a235-4a8b-ae84-048f4055e9cc |
 | <img src="./images/c6231238-3869-4acd-8f8e-818a34a59c2c.png" width="128" height="128" /> | Chill Victory | c6231238-3869-4acd-8f8e-818a34a59c2c |
 | <img src="./images/c2fe9284-ba18-9e97-59cd-d97774db2277.png" width="128" height="128" /> | Chillaxing | c2fe9284-ba18-9e97-59cd-d97774db2277 |
+| <img src="./images/bcd1d504-cb07-6bd4-df07-66159b905b99.png" width="128" height="128" /> | Chilli's Dance | bcd1d504-cb07-6bd4-df07-66159b905b99 |
 | <img src="./images/1f0ca529-2091-67e8-f631-9b7573277dae.png" width="128" height="128" /> | Chillin... | 1f0ca529-2091-67e8-f631-9b7573277dae |
 | <img src="./images/1f9f6bed-b3f1-1118-4587-d6d297eba878.png" width="128" height="128" /> | Chilling | 1f9f6bed-b3f1-1118-4587-d6d297eba878 |
 | <img src="./images/aefff48b-a0b0-4b5e-4c78-dce3b18a7f07.png" width="128" height="128" /> | Chilling | aefff48b-a0b0-4b5e-4c78-dce3b18a7f07 |

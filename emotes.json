@@ -1511,6 +1511,13 @@
     "keywords": null
   },
   {
+    "uuid": "393088c2-fe92-ace6-5fcf-e92d6eb76cf5",
+    "title": "Bandit's Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0b936ff8-d25a-4cac-b3c3-ec37a71cb8f9/em_jig_dad_dance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "47362e9d-a1a6-6877-2aaa-245f783caf07",
     "title": "Bark Bark",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/70b0bcee-4167-49a6-bb38-296a4a5625b7/em_wonder_bark_thumbnail_0.png",
@@ -1777,6 +1784,13 @@
     ]
   },
   {
+    "uuid": "4494924a-a375-f454-79cf-bd337f5968bd",
+    "title": "Bingo's Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8e5dc24b-9daa-4f3d-96f5-64cc3f1add19/em_jig_bingo_dance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "5b33cccc-46e6-b79a-f1eb-ad381acfcc0d",
     "title": "Bird Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/139001f4-848c-43b5-8254-bdbed413e14a/em_jfcrafters_birddance_thumbnail_0.png",
@@ -1871,6 +1885,20 @@
     "title": "Blue Shirt Guy Dancing",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7d4fa040-34fa-4357-baf2-297a1ee5312c/em_sqst_blueshirtguydancing_thumbnail_0.png",
     "rarity": "uncommon",
+    "keywords": null
+  },
+  {
+    "uuid": "aaee54dc-6ec5-edf0-9387-fc192535234e",
+    "title": "Bluey's Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c189cd68-5ada-4d4c-891c-b08c07f076b1/em_jig_bluey_dance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
+    "uuid": "47b252d1-a9ac-aaac-9c29-131228d40529",
+    "title": "Bluey's Hooray",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/fcb53726-153e-4ed6-b589-b47062244d13/em_jig_bluey_hooray_thumbnail_0.png",
+    "rarity": "rare",
     "keywords": null
   },
   {
@@ -3001,6 +3029,13 @@
       "Cool",
       "Trendy"
     ]
+  },
+  {
+    "uuid": "bcd1d504-cb07-6bd4-df07-66159b905b99",
+    "title": "Chilli's Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e94a12a7-0f71-424f-bf14-c1beed50e0c1/em_jig_mum_dance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "1f0ca529-2091-67e8-f631-9b7573277dae",
