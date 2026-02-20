@@ -3650,6 +3650,22 @@
     ]
   },
   {
+    "uuid": "f1d97f35-321c-145a-9370-726870c576ad",
+    "title": "DRAGON BACK FLIP",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/fed3ef05-2596-4c58-b6e0-a0cb86542802/em_maca_dragonflip_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Animated",
+      "Cool",
+      "Dance",
+      "Dragon",
+      "Ninja",
+      "Ninjas",
+      "Trendy",
+      "Dragons"
+    ]
+  },
+  {
     "uuid": "d1006d56-8618-d6be-5be9-0f1b1dd7c820",
     "title": "Dab",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9bffcf55-4757-492d-9f2d-1871d185dbef/em_dad_emote_thumbnail_0.png",
@@ -13055,6 +13071,17 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/869c3af9-f9f6-488c-8511-4d7bc7cafd07/em_oct_suii_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
+  },
+  {
+    "uuid": "027ce8ce-0bc7-eba9-e4e8-575198c8c8c6",
+    "title": "Sad Champ",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/fe5c8d77-4a20-46ca-b3aa-5bbbf790ddb1/em_sad_champ_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Fun",
+      "Funny",
+      "Adventures"
+    ]
   },
   {
     "uuid": "98a68056-e025-4c0f-a959-d6e330ccb5f5",
