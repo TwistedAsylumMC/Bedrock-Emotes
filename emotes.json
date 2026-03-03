@@ -10,9 +10,29 @@
     ]
   },
   {
+    "uuid": "405d5e65-3d32-e075-5132-756b99918769",
+    "title": "67 Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ea44b293-bbd2-46a5-817f-ca3ba8c88a6a/em_ps_6_7_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Dance",
+      "Fun",
+      "Meme",
+      "Memes",
+      "Funny"
+    ]
+  },
+  {
+    "uuid": "53da9776-0ebc-484d-c70b-5dfe8f84c0d7",
+    "title": "67 Meme",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3572ba29-a37f-4f0e-8820-e7fa93a93b52/em_bigdyegaming_67_meme_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "76e28e87-ee09-4e3a-a277-9b302f865409",
     "title": "8-Bit Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bfd87b75-ff5d-49ae-b877-1f0c0d2c2430/em_yeggs_8bit_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b7608cb2-f345-46f2-95f2-b4650a2c412e/em_yeggs_8bit_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -74,7 +94,7 @@
   {
     "uuid": "5cc55264-cb77-d539-7ddc-a32df97a0c9a",
     "title": "Abducted",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d143c199-55b2-45fe-aacb-d010d889e9f7/em_cubecraft_abducted_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d38cacf0-38c8-4ac5-8307-f6f2782ab7b4/em_cubecraft_abducted_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -90,14 +110,14 @@
   {
     "uuid": "28491e89-20c4-553e-f36f-b49132c3ab97",
     "title": "Acending",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a618eb7b-ebc4-43b0-aa5b-d1ce5a94ad0d/em_glowfisch_designs_acending_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9f69025b-3826-4e8e-b24f-d8afce79745d/em_glowfisch_designs_acending_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "d3c7c115-33b2-2ebc-6f50-6b53952d8729",
     "title": "Acrobat",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d9e6dfad-4196-48e0-8e7c-61f6091e91fc/em_emote_msf_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/62d522b4-1251-4f7c-9893-f7e326f3e9ab/em_emote_msf_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Animation",
@@ -164,7 +184,7 @@
   {
     "uuid": "2c2183c9-d8a2-aacd-9ad6-cdb260d7fc33",
     "title": "Aggressive Pointing",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/be300c0b-33dc-4ccd-997c-bb7b834ae144/aggressive_pointing_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c56d56f1-2625-4b9c-b1cf-25f9c92e57a0/aggressive_pointing_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animation",
@@ -261,7 +281,7 @@
   {
     "uuid": "d1d6eaef-c80f-e289-7770-5c1df04cf14f",
     "title": "Air Guitar",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1c55c1a5-8ce5-484a-85fa-ba98392ae798/air_guitar_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/397a39bf-f869-4ee7-97e1-60b0261883ad/air_guitar_emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -346,6 +366,15 @@
     ]
   },
   {
+    "uuid": "6620a8aa-2213-1f98-40d2-16038f351b9b",
+    "title": "Air Surfing",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/68ccb865-d4da-4d76-b995-b3adf0c0843c/em_inpixel_air_surfing_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Fly"
+    ]
+  },
+  {
     "uuid": "211aabd3-39ac-f3eb-1417-724626276482",
     "title": "Air Swim",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f90c4e57-6672-4f33-91f6-196a1c8b1d68/em_spectral_air_swim_thumbnail_0.png",
@@ -400,7 +429,7 @@
   {
     "uuid": "be5fe8e6-46b3-a443-ecd5-45055b8d414e",
     "title": "Alien Abduction",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/083dfbdd-2bc8-43cb-8ba7-24fdef7a465b/em_pixelsquared_alienabduction_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cffeb456-3f89-4038-b2f7-6f3f9e095124/em_pixelsquared_alienabduction_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Alien"
@@ -412,6 +441,17 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ac857caa-45bc-4548-bee1-536f087a3c47/em_sqst_alienabduction_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
+  },
+  {
+    "uuid": "aaaf1781-448e-eb01-25c2-25747cb1b863",
+    "title": "Alien Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ada2e1d0-3218-45c9-a41e-6366a6bce46c/em_lofigirl_aliendance_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Alien",
+      "Dance",
+      "Aliens"
+    ]
   },
   {
     "uuid": "c08c6523-0915-95af-e718-ecbfeba55472",
@@ -489,7 +529,7 @@
   {
     "uuid": "205c610e-51bd-1bd0-884e-096f606209a1",
     "title": "Animal Run",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/188b1e97-1e96-4979-8cc0-f68d06bd5d00/em_rainbowtheory_animalrun_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fc8c42e4-3e48-48f3-b7e0-a6d7d1f26b2d/em_rainbowtheory_animalrun_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animal",
@@ -517,7 +557,7 @@
   {
     "uuid": "47506f5b-d471-efda-5a2e-51d6147e7f93",
     "title": "Anime Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/38303076-801d-48cc-bd54-3a2fd0986a5e/em_anime_dance_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/62576214-bab1-47b4-8c5d-c092263ae07c/em_anime_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Anime",
@@ -587,9 +627,23 @@
     ]
   },
   {
+    "uuid": "bdb22778-d5e9-2ae8-aba9-1da0db9cd636",
+    "title": "Anime Portal",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9a6f6263-8735-4c99-8801-548f3c592d9c/em_emote_anime_portal_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Anime",
+      "Fun",
+      "Funny",
+      "Race"
+    ]
+  },
+  {
     "uuid": "0c418a5b-e0e5-2307-8154-bfa9f306ffec",
     "title": "Anime Portal Run",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/001dc6db-c86a-49e9-9065-cb86f0d7e3f9/em_anime_portal_run_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/75d4060f-ad62-4e08-9969-82ef3def15e0/em_anime_portal_run_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animated",
@@ -599,6 +653,22 @@
       "Meme",
       "Pop Culture",
       "Anime"
+    ]
+  },
+  {
+    "uuid": "b4bf47e5-85eb-f69c-b5b0-7ef13ca54433",
+    "title": "Anime Pose",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fcb8825d-8215-4c18-a165-3860b4b5068d/em_thunderay_animepose_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Adventures",
+      "Anime",
+      "Fantasy",
+      "Fun",
+      "Teen",
+      "Teens",
+      "Trendy",
+      "Emoji"
     ]
   },
   {
@@ -642,7 +712,7 @@
   {
     "uuid": "f8faa7aa-d9c7-d2ff-e001-26f1db24e6ff",
     "title": "Anime Run",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4ddfc583-5e13-439a-a129-985c0f102f9b/em_5fs_anime_run_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/24a29353-3f1c-4af0-890f-7175be87f638/em_5fs_anime_run_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -811,6 +881,13 @@
     ]
   },
   {
+    "uuid": "e58a2b25-6f94-454f-ae97-3bc2973acd13",
+    "title": "Are You Kidding Me?",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9b533c30-64a2-4636-9a94-fee27fa6946e/em_loosescrew_rbd_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "531dc549-7c27-f3c2-7438-8af2f0c6deb9",
     "title": "Arm Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e33bfcaf-fdf0-4cb0-ac8a-b0de6879d169/em_bleu_depth_games_arm_dance_thumbnail_0.png",
@@ -890,7 +967,7 @@
   {
     "uuid": "bd2d700d-e24b-1005-0c19-0d9a9baf65ff",
     "title": "Assumptions",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f14ed9bd-2fc9-4f7d-a235-c61ce6f0d26c/em_piki_assumptionsdance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/01667921-5ae8-4c9f-883a-f4a83b64b35b/em_piki_assumptionsdance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animated",
@@ -900,6 +977,20 @@
       "Funny",
       "Trendy",
       "Pop Culture"
+    ]
+  },
+  {
+    "uuid": "8e84e9df-e715-ac70-3584-2bc67fd21abb",
+    "title": "Athlete Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cb04937d-3005-4a0f-ba8f-9a07029d9df4/em_hp_athlete_dance_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Dance",
+      "Animal",
+      "Animation",
+      "Cartoon",
+      "Extreme",
+      "School"
     ]
   },
   {
@@ -917,7 +1008,7 @@
   {
     "uuid": "038e0f5c-6bb2-908a-8184-edf1c059aa19",
     "title": "Aura Farm",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0f3f6d91-9611-4c96-aebd-308ba3cca714/em_xpgames_aurafarming_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b945c8b0-b94b-4be4-811b-7e567afcf0c0/em_xpgames_aurafarming_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animated",
@@ -932,7 +1023,7 @@
   {
     "uuid": "c05aa908-79aa-c04d-26f7-397a22e4e334",
     "title": "Aura Farmers",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/870b26de-4588-40d7-8a7b-a41103a79062/em_re_em_aura_farming_boat_black_reaper_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1b474c8b-8892-43ab-b31e-3757f69d2ff4/em_re_em_aura_farming_boat_black_reaper_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Cool",
@@ -943,7 +1034,7 @@
   {
     "uuid": "5c497979-d03b-726c-6d72-a0a25ab51562",
     "title": "Aura Farming",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d4d0792a-37a7-453b-a655-9a45d686093f/em_aypierre_aura_farming_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/75554f60-8ddb-4498-803c-4384c36c03fe/em_aypierre_aura_farming_emote_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -953,7 +1044,7 @@
   {
     "uuid": "ae529cdb-3c69-b746-936c-e6a3a1e8e187",
     "title": "Aura Farming",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e1e57679-ba16-4919-be77-1248b80de81e/em_blocklab_aura_farming_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/26d4d5e6-961b-4c62-ada7-b810710eecac/em_blocklab_aura_farming_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance",
@@ -967,7 +1058,7 @@
   {
     "uuid": "eee28735-dab0-fe53-e87b-8b5053cf8123",
     "title": "Aura Farming",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/db14f20c-7c39-4e2e-91c0-f14bb02297af/em_sbs_aura_farming_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/55f63f1a-2516-4648-ba23-1c649d5285e6/em_sbs_aura_farming_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Anime",
@@ -980,15 +1071,40 @@
     ]
   },
   {
+    "uuid": "c9a9a26c-7977-730a-8123-b8ee1d660bde",
+    "title": "Aura Farming",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0f037614-7a8b-40a4-8057-e36c5121467f/em_boat_dancing_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Farming"
+    ]
+  },
+  {
     "uuid": "811513eb-47d8-36f9-70db-febabdd900b9",
     "title": "Aura Farming Walk",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8cc52836-309d-4965-b0d7-98544e0e21a8/em_ks_aura_walk_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b92d8c58-6b1f-4d1d-a94e-3964bb0d61e4/em_ks_aura_walk_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Anime",
       "Dance",
       "Farming",
       "Crown"
+    ]
+  },
+  {
+    "uuid": "b457a5c6-711d-2d26-024c-6efa86733235",
+    "title": "Aura Pose",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/17043682-63a9-4dbe-87aa-cfabe10df312/em_blocklab_aura_pose_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Dance",
+      "Fun",
+      "Meme",
+      "Memes",
+      "Teen",
+      "Teens",
+      "Trendy",
+      "Cool"
     ]
   },
   {
@@ -1115,7 +1231,7 @@
   {
     "uuid": "24865af1-e918-81fc-e8ae-ffdda8e354f5",
     "title": "Back and Front Flip",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2c136e81-97bd-45a6-b75d-baf28d31a407/em_fallstudios_backfrontflip_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0c0ebcd6-d569-4adf-afbd-db89907f5846/em_fallstudios_backfrontflip_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -1178,7 +1294,7 @@
   {
     "uuid": "fa68e7a1-5d12-3757-89b9-f1888fcbb0f4",
     "title": "Backflip",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cd680144-fc02-4274-b5f4-c3e865fb2696/backflip_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0308be89-907b-403b-9bcb-6fdaf304ed25/backflip_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Jump",
@@ -1202,7 +1318,7 @@
   {
     "uuid": "0dabc869-b7be-42d8-afb3-48da2f01f316",
     "title": "Backflip Dab",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/86b2b620-2a8e-4257-992d-d56f2098cb12/em_pixelsmilestudios_backflip_dab_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6c279f54-a56b-46ce-9327-be8120700a31/em_pixelsmilestudios_backflip_dab_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -1221,7 +1337,7 @@
   {
     "uuid": "e301938b-0c4a-6630-d0a8-b7dde72ccf5c",
     "title": "Backflip Fail",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/62a4bbb3-e744-4a0c-96af-d349bc38762b/backflip_fail_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/404d8cf4-7c34-4d12-85da-f675c387e2d7/backflip_fail_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Fun",
@@ -1474,7 +1590,7 @@
   {
     "uuid": "9717deed-5374-f0bc-3748-df39728884f3",
     "title": "Balloon Fly",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3e85a13c-8323-4937-b5af-d241259f3745/em_balloon_fly_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0e105867-5983-4b7d-818b-701a728ab020/em_balloon_fly_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -1495,7 +1611,7 @@
   {
     "uuid": "8825cb7c-d9c2-dbb5-6a4b-5874f45e208c",
     "title": "Banananana Aura",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e30532d3-94c6-48ef-8498-7926e453e055/em_re_em_aura_banananana_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/697de953-fda3-4604-92c1-99f15b704126/em_re_em_aura_banananana_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Boat",
@@ -1506,7 +1622,7 @@
   {
     "uuid": "731f652f-8c4f-3f89-04d1-362dc63db7e4",
     "title": "Band Jam",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8e59e147-8e22-4eb6-97bd-fe0c37397325/em_dlb_band_jam_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3755bead-1c53-41b1-a0b0-48d78b0ee4da/em_dlb_band_jam_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -1571,6 +1687,19 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1ed480d7-3502-4791-a8a7-dcbbf5641b30/em_sqst_battledance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
+  },
+  {
+    "uuid": "26df224f-ec27-8988-6025-2fc3bcacaeab",
+    "title": "Battle Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9d072537-8029-405d-9603-eb9adc613ce5/em_lore_battledance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animated",
+      "Battle",
+      "Fight",
+      "Wars",
+      "Dance"
+    ]
   },
   {
     "uuid": "f8a5f2ad-7fac-195f-e8fe-8c0fcb31d18a",
@@ -1678,7 +1807,7 @@
   {
     "uuid": "4a0bb854-6f4a-ce15-07e3-26b3a4a06ed1",
     "title": "Belly Flop",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/abf7fb12-3328-493d-936d-11f7647b8586/em_bleu_depth_games_belly_flop_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/905227f0-2d27-4181-a56b-a52f008c036c/em_bleu_depth_games_belly_flop_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -1793,7 +1922,7 @@
   {
     "uuid": "5b33cccc-46e6-b79a-f1eb-ad381acfcc0d",
     "title": "Bird Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/139001f4-848c-43b5-8254-bdbed413e14a/em_jfcrafters_birddance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/def67879-dc61-40bd-a074-969cbe8e09d4/em_jfcrafters_birddance_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "City",
@@ -1874,16 +2003,23 @@
   {
     "uuid": "ea635ced-a58d-77ce-2278-b0d3060d6ef1",
     "title": "Blowing a Kiss",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9feb142b-e5ce-469b-b6d5-c98d553812b6/em_polymaps_blowkiss_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/12588cfe-1a30-4159-b410-a7c1851a0a0c/em_polymaps_blowkiss_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Cute"
     ]
   },
   {
+    "uuid": "5c095459-b959-f76d-15aa-81b125908014",
+    "title": "Blue Shirt Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d8dd73c9-ce18-4f50-9046-e8b540b6abdb/em_radiumstudio_blue_shirt_dance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "4a43a411-7800-2000-3c43-33f5a51dce94",
     "title": "Blue Shirt Guy Dancing",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7d4fa040-34fa-4357-baf2-297a1ee5312c/em_sqst_blueshirtguydancing_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/edad2a03-9566-491c-83af-85625b9e1a18/em_sqst_blueshirtguydancing_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -1956,7 +2092,7 @@
   {
     "uuid": "b54723ad-b985-dc1c-d33f-53afbda40f5b",
     "title": "Boogie",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1485680d-6973-49f1-9852-35c99138eab4/em_blockstudios_boogie_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fff730e1-cc11-4853-ba18-c9ff206e16ab/em_blockstudios_boogie_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -1995,8 +2131,15 @@
   {
     "uuid": "2a324574-f9ca-58cb-a669-32a89a49af51",
     "title": "Boosting Ki",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bdfd4c50-6249-485d-a462-93e4134f374f/em_ks_boosting_ki_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c4e55dc7-b1fd-4545-bddb-a777b919ca91/em_ks_boosting_ki_thumbnail_0.png",
     "rarity": "rare",
+    "keywords": null
+  },
+  {
+    "uuid": "229b706a-a40b-47eb-9c60-013c8bcb8d28",
+    "title": "Bop Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a06f9df4-e3ed-452b-880b-23d63b31aa5c/em_yeggs_bop_thumbnail_0.png",
+    "rarity": "uncommon",
     "keywords": null
   },
   {
@@ -2025,14 +2168,14 @@
   {
     "uuid": "ca56db36-6de4-9c8c-2076-c75fe9fc20e1",
     "title": "Bouncing Ball",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3adc58e8-44b0-4af3-a446-8bd7045553f1/em_4ks_bouncingball_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a830ec76-03ef-46c8-800a-7e7ccd0e9b2c/em_4ks_bouncingball_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "73d58bd7-3826-680b-72a9-c129783a6c6a",
     "title": "Bouncing Ball",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9bc6aa8a-87ff-4426-b3d5-0c7994bf1351/em_tomhmagic_bouncing_ball_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/63ed84f0-210c-40af-88d6-d60004efe225/em_tomhmagic_bouncing_ball_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -2174,7 +2317,7 @@
   {
     "uuid": "f5d9e381-a95b-a0bc-77bd-84a735de7e04",
     "title": "Break It Down",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f7ff8584-1d9a-41fd-9709-3343b67ef88f/break_it_down_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c46edc4a-d3c3-45c1-ba4c-ffbeebe49370/break_it_down_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -2224,7 +2367,7 @@
   {
     "uuid": "85233b51-4307-5967-c50e-8df51458dab0",
     "title": "Breakdance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a7644a26-38f7-4d87-a464-f50fe9f9dc7a/em_goe_breakdance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/23d6407a-5d93-41e3-9a98-4592f67ca970/em_goe_breakdance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance",
@@ -2239,7 +2382,7 @@
   {
     "uuid": "6192f082-02b4-f3d4-a2a4-f9c21318fcbf",
     "title": "Breakdance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2a32c53f-5972-496d-b43b-e905a23f2dea/em_minty_breakdance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/40f03b4d-6506-45b2-800f-a42268f227a8/em_minty_breakdance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -2303,7 +2446,7 @@
   {
     "uuid": "ac87172f-b358-46bc-1983-f9762bb0f219",
     "title": "Breaking Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e6cb55e1-93c2-436c-98d0-6225e5f8bb98/em_bh_breaking_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9a396c57-530a-4fcb-9929-38c4b00827e4/em_bh_breaking_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -2312,6 +2455,13 @@
     "title": "Breakneck",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3b55ce54-902a-4543-ac4f-555b9fb39be6/em_aurrora_breakneck_emote_thumbnail_0.png",
     "rarity": "rare",
+    "keywords": null
+  },
+  {
+    "uuid": "a4cf8d54-4902-2eee-245f-4a5ff1ec8d96",
+    "title": "Bridge",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/890e254d-5acb-4a7f-832b-9b2d6af6754d/em_perfect_bridge_thumbnail_0.png",
+    "rarity": "uncommon",
     "keywords": null
   },
   {
@@ -2326,7 +2476,7 @@
   {
     "uuid": "32a406ce-9df9-8925-da5c-34702f463051",
     "title": "Bugged Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/da57980a-3a2b-4c8b-a55c-f13c8174c143/em_bugged_dance_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4700dd5d-8a8f-4cf9-a13c-10afe498cc0f/em_bugged_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance",
@@ -2335,6 +2485,13 @@
       "Fun",
       "Funny"
     ]
+  },
+  {
+    "uuid": "621020a8-6d6b-546e-925f-b705772eee58",
+    "title": "Bugged Out",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/de016164-3670-4ea3-b13c-9340f0dab2d8/em_diveblocks_bugged_out_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "3345ac0d-a0b1-3561-f121-cb0310290bf9",
@@ -2407,6 +2564,16 @@
     ]
   },
   {
+    "uuid": "9fb075fa-99e5-efb8-2911-d383ee4ec118",
+    "title": "Butterfly 6",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a0ad632b-b852-4690-910c-b23237b75f9f/em_mra_butterfly6_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Fly",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "24dad7d2-2123-6993-c88b-4a37acb912dc",
     "title": "Butterfly Twist",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b08ff488-d076-4748-b891-93cda02355f3/em_butterfly_twist_thumbnail_0.png",
@@ -2425,7 +2592,7 @@
   {
     "uuid": "f3d7fe12-6f7d-2c61-48fe-1673b89cb59e",
     "title": "Buzz Off",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/eba49dfc-1c21-422b-b8fa-3c433936e3a2/buzzoff_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/53f15507-6885-4914-8772-79d25357baaa/buzzoff_emote_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -2548,6 +2715,20 @@
     ]
   },
   {
+    "uuid": "e3203ce9-5b2b-fe0e-fd6f-3a4542225587",
+    "title": "Carousel dancer",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b198ee85-2faf-4097-9423-7ccc23fb059f/em_carousel_dancer_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Beautiful",
+      "Dance",
+      "Music",
+      "Old School",
+      "Pop Culture",
+      "Princess"
+    ]
+  },
+  {
     "uuid": "af685394-ad73-cead-af09-f6f84a659863",
     "title": "Cartoon Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b74d65f-ea3b-4b69-a4be-19542b5df4a6/em_cartoondance_sapix_thumbnail_0.png",
@@ -2561,6 +2742,13 @@
       "Dance",
       "Party"
     ]
+  },
+  {
+    "uuid": "d79149a8-6a8d-c99e-9a37-a528464f7f94",
+    "title": "Cartoon Logic",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/084fe9bc-ef32-47b0-82a7-bb3bb926f691/em_qwertyuiopthepie_cartoon_logic_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "5cf9d5a3-6fa0-424e-8ae4-d1f877b836da",
@@ -2741,7 +2929,7 @@
   {
     "uuid": "363b2889-3b3d-32b7-0541-9cadd308ed75",
     "title": "Chaotic Clap",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/750b1685-b5c9-4013-a457-ae484a217e18/em_starktma_chaotic_clap_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0524b4e5-211f-411c-9230-f0e92079bf73/em_starktma_chaotic_clap_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animated",
@@ -2789,7 +2977,7 @@
   {
     "uuid": "ef63e7e8-6883-a254-ed0a-c40ffa929f78",
     "title": "Charlston Club Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c093799f-07f7-4cb1-9ec7-c4a8aa54cd7f/em_panascais_emote_charlston_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/806106b0-d6c4-4972-92c8-a48a97675729/em_panascais_emote_charlston_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Character Customization",
@@ -2960,7 +3148,7 @@
   {
     "uuid": "0dc3fbcb-cf64-713d-e18c-078a379c7d76",
     "title": "Chicken Peck",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/45f45251-a49e-4247-9877-6d749c4f0179/em_da_chicken_peck_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c704b861-7a3f-41b5-8f61-1ec91199d22e/em_da_chicken_peck_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animal",
@@ -2991,7 +3179,7 @@
   {
     "uuid": "bf6c7d25-fc3b-385c-0be3-7ae77cd8287c",
     "title": "Chill Bounce",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c4b35949-3485-4e06-9856-6b2265c20d2f/em_dexity_chillbounce_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bef81c80-d29d-4022-a2ff-aa2e8d9a01bd/em_dexity_chillbounce_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Cool",
@@ -3040,14 +3228,14 @@
   {
     "uuid": "1f0ca529-2091-67e8-f631-9b7573277dae",
     "title": "Chillin...",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d2b30c64-bfed-4eb0-97a1-6762a10e1440/em_verart_chillin_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/26cdeff8-dd6a-4de1-89c2-b040bac20b22/em_verart_chillin_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "1f9f6bed-b3f1-1118-4587-d6d297eba878",
     "title": "Chilling",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e27d6ca8-2377-4210-b88c-59ae73ea6757/em_bleu_deapth_games_chilling_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6572a5cf-57a9-4972-a80e-6f99d312eaf9/em_bleu_deapth_games_chilling_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -3074,6 +3262,21 @@
     "rarity": "rare",
     "keywords": [
       "Fighting"
+    ]
+  },
+  {
+    "uuid": "f0c3fa3d-3a41-cf8b-57e1-b3cbea0d2dfe",
+    "title": "Circus trick",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5843d48f-e472-45c6-a2ab-0c34e14b7e67/em_circus_trick_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Advanced",
+      "Competition",
+      "Complex",
+      "Cool",
+      "Cooperation",
+      "Fun",
+      "Festival"
     ]
   },
   {
@@ -3139,6 +3342,17 @@
     ]
   },
   {
+    "uuid": "3404645e-7eb1-edda-1280-149c02c5caa8",
+    "title": "Confess Your Love Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d5ad617d-5c62-4ace-9b64-46ec1ea47d7d/em_confess_your_love_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Dance",
+      "Trendy",
+      "Cute"
+    ]
+  },
+  {
     "uuid": "7eb37278-49af-e5c5-8138-64c5dc341d88",
     "title": "Confused",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/86fb89f6-dc1e-4954-8ecc-bec1977ce56a/em_not_understanding_cdst_thumbnail_0.png",
@@ -3160,6 +3374,15 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1a63a1df-433b-44f3-9fed-c7cc5ac7c0ea/em_pixelsandblocks_confused_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
+  },
+  {
+    "uuid": "adb468f7-c610-0db1-be08-d3297cf12c34",
+    "title": "Confused",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/77a95e57-754e-4316-8280-0eb757c0a960/em_tts_confused_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Emotional"
+    ]
   },
   {
     "uuid": "5e1ef7ed-efdf-44a9-8ace-6cca6275d80d",
@@ -3254,6 +3477,13 @@
     ]
   },
   {
+    "uuid": "242ba7ac-0b15-aca3-40fb-8c6fe79fb49e",
+    "title": "Cool Side Flip",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7097fc7a-c649-4770-8b7c-875fbfa25430/em_foxynotail_cool_side_flip_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "0ffdced7-1345-eef9-1d7f-d5297813b6f1",
     "title": "Coquettish Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9c939648-5d92-435a-92ff-37664b24130a/em_coquettish_dance_thumbnail_0.png",
@@ -3312,7 +3542,7 @@
   {
     "uuid": "cd946bc3-f1ea-7415-aed1-1d75228a42d8",
     "title": "Cowering",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3ba0bab3-8a29-4a01-82f9-34e9acab901f/em_emote_cowering_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8daed31d-69f9-4f8a-918b-ab0d6c3ae63b/em_emote_cowering_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Scary",
@@ -3384,7 +3614,7 @@
   {
     "uuid": "251bccae-0a22-7b9a-9cec-876d55a03c6a",
     "title": "Crazy Rotation",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/abd01c89-ab52-4d8a-b474-5f22fe20633e/em_crazy_rotation_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/77332e0a-e621-435d-a157-0e4d8e978965/em_crazy_rotation_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Custom Creatures",
@@ -3402,6 +3632,21 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1a28f2b7-0eb0-44fa-b8c8-da963ea7979c/em_crazy_spin_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
+  },
+  {
+    "uuid": "2e457a5b-a7a1-edae-adb4-a834df4c5c45",
+    "title": "Crazy Spinning",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d5854cb2-a831-4d01-ba11-315d87934b11/em_crazy_spinning_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animated",
+      "Cool",
+      "Dance",
+      "Epic",
+      "Meme",
+      "Moving",
+      "Pop Culture"
+    ]
   },
   {
     "uuid": "5073f697-b5f1-260e-a1bc-cfcb65ebc363",
@@ -3447,7 +3692,7 @@
   {
     "uuid": "bc700795-9e9c-a2b8-baa9-da70842c6a34",
     "title": "Crosswise Jump",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/50844096-d552-4866-8cf5-d5a3b538f4af/em_horizonblocks_crosswisejump_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2ee23e60-9bcf-47f6-8aa9-9378c00c66f0/em_horizonblocks_crosswisejump_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animation",
@@ -3509,6 +3754,18 @@
       "Cool",
       "Trendy",
       "Modern"
+    ]
+  },
+  {
+    "uuid": "8a2b72f2-9a56-4758-9312-6394495767cb",
+    "title": "Curious",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d0663e1f-8318-411e-a440-dd6fdd418db7/em_lore_curious_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Emotional",
+      "Realistic"
     ]
   },
   {
@@ -3973,7 +4230,7 @@
   {
     "uuid": "d20367bb-0029-3549-0d84-40dca4475ca2",
     "title": "Dancing Domino",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/72b818d0-11a4-4f44-9162-035371b1a9f1/em_funcreators_dancing_domino_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b3a26dbb-1ab1-42f2-88f2-835d58294a5a/em_funcreators_dancing_domino_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -4018,6 +4275,20 @@
     ]
   },
   {
+    "uuid": "dbd992ae-9cd8-1712-929b-17cf8a56e0aa",
+    "title": "Dancing Mashup",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9d7ad369-d8e0-405a-b01f-19a760b3a5ef/em_gamefam_dancingmashup_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Dance",
+      "Fun",
+      "Funny",
+      "Trendy",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "89769ab0-06d0-4b0a-a076-7a5cc2059e3a",
     "title": "Dancing With Friends",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c2e0c68e-c700-4ece-ab98-447da332f163/em_viral_dance_thumbnail_0.png",
@@ -4051,7 +4322,7 @@
   {
     "uuid": "0b68e311-433b-20c8-f700-6da91ed53fc3",
     "title": "Debug Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b6495ae8-fd51-4cb9-a578-6893d717f514/em_bleu_depth_games_debug_dance_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ad60f09d-7139-482b-8e74-fd22f1a04e8c/em_bleu_depth_games_debug_dance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -4065,7 +4336,7 @@
   {
     "uuid": "bd6d9bfd-fc82-1f3a-3479-837e9246fc8e",
     "title": "Deep Thought",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7ecc4795-2f0c-4670-bf66-3eb25e2ee3ee/deep_thought_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2d34b943-678f-4f96-a034-8d32c5d37db5/deep_thought_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -4095,7 +4366,7 @@
   {
     "uuid": "b41ff405-dfdf-d123-0a9e-5f314ed2efde",
     "title": "Delicious Day",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4314835c-6294-4933-918a-bab0ffb7f6aa/em_lore_deliciousdaydance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/090960de-9f99-4cfd-bbc9-aadcbd3346eb/em_lore_deliciousdaydance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animated",
@@ -4162,7 +4433,7 @@
   {
     "uuid": "a91dc5bc-e476-6e4d-6aff-5cd53dd51ce0",
     "title": "Disappointment",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c57c3e59-3be3-41e2-8d37-c830d0f328e5/disappointment_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce991d0a-e22a-4991-8a4d-a9a436d2096c/disappointment_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -4211,6 +4482,22 @@
       "Animated",
       "Animation",
       "Party"
+    ]
+  },
+  {
+    "uuid": "c4b54850-eba3-e4f0-4e83-987d9f063836",
+    "title": "Disco V",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3f9bdca5-8018-4461-aa85-1d344072838f/em_dexity_disco_v_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Cool",
+      "Dance",
+      "Funny",
+      "Music",
+      "Party",
+      "Retro",
+      "Rhythm",
+      "Cartoon"
     ]
   },
   {
@@ -4280,6 +4567,13 @@
     "keywords": null
   },
   {
+    "uuid": "3f55d82c-0fc9-e888-225e-0b7cdd2060f4",
+    "title": "Dodge This",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6f23ff2c-9d02-418b-a5ec-b463c85bffe4/em_funcreators_dodgethis_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "8b2e28ff-7d77-0d00-bb9e-94eb4fa4a45a",
     "title": "Dodging Arrows",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/59f048a8-6b31-4bd0-befb-b1eafa416d92/dodging_arrows_thumbnail_0.png",
@@ -4321,7 +4615,7 @@
   {
     "uuid": "9d7f75fd-28d9-6929-ccaa-7db303316380",
     "title": "Dog Walking",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b6086a58-6fac-4e38-907d-bcd9e20be841/em_skilendarz_dog_walking_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5ba8cc6b-61db-45c8-a81a-8543f5b34656/em_skilendarz_dog_walking_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dog",
@@ -4452,7 +4746,7 @@
   {
     "uuid": "90a2347f-7776-2dda-25e2-c6730e9cc18d",
     "title": "Dr. Livesey Walk",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/72dc7b8f-eb54-4b28-9444-81b7fedfea2a/em_sqst_drliveseywalk_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7206b0a9-830a-45cb-9cc9-fd7756135acc/em_sqst_drliveseywalk_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -4480,9 +4774,24 @@
     ]
   },
   {
+    "uuid": "a4f91ca6-d05c-e61e-41c7-13b996d7e465",
+    "title": "Dragonfly flight",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bbfbd545-51f4-4136-87bf-96cc5d09341c/em_dragonfly_flight_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animal",
+      "Aviation",
+      "Camo",
+      "Comedy",
+      "Flower",
+      "Funny",
+      "Fly"
+    ]
+  },
+  {
     "uuid": "80298db9-9016-cda9-d0f6-4f89ca4842af",
     "title": "Dramatic Anime Poses",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3d9e4309-8e97-46c2-afb4-145dabfc5e7a/dramatic_anime_poses_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/286b02f1-9af8-49fb-81ff-c511b484a344/dramatic_anime_poses_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -4514,7 +4823,7 @@
   {
     "uuid": "174c346c-f43e-418c-8acf-f282be1c6768",
     "title": "Dramatic Fall",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2f292aa1-37cb-446e-a986-f6f9bb27f986/em_loosescrew_dfl_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c9cbc55b-81b6-47f4-abce-cbec22328eb1/em_loosescrew_dfl_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -4528,7 +4837,7 @@
   {
     "uuid": "911ea988-bf10-6b63-7f68-61867b8b7b37",
     "title": "Drammatic End",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aa31d4b7-6ca8-4efd-8f31-a49771433c31/em_death_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f2635130-2b77-458a-ba09-1f27e828ddb1/em_death_emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Animation",
@@ -4552,6 +4861,13 @@
     "uuid": "3633a685-fc51-97e6-23d4-4664bca025ec",
     "title": "Driving",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/00e273d2-985e-4092-8035-57b90b51fdd1/em_spark_driving_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
+    "uuid": "cc21a1e5-5a36-bde4-5ec6-7eb21e03b5f6",
+    "title": "Driving",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3f67b0ce-48cc-4780-bd08-c451605f510d/em_plank_driving_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -4650,6 +4966,22 @@
       "Funny",
       "Epic",
       "Animation"
+    ]
+  },
+  {
+    "uuid": "1d74dfe6-b970-aed7-ebab-32d7e98ab688",
+    "title": "Dust Off",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0ae75bcf-c39e-4fc6-8081-1e18acb59896/em_dust_off_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Challenge",
+      "Cool",
+      "Funny",
+      "Gamer",
+      "Grand Strategy",
+      "Teen",
+      "Unforgiving",
+      "Tactical"
     ]
   },
   {
@@ -4880,7 +5212,7 @@
   {
     "uuid": "f997e8f8-23c7-4789-219b-ad9f34e40d91",
     "title": "Endless Dab",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/943c0c8f-a437-4397-b396-e4b2279c6e91/em_octovon_endless_dab_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/739545d5-0c01-4246-a253-8c04e10e590b/em_octovon_endless_dab_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -4898,7 +5230,7 @@
   {
     "uuid": "7308db1d-b39b-7239-c80d-0ccd11a2c079",
     "title": "Energetic Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0985d609-0d74-40af-998e-47323d297000/em_hielke_energeticdance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/afddf03a-f115-447b-8e5a-9afe8951fee5/em_hielke_energeticdance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -4928,6 +5260,22 @@
     "rarity": "rare",
     "keywords": [
       "Cool"
+    ]
+  },
+  {
+    "uuid": "8c8c9a72-d495-15b2-9d03-eea2c4aef934",
+    "title": "Energy Beam",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/dad67254-179f-43ee-a4f5-76413f66ff27/em_blockstudios_energy_beam_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
+    "uuid": "ea81da59-c8dd-424f-9af3-e027214be42a",
+    "title": "Energy Float",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a81f7fd-6ed6-44c1-93bd-64cd980ff45a/em_sphax_energy_floating_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Trendy"
     ]
   },
   {
@@ -4986,7 +5334,7 @@
   {
     "uuid": "799231ec-cbe0-23d4-3ef1-839bb03c428b",
     "title": "Epic Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ddfaccf8-e6dd-4f20-8c25-b9d4d49df124/em_epic_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bc5d7fc0-e948-4eb3-b57c-2b9efaa3aeb0/em_epic_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Cool",
@@ -5018,7 +5366,7 @@
   {
     "uuid": "f32d69ce-729a-4277-bc4e-482c9b83587e",
     "title": "Epic-A-Choo",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0bd77920-eeb3-4e53-9e78-c0d2d2b8c6fc/em_tetrascape_epic_a_choo_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1b3ad4b5-e897-4efe-8a20-e5ec521779ba/em_tetrascape_epic_a_choo_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Funny",
@@ -5039,6 +5387,17 @@
       "Fun",
       "Funny",
       "Dance"
+    ]
+  },
+  {
+    "uuid": "09893233-bb2c-1bd6-4fc1-e45fc6cbbb42",
+    "title": "Evil Clone Laugh",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/994cccf7-aa6a-4164-93ac-56f01edcc33c/em_gloriousstudios_evil_clone_laugh_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Dark",
+      "Scary",
+      "Animated"
     ]
   },
   {
@@ -5207,7 +5566,7 @@
   {
     "uuid": "e5923628-bd15-4c3c-31f8-a02857512d3f",
     "title": "FIRE IS HOT",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/de603426-96bd-4e18-ad69-90c7042306fc/em_fire_is_hot_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c50acde7-a1e1-442c-a2ad-5081eb84c7c6/em_fire_is_hot_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Cool",
@@ -5232,7 +5591,7 @@
   {
     "uuid": "d05a3850-f255-8c85-29a2-38d0982efd6a",
     "title": "FROG JUMP",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/965b0522-1738-4428-acf1-b12ec8deaacb/em_frog_jump_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3536666e-593d-4188-b775-67cabdbb8f9f/em_frog_jump_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animal",
@@ -5265,14 +5624,14 @@
   {
     "uuid": "5bafd295-8211-eef6-a706-754dc25b664e",
     "title": "Face Palm...",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a4f2f45e-fe3e-4838-9445-554e3b6fdb99/em_verart_facepalm_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e4d69210-b20d-4617-b5f8-18ad08b68d76/em_verart_facepalm_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "2be138af-ed72-4526-17ec-4e5eceb5462c",
     "title": "Face Plant",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2df82b08-13c5-4f71-8840-11490bd760a7/em_radiumstudio_face_plant_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e3db5dfc-c125-4a14-9a09-f4d528444e0c/em_radiumstudio_face_plant_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -5328,7 +5687,7 @@
   {
     "uuid": "db470178-ca08-3da3-4210-1b8820d6ce19",
     "title": "Facepalm",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/110b47dc-2c81-44a8-b17e-06ca05f9829e/em_da_facepalm_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/db6308d7-db64-4fc9-9f70-41b80930b25f/em_da_facepalm_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Animated",
@@ -5363,7 +5722,7 @@
   {
     "uuid": "47248a9c-987d-a656-eeed-1e16b4446909",
     "title": "Failed L Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/40764083-dd17-40e9-badb-8e322cb0672d/em_plank_failed_l_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2c37d420-cdd8-4482-a38f-62b94a01a3fa/em_plank_failed_l_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Cool",
@@ -5526,7 +5885,7 @@
   {
     "uuid": "3757b52e-6dd7-29cc-d4f3-fd9a3567432f",
     "title": "Farming Aura",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3587cd18-c079-4a7f-aa79-cc40b1fb7f9d/em_lofigirl_farmingaura_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/10b249ec-857e-45c7-b4a7-67b0a115b14a/em_lofigirl_farmingaura_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Farming"
@@ -5654,7 +6013,7 @@
   {
     "uuid": "7494b32e-84ce-4daa-8278-2839e48a532e",
     "title": "Figure Skating",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9f6e0aca-d173-4c3f-92c0-3df86e8c71eb/em_fingermaps_fsk_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4c90c5a1-8d87-44bb-b915-dbc6abf77776/em_fingermaps_fsk_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -5686,6 +6045,22 @@
     ]
   },
   {
+    "uuid": "25e636c2-f737-62cd-301a-36552adedaec",
+    "title": "First Try",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e6b8b0e0-e6ef-4ed1-a642-19c56af1f5ed/em_kreatikstudios_firsttry_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Cool",
+      "Emoji",
+      "Fun",
+      "Pro",
+      "Stylized",
+      "Teen",
+      "Trendy",
+      "Gamer"
+    ]
+  },
+  {
     "uuid": "49364853-7096-a0db-e358-89335b92cf08",
     "title": "Fish Flop",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f17bab7a-3487-4031-b48c-bb5484d5f8aa/em_gamefam_fishflop_thumbnail_0.png",
@@ -5712,6 +6087,22 @@
       "Funny",
       "Cool",
       "Epic"
+    ]
+  },
+  {
+    "uuid": "769f272e-07a3-5434-d756-395eba24d6e9",
+    "title": "Fish Swim",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/407b253f-a7ed-443e-90d5-62b514974646/em_wb_fish_swim_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Epic",
+      "Fish",
+      "Fun",
+      "Funny",
+      "Pool",
+      "School",
+      "Summer",
+      "Fishing"
     ]
   },
   {
@@ -5789,7 +6180,7 @@
   {
     "uuid": "476b5f28-91c4-629b-081f-fe8ae160e9d8",
     "title": "Flex on Them!",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/695ba0ad-bde4-4a11-81e7-cacf5b761613/em_flex_on_them_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1b53c5d9-27ba-4fe1-afb3-1303aacf8dea/em_flex_on_them_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Epic",
@@ -5839,7 +6230,7 @@
   {
     "uuid": "eabf7440-6692-bea2-6b3d-8e67746de7dc",
     "title": "Flight",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9cb8f2cd-6735-4e64-9249-72427e9ac80f/em_polymaps_flight_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c42f3631-a3b7-4f85-9241-77de58fe9cc5/em_polymaps_flight_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Fly",
@@ -6026,6 +6417,13 @@
     ]
   },
   {
+    "uuid": "72c56e0f-4911-cfff-7f1e-ddf5fd1ed26b",
+    "title": "Floor Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2e862924-5938-4bcc-988e-841170ab710b/em_blockstudios_floor_dance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "8c0c8638-5f0b-7063-3f43-f91e93644876",
     "title": "Floss",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/71ac8961-7099-4ccf-acfd-401afd118232/em_kingcube_floss_thumbnail_0.png",
@@ -6064,7 +6462,7 @@
   {
     "uuid": "55017080-1054-019e-40bd-a219b916ca01",
     "title": "Floss",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ee478df7-d6d7-48de-b6fa-cacbe36196ae/em_ambient_floss_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/363880ba-3ce8-45d8-94a3-b4fb1c224417/em_ambient_floss_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -6163,7 +6561,7 @@
   {
     "uuid": "955ce061-20ce-e38a-c390-20c9ed32190f",
     "title": "Floss Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ee162fc8-5c6a-4db0-9297-b8f7838f58d5/floss_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7b721d3e-66ca-493e-92f8-ca68babbad1b/floss_dance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -6179,7 +6577,7 @@
   {
     "uuid": "8212d13d-8c01-7d0f-f705-5f40d78e05a4",
     "title": "Floss and Floss",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3151dd6a-7ab7-44ed-b01c-b9f11691f276/em_pickaxe_studios_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8001fd7d-1c67-4d7c-8f61-dedc19676ab0/em_pickaxe_studios_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -6235,7 +6633,7 @@
   {
     "uuid": "65afefb8-8406-762f-9f2c-73f500268fd9",
     "title": "Flux",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ed27138a-4f2d-41c0-aead-309ddfbcda93/flux_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/401a80bc-3681-496a-94df-8261e81741d6/flux_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -6266,7 +6664,7 @@
   {
     "uuid": "b3503263-1cc1-5686-c9cf-c2d580a90b0a",
     "title": "Flying",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/97152ede-e9a5-4dff-b05f-c2f3214add07/em_kora_flying_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cf4f134b-10b0-4895-b8cb-15366de3d2cf/em_kora_flying_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Fly"
@@ -6547,7 +6945,7 @@
   {
     "uuid": "8bb85546-13ed-4e65-aab7-fee272a26196",
     "title": "Freeze Frame Victory",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d73614cf-8672-4789-ae2a-0ecd5018040f/em_fingermaps_ffv_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f73efa3a-9854-4f44-b142-cea801c009f7/em_fingermaps_ffv_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -6561,7 +6959,7 @@
   {
     "uuid": "026777fe-f1ea-43a0-ecd2-a086871f1424",
     "title": "Friend Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6d68deeb-f811-4be7-a9ee-4864f734eac1/em_lofigirl_frienddance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c2f83853-8cd4-4147-84e6-0e7b686c6928/em_lofigirl_frienddance_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Friends",
@@ -6609,7 +7007,7 @@
   {
     "uuid": "9eb9ccd3-dd53-0263-5673-99c69bd591ea",
     "title": "Frosty Friction",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e0865668-6ca1-4d2f-b044-359e344b5171/frosty_friction_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f742938a-c32d-4632-8a44-4d37d0fdb750/frosty_friction_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Winter",
@@ -6653,6 +7051,20 @@
     ]
   },
   {
+    "uuid": "936f6f1b-42c0-3b09-ab37-22aec79673c3",
+    "title": "Funny Dog Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e0433cb5-7874-4cf6-8732-ab45a3b565e4/em_hp_funny_dog_dance_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Dance",
+      "Animal",
+      "Animation",
+      "School",
+      "Cartoon",
+      "Extreme"
+    ]
+  },
+  {
     "uuid": "9d3ad184-4b02-491b-a834-6307eecad9e1",
     "title": "Funny Surprise",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/eda9612f-f186-4a88-82a7-0cb8af83c719/em_bp_funny_surprise_thumbnail_0.png",
@@ -6677,7 +7089,7 @@
   {
     "uuid": "fb3cd5fd-4b27-5a84-af49-3344ed3b4e6d",
     "title": "Fusion Handshake",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/583ddf02-24d4-4d00-a6f0-e0fefb25dbc8/em_doghouse_fusion_handshake_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/dec7fc81-6216-4204-9604-c044b9c63519/em_doghouse_fusion_handshake_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -6700,7 +7112,7 @@
   {
     "uuid": "29ad09cb-1923-4b65-8ec3-90dadd5603ae",
     "title": "Game Over",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8691e300-02cd-4227-90d3-37beb46f08d4/em_fingermaps_gov_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1de876c8-8a39-4a77-aca9-1286ba30be79/em_fingermaps_gov_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -6748,6 +7160,19 @@
       "Moving",
       "Animation",
       "Jump"
+    ]
+  },
+  {
+    "uuid": "370bda6c-faa5-49e7-b680-d693db729815",
+    "title": "Gangnam Style 2",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7b8101cf-2e26-4478-a792-22faf88e69b7/em_gangnam_style_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Cool",
+      "Dance",
+      "Epic",
+      "Trendy",
+      "Character Customization"
     ]
   },
   {
@@ -6808,7 +7233,7 @@
   {
     "uuid": "d3889b7b-6ad5-8099-9913-a8de11d18a4a",
     "title": "Get Griddy",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aa51b955-2b13-45c2-be2b-35b60cca7af7/em_get_griddy_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4c0466bc-8e30-40cc-856d-26d5b2b247ca/em_get_griddy_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Battle",
@@ -6856,6 +7281,22 @@
     ]
   },
   {
+    "uuid": "9a97675d-485e-0e79-7bd9-a2ae44d2e11c",
+    "title": "Get Sturdy",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20ffc792-988b-47c8-8065-81daa4ae617c/em_thunderay_getsturdy_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Anime",
+      "Dance",
+      "Fantasy",
+      "Fun",
+      "Teen",
+      "Teens",
+      "Trendy",
+      "Funny"
+    ]
+  },
+  {
     "uuid": "865e2dbf-5aeb-bb1a-3088-494af7c3f14b",
     "title": "Getting Excited",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d6280eb-4a29-420e-b7a2-85aaa169c3e8/em_horizonblocks_gettingexcited_thumbnail_0.png",
@@ -6887,7 +7328,7 @@
   {
     "uuid": "81a23b3e-01e3-88a5-2e09-e4019d86fea5",
     "title": "Ghostly Float",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/812f653a-799a-4374-b394-1c766fdd238e/em_lothiredon_ghostly_float_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bf392513-8443-48d4-988e-12fc935cfcd7/em_lothiredon_ghostly_float_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Fly",
@@ -6979,7 +7420,7 @@
   {
     "uuid": "3f72d9fe-bd2e-2e6a-90c0-96113f29ffac",
     "title": "Glitch",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/059021cd-0288-4c68-8c27-1889ff317311/em_doghouse_glitch_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f7e4d77b-5d04-463a-a883-392bc87b1a8e/em_doghouse_glitch_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -7009,7 +7450,7 @@
   {
     "uuid": "c420c231-ed05-2376-168a-3fd512cd7930",
     "title": "Glitch runner",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/34311acd-1da6-4ee2-8fc5-c2f3616522ea/em_glitch_runner_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/dd538389-c7ba-4632-b46b-5d5903ec9d00/em_glitch_runner_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Abstract",
@@ -7170,14 +7611,14 @@
   {
     "uuid": "73cd8867-4c02-a8ee-09d0-5a441217dd64",
     "title": "Goofy Animal",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/dc83b1db-d312-4d9c-a4ff-4f50529bb40d/em_funcreators_goofy_animal_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/28316d88-e219-4e4a-a148-fdc3eae75a70/em_funcreators_goofy_animal_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "72755493-4c61-e9f9-312b-769b6aea43b4",
     "title": "Goofy Handstand",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b8109216-40fe-4e04-b93a-4064807cc457/em_emote_handstand_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/de5637ac-e146-4292-90a2-93e0e36b9185/em_emote_handstand_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Funny"
@@ -7345,7 +7786,7 @@
   {
     "uuid": "e5ef10b5-d864-9766-c1a0-81035923db4a",
     "title": "Griddy",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c7e8d1ba-f3cf-4a94-9d5c-f867a872c7fc/em_kingcube_griddy_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/50dacc57-1059-4e8c-9204-3c16e8466cd0/em_kingcube_griddy_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -7368,7 +7809,7 @@
   {
     "uuid": "c05e4fa5-e248-67b8-1d4d-9aa90fc3024f",
     "title": "Griddy",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/686c37d4-29e7-4c52-94c5-87ef41b22300/em_kubo_griddy_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/82a8d49c-1c6d-4d36-b441-514d6367399c/em_kubo_griddy_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -7389,7 +7830,7 @@
   {
     "uuid": "0c7c9a84-c051-4e6a-af36-52a2d39e935c",
     "title": "Griddy Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a38661b0-1d24-4987-888b-e9a487c13e9a/em_xpgames_griddy_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/db765be7-91ca-48a7-8635-efdc8a5d41eb/em_xpgames_griddy_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animated",
@@ -7446,6 +7887,21 @@
     "keywords": null
   },
   {
+    "uuid": "cbad9758-6d07-49e8-9c12-fc63039a5022",
+    "title": "Griddy-culous",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f6c6a1f5-618a-4389-b863-30096817c84b/em_kicu_griddy_culous_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Dance",
+      "Emoji",
+      "Fun",
+      "Funny",
+      "Emotional"
+    ]
+  },
+  {
     "uuid": "bacc2232-b70a-3e6e-73c6-71a219a837fc",
     "title": "Groovin'",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bb4cef10-d5f1-453d-948b-250d869b7672/em_lot_groovin_thumbnail_0.png",
@@ -7498,7 +7954,7 @@
   {
     "uuid": "f07d0e47-663f-7ab7-32c0-9332972feb12",
     "title": "Guitar Slide",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ea17cef7-f6c8-4da6-81f6-987888894226/em_pixelsquared_guitarslide_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8aec2e3b-b8f1-4b29-81c0-69112ebc65c5/em_pixelsquared_guitarslide_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -7691,7 +8147,7 @@
   {
     "uuid": "ad75ba02-1834-8245-f354-7e8ad12d0cad",
     "title": "Handstand",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3c7c07b4-3e54-4f2b-8cb5-9267bf46a7f5/em_da_handstand_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/23a87478-d56e-496d-be38-0a0263833fd3/em_da_handstand_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Funny",
@@ -7702,7 +8158,7 @@
   {
     "uuid": "cd13a9f3-950c-86d2-b81f-a66f86af0de3",
     "title": "Hanging Like A Bat",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/10de98e9-334c-4e62-b010-92a321ad84a4/em_gamefam_hanginglikeabat_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d2512db1-72df-40cc-9e92-ba29ef58a612/em_gamefam_hanginglikeabat_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animal",
@@ -7716,6 +8172,22 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7c034b42-3698-4767-a0fa-92c978141233/hanging_upside_down_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
+  },
+  {
+    "uuid": "937b1232-8b4d-48ca-89a6-d2e20b8a8b5c",
+    "title": "Hapiness Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e6ae4719-4b50-4b6f-946f-3cab35b5d922/em_wb_happiness_dance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Anime",
+      "Cool",
+      "Epic",
+      "Fun",
+      "Funny",
+      "Japan",
+      "Kingdom",
+      "Casual"
+    ]
   },
   {
     "uuid": "c7dd1194-632a-4392-8eb0-485b50802055",
@@ -7741,7 +8213,7 @@
   {
     "uuid": "bf9a49fa-f103-1253-cfbd-e7a5f03a76cf",
     "title": "Happy Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/23e03b03-592b-4733-bb0e-cff7f82c82de/em_blocklab_happy_dance_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/80cc3298-294c-43c5-b81c-a8ff6668ced3/em_blocklab_happy_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance",
@@ -7754,9 +8226,16 @@
     ]
   },
   {
+    "uuid": "33ef333b-4aba-ae3b-ba72-53206698507a",
+    "title": "Happy Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c651f52a-e5f0-4653-ae0b-33665325d659/em_fallstudios_happydance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "84d21398-deda-d55c-af8c-65893a6c1b8e",
     "title": "Happy Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/40665902-de9e-4429-b8ae-202d7647cebd/em_happy_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a4ed03dd-488f-4ab1-927f-1a8535c86a1b/em_happy_dance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animated",
@@ -7774,6 +8253,13 @@
     "title": "Happy Hello",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/43f9e6d7-63ea-4d72-80ca-b638056a36e9/em_kubo_happy_hello_emote_thumbnail_0.png",
     "rarity": "common",
+    "keywords": null
+  },
+  {
+    "uuid": "ee4f38b8-87a2-70d9-8a8f-c206cdda1a96",
+    "title": "Happy Jump",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ab57a1bc-fc1d-481e-9ead-22efd1a03de1/em_piki_happyjump_thumbnail_0.png",
+    "rarity": "uncommon",
     "keywords": null
   },
   {
@@ -7811,7 +8297,7 @@
   {
     "uuid": "79a2c03f-b04a-e9b1-9228-c4452a500f7c",
     "title": "Happy Wave",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f493e806-a74e-43b6-87df-4ae64a0b6040/em_glowfisch_happy_wave_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b9843f8a-9e66-494a-8731-a4d86286aafc/em_glowfisch_happy_wave_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -7830,7 +8316,7 @@
   {
     "uuid": "43001321-fe6c-d75c-0a32-6f08d7c46489",
     "title": "Head Banger",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/14f0740a-e41d-4cda-9f5a-66fbd0a106fb/em_pickaxe_head_banger_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a3e86574-989c-4a61-b395-38360c75808e/em_pickaxe_head_banger_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Music",
@@ -7908,7 +8394,7 @@
   {
     "uuid": "e0a59d47-138e-6084-b149-53ddb237b627",
     "title": "Headbang",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/93cfe6ae-af10-4645-9fc0-e33296fa334e/em_kreatikstudios_headbang_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ba3598fd-9ac5-417d-97e7-c87e227295cd/em_kreatikstudios_headbang_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animation",
@@ -7924,7 +8410,7 @@
   {
     "uuid": "0f274a0b-658f-7de3-4255-e480e8ddbe73",
     "title": "Headbanger",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/feb7126c-d9f8-4512-b0cc-5d3b9ead6939/em_hielke_headbanger_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3f96c5bb-d801-443c-9893-faa77fa541db/em_hielke_headbanger_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -7955,6 +8441,20 @@
     "keywords": null
   },
   {
+    "uuid": "b39970fb-9986-4e58-b696-ee7d90145149",
+    "title": "Headstand",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/af9e7383-f3a9-4437-8850-9f3314acdfd9/em_bh_headstand_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Deluxe",
+      "Emoji",
+      "Hardcore",
+      "Comedy"
+    ]
+  },
+  {
     "uuid": "bf4a66e2-5328-4c58-80c1-a336e55cfaa2",
     "title": "Headstand Celly",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0a5d586b-e5c2-44a6-b004-3331623641a7/em_headstand_celly_thumbnail_0.png",
@@ -7981,7 +8481,7 @@
   {
     "uuid": "8c925ffb-a376-5a34-d9de-9e648fd3cc94",
     "title": "Heart Emote",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/72cd9a93-62d0-4faa-905d-8adfa51b9ec6/em_heart_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4af649ee-79d2-4928-b50b-b50db76cd8b9/em_heart_emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Cute",
@@ -8024,7 +8524,7 @@
   {
     "uuid": "6b6930ef-af3b-836e-a8a6-a98e3fbfef04",
     "title": "Helicopter",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fd35cc8e-d12e-4c13-8ad6-260d1186c714/em_rl_emote_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/792daf36-66da-49ef-8444-1d0c504ee727/em_rl_emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Cool",
@@ -8138,10 +8638,21 @@
   {
     "uuid": "e9b8a725-4cb8-7025-7829-9f3828dcd92a",
     "title": "Helicopter 6",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e8bceb24-c16c-4647-b7e9-acc73bb7c6ea/em_mra_helicopter6_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1830db85-32dc-4910-8786-7d0fe3f475de/em_mra_helicopter6_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Fly",
+      "Cool"
+    ]
+  },
+  {
+    "uuid": "0be9bf8c-2760-de9d-2b42-86a0fe56d987",
+    "title": "Helicopter 7",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9d7ed308-a9c4-4a41-86d3-a3d877f3cddc/em_mra_helicopter7_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Fly",
+      "Helicopters",
       "Cool"
     ]
   },
@@ -8178,7 +8689,7 @@
   {
     "uuid": "e351162f-dad2-6aad-a5cf-65b771557a88",
     "title": "Helicopter Spin",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c18d977e-f0fb-49b0-be36-b2ad63f70796/helicopter_spin_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/832626a4-5711-4917-b7f1-38ead248354b/helicopter_spin_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Funny",
@@ -8341,14 +8852,14 @@
   {
     "uuid": "a4e9fe74-c60b-55cb-cb21-d4064538393c",
     "title": "High Five Me!",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3274c588-8c76-4702-8baa-7e64ac3e2238/em_verart_high_five_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0cc0b5ad-5921-49e7-98cc-5b3fe93e9ad1/em_verart_high_five_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
   {
     "uuid": "a393bf9c-8458-1891-bc11-d3d670d4321a",
     "title": "Hip Shuffle",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9aa1860d-4042-43f6-9f43-732de879f4cc/em_hip_shuffle_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b54bd4dc-25f0-432f-96a3-a886e7da69e4/em_hip_shuffle_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Cool",
@@ -8378,7 +8889,7 @@
   {
     "uuid": "e07d7972-9a79-9d3a-8237-1429db8233a5",
     "title": "Hits in the air",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d4782c16-bc13-4b55-9f22-d5c1b58cf43c/em_cc_air_punchs_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1c05fc14-11ad-49d6-aae1-751f6e59715a/em_cc_air_punchs_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Emotional"
@@ -8478,7 +8989,7 @@
   {
     "uuid": "d25e2028-4dd0-1263-834f-1c9aa8dc4dea",
     "title": "Horror Swing",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f6fc0ad8-2178-4232-8337-19095eac534e/em_sbs_horror_swing_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/695659e3-15d9-41a6-b4c9-891cea1f0031/em_sbs_horror_swing_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Anime",
@@ -8813,6 +9324,13 @@
     "keywords": null
   },
   {
+    "uuid": "5fff9daf-b138-df45-e685-7eac28d4aa60",
+    "title": "Icarus Pose",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/48c8921a-b517-47f3-b37d-dca46cc44b58/em_netherpixelstudios_icarus_pose_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "e9ab2d64-615e-7067-1495-c6beb9fa410d",
     "title": "Ice Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/055e4231-94e2-49da-8c38-0f19ba5599d2/emote_ice_dance_thumbnail_0.png",
@@ -8829,7 +9347,7 @@
   {
     "uuid": "41dae449-ee61-1908-a681-1869ada47706",
     "title": "Iconic Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d2968459-cc36-4ef6-ad3c-80a1b525dfe1/iconic_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9580cd3e-a10e-48c2-908c-da6652d212b3/iconic_dance_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Dance"
@@ -8937,6 +9455,16 @@
     ]
   },
   {
+    "uuid": "4bfb3e66-6985-89a6-16d1-f4cb4836f77a",
+    "title": "Infinity",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d0d96b1a-862c-469d-bb5a-58700a4ad46e/em_aria_infinity_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Emoji",
+      "Fly"
+    ]
+  },
+  {
     "uuid": "3a22b0e1-6e26-687d-461a-02b9cdab3b7e",
     "title": "Infinity Dab",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/50a3713f-ccc5-467e-ae23-7b4f779c3d01/em_rainbowtheory_infinitydab_thumbnail_0.png",
@@ -8981,7 +9509,7 @@
   {
     "uuid": "f31cea6b-4a5d-2a1e-a9ed-18ade918d1ae",
     "title": "Infinity Trapdoor",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4ebba4bb-0f56-4802-baa1-180a2ccc050a/em_aria_infinity_trapdoor_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/53a744e5-2f7a-473f-a8b0-6866d4f426f1/em_aria_infinity_trapdoor_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Emoji",
@@ -8991,14 +9519,14 @@
   {
     "uuid": "86d05135-a0a4-402b-88c4-4ca248819bab",
     "title": "Inflatable Tube Figure",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4c4cdccd-9a0d-46d9-9d39-3086f8afd80d/em_inflatable_tube_figure_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a2f8ea97-356c-48ce-bc3d-05499bf5db33/em_inflatable_tube_figure_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "d30eb5aa-02a8-8607-3dc2-bac33cc22ae5",
     "title": "Inflatable Tube Man",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d94d9aeb-006b-49b4-97eb-0d3a8312d02a/em_loosescrew_itm_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5c1ebd9e-65c9-424c-b854-fcedfa2b4630/em_loosescrew_itm_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -9095,6 +9623,22 @@
     ]
   },
   {
+    "uuid": "249d285e-d348-cb31-83fc-3ce3cb3fe56e",
+    "title": "Irish Folk Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9474ebd4-1405-47cc-9961-6a760fa4f9fd/em_irish_folk_dance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Dance",
+      "Epic",
+      "Green",
+      "Holiday",
+      "Meme",
+      "Pop Culture",
+      "White",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "7facbcbe-a6b1-b307-5263-739a66cde49e",
     "title": "Itchy Bottom",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5bfd4fca-e08c-4640-8c65-c6ee1e61cd99/em_emote_mbl_itchy_bottom_thumbnail_0.png",
@@ -9131,7 +9675,7 @@
   {
     "uuid": "ce0fe70e-02d4-a7c2-928c-99030213e7a6",
     "title": "Jaunty Jig",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b83d35d-4c17-4d19-9aec-c2ad6b91f5d6/emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f5ff0f26-20fa-4bf1-a9bd-52b338ebc53a/emote_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -9145,7 +9689,7 @@
   {
     "uuid": "c863a7f3-3c74-09f8-f7ab-813d00370cfd",
     "title": "Jellyfish Jam",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/98e4bdd6-548e-495d-a8af-31be5b90a86b/em_jellyfish_jam_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/93903ebe-7e16-43ad-93a4-d65fa97b67bf/em_jellyfish_jam_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animated",
@@ -9441,6 +9985,13 @@
     ]
   },
   {
+    "uuid": "ef08e20c-2d15-ccc9-78c1-cd67ee5723c8",
+    "title": "Jumping Spider",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4f7e20b1-5ce0-4d22-8185-8ac35d0a33e8/em_netherpixelstudios_jumping_spider_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "aae87b0c-8729-cba9-52dd-dbb2431b013b",
     "title": "Jumpscare",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/067263f4-1c88-4222-b5c9-868332487db4/em_pixelsquared_jumpscare_thumbnail_0.png",
@@ -9467,6 +10018,13 @@
       "Extreme",
       "School"
     ]
+  },
+  {
+    "uuid": "b7fec3bc-2a35-9bcd-c384-83f67f973464",
+    "title": "Just Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/544cd700-59fc-4ac7-acfc-dce01924760e/em_bigdyegaming_just_dance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
   },
   {
     "uuid": "c4b85459-d763-46ba-ba3d-cc01a3c23a4e",
@@ -9513,6 +10071,13 @@
       "Funny",
       "Trendy"
     ]
+  },
+  {
+    "uuid": "e2a9b743-11b9-c545-2b85-36ed77e7ea50",
+    "title": "K-Soda",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/187ba01f-7b46-463d-abe7-633d3ac083ec/em_hielke_k_soda_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "238c8de3-766a-a419-a3dc-c23063ce680e",
@@ -9631,7 +10196,7 @@
   {
     "uuid": "1aa5b488-f9d9-b2e2-75ce-c138f381c3cf",
     "title": "Kick Outs",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d135e50f-0570-4797-9d85-50500b28d37a/em_lore_kickouts_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7d9c28a0-bc2c-40fe-9c98-83fdb37acd64/em_lore_kickouts_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animated",
@@ -9654,6 +10219,13 @@
     "title": "Kicking Ball",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3a5dbf8f-f02f-4b0e-8158-dbb44ed5b245/em_mb_kicking_ball_thumbnail_0.png",
     "rarity": "common",
+    "keywords": null
+  },
+  {
+    "uuid": "f7561963-5749-e91c-6b08-1477295dc921",
+    "title": "Kicking Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/240ecf02-6ec6-4589-b313-ba6001e873f4/em_octovon_kicking_dance_thumbnail_0.png",
+    "rarity": "rare",
     "keywords": null
   },
   {
@@ -9819,7 +10391,7 @@
   {
     "uuid": "8302538b-33c8-55a3-ae81-97d811aab2f2",
     "title": "Kung Fu Bow",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3802fd9d-eeeb-4cab-865d-3f821c3c4bfe/em_kung_fu_bow_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9e95d9e2-b7e7-4b0c-800d-7fd515dd6c86/em_kung_fu_bow_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -9870,7 +10442,7 @@
   {
     "uuid": "9a4ed8da-dea2-21d3-0844-830b2251db9c",
     "title": "L Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/89d3f799-ce6a-45e8-995a-a29f73ae37ee/l_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/85b598e8-3c98-4592-8abf-9df556ddfa08/l_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance",
@@ -9919,7 +10491,7 @@
   {
     "uuid": "74ac4ac7-4e18-ba6f-3a22-25e53dbefe05",
     "title": "L Flare",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/59c7d55d-bdd3-4186-902c-24e6afce60fb/em_aria_l_flare_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ab745bd4-7d80-4bf8-80b7-c836476ebb18/em_aria_l_flare_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance",
@@ -9999,7 +10571,7 @@
   {
     "uuid": "a0db0cc0-bc44-03db-d64f-03c397da3a63",
     "title": "Lagging Out",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c78dd7b5-fa07-45c4-a03a-7af6710d1dc1/em_lagging_out_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bdba5e43-a211-4bae-b6c7-8e2e2c3c6851/em_lagging_out_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -10031,7 +10603,7 @@
   {
     "uuid": "4c069001-156e-6fc4-d2e6-dfbe131baa1e",
     "title": "Laugh!",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4e3a81c0-efaf-4600-93ba-99f1812eb857/5framestudios_laugh_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f5b4f524-e00d-4d89-825f-cf29919e001b/5framestudios_laugh_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -10207,6 +10779,13 @@
     ]
   },
   {
+    "uuid": "b6069518-679d-4201-7011-2296848cec80",
+    "title": "Little Kiss",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1aa3b35f-ac08-417f-b493-89ada5f5ae89/em_funcreators_littlekiss_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "b4d4c3e7-21f0-70ab-6a9d-8a8b18466432",
     "title": "Little Rest",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/459e0526-22a6-4e9e-a8c2-b4d8d92dc507/little_rest_emote_thumbnail_0.png",
@@ -10303,6 +10882,18 @@
     ]
   },
   {
+    "uuid": "9d5721d8-8c8d-c686-19ef-e2dcfafa5bb0",
+    "title": "Lose Shout",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e3bddf2d-b9ed-4705-a529-74052d9508f9/em_piki_loseshout_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Emotional",
+      "Realistic"
+    ]
+  },
+  {
     "uuid": "5c0228ae-a93f-7d49-0ed3-d3034c60b3e9",
     "title": "Loser Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/25a2e712-759e-439c-a7a5-580cbfd24d9a/em_aria_loser_dance_thumbnail_0.png",
@@ -10319,6 +10910,29 @@
     "rarity": "rare",
     "keywords": [
       "Epic"
+    ]
+  },
+  {
+    "uuid": "68ba593b-00b1-8b2b-66fc-ec7704bf187a",
+    "title": "Loser Dance 2",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e46bca63-1fd9-4ee0-86e6-023acfcb79b1/em_aria_loser_dance_2_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Emoji",
+      "Dance"
+    ]
+  },
+  {
+    "uuid": "21d75738-204c-2bdf-2168-f8ad54baf74d",
+    "title": "Losing Balance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/49329643-f6c7-448b-a648-c914c829fd48/em_bp_losing_balance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Cool",
+      "Dance",
+      "Cute"
     ]
   },
   {
@@ -10351,7 +10965,7 @@
   {
     "uuid": "bbd7b76f-4136-6ef4-12fd-efa823e70aab",
     "title": "Lovestuck",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b1858ef3-b66b-44dd-8194-2f18a7f38858/em_dexity_lovestuck_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/585e6cc4-b865-4ac9-8e49-c962a56955fa/em_dexity_lovestuck_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Cute",
@@ -10367,7 +10981,7 @@
   {
     "uuid": "cb72799f-3175-bf22-d75d-4ccb591fb4b1",
     "title": "Low Key Gliding",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/675782be-8c36-40be-a203-e8892382d46b/em_tetrascape_low_key_gliding_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f72fab67-276a-4049-90ea-97c2f9b03f28/em_tetrascape_low_key_gliding_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -10430,11 +11044,29 @@
     ]
   },
   {
+    "uuid": "8f8f3137-1ea3-de4e-1515-ea9b91cc5c51",
+    "title": "Magical Powers",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6df5df20-b6d2-449e-a9dd-a9d4443d6d22/em_foxynotail_magical_powers_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "5f0612e4-12b8-fd24-fd80-717a86771e58",
     "title": "Mechanical Bull",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c300d90d-eac0-4ace-8913-a4d73fcd8e77/mechanical_bull_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
+  },
+  {
+    "uuid": "eda0fd5f-0a5d-2772-8beb-8f30b36ebcc1",
+    "title": "Meditating",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/640f2537-26a8-4390-8f5d-272dce3e7511/em_gloriousstudios_meditating_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Power"
+    ]
   },
   {
     "uuid": "e2cc6cce-c6b9-45ec-9662-d724815d1ce2",
@@ -10474,7 +11106,7 @@
   {
     "uuid": "395c17ce-5381-03ab-06f4-c14931eb7b32",
     "title": "Meditation",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/32023ed9-d7aa-4efc-809e-d9f4be11984f/em_street_studios_meditation_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4f94a729-2e3f-4fab-8769-afd651d9324d/em_street_studios_meditation_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -10504,11 +11136,20 @@
   {
     "uuid": "261ba714-48d1-3e78-e379-b9d2f3d2cd9f",
     "title": "Mega Backflip",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a0215427-afc3-4235-a3f2-c28cd9dcba1e/em_lofigirl_mega_backflip_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/43260d6e-bb50-4b2c-8f7c-30769643b1a8/em_lofigirl_mega_backflip_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Cool",
       "Mega"
+    ]
+  },
+  {
+    "uuid": "112a50ad-12c8-8f36-fcbd-18a44d89eec3",
+    "title": "Mega Dab",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0044a961-fc60-4b4a-b8b4-c9107885df50/em_tts_mega_dab_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Dance"
     ]
   },
   {
@@ -10522,6 +11163,13 @@
     "uuid": "92572802-402b-4e50-a55b-804a48853ce6",
     "title": "Mega Man Victory",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b854c2c-6c14-40d1-b726-ae2c0d4712a0/triumphant_pose_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
+    "uuid": "ef299557-448a-d4da-bed1-c92182284dba",
+    "title": "Mic Drop",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/41630e0e-c3a3-4e81-b669-aef954078532/em_mic_drop_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -10579,6 +11227,13 @@
     "keywords": [
       "Dance"
     ]
+  },
+  {
+    "uuid": "9cdde651-ca48-830c-f4a4-48418d0ac0b1",
+    "title": "Mirror Moves",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f7660f0f-877f-436b-805e-aca68f7f3b62/em_diveblocks_mirror_moves_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "be6fed53-39bc-6fad-223e-12203b37c2ce",
@@ -10821,14 +11476,14 @@
   {
     "uuid": "bcb113fd-1167-3ffa-ed80-17514fa4a71b",
     "title": "Mutant Roar",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3fc7d82c-d66f-41e9-b023-6ee0e8c6e254/em_jig_mutant_roar_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1f895a2d-8793-463f-84e4-7b520082d438/em_jig_mutant_roar_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "e60da737-d9fd-8911-7bd1-d4b39dc9f5fd",
     "title": "NO CLIP into BACKROOMS",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a15bf4b5-2d70-4de9-9e51-670cdd840eb4/em_ascent_noclipping_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fa4ed717-4116-42f2-a16e-6d6dc288d513/em_ascent_noclipping_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Animated",
@@ -10923,9 +11578,16 @@
     "keywords": null
   },
   {
+    "uuid": "e879deae-6051-5b4c-6dfb-ef82a9b8717b",
+    "title": "Ninja Fighting",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ddec96a1-3f0a-4790-9a82-8553121e20ce/em_endorah_ninja_fighting_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "bb0e5d4d-e897-067b-ff73-9e98564db9fa",
     "title": "Ninja Flip",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e337ea65-a219-41ff-87a0-e35294dbe72b/em_thunderay_ninjaflip_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/944ababf-8ee5-4dd3-a0ba-091b0b6117ae/em_thunderay_ninjaflip_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Adventures",
@@ -10956,7 +11618,7 @@
   {
     "uuid": "20c349cd-502f-e33e-2758-9d19ecba05d4",
     "title": "Ninja Flip",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58cd03db-a7bf-44b9-81f7-de73ae0b0ba8/em_ninja_flip_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8ea39a71-fb57-4cac-9649-0faf880aef43/em_ninja_flip_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animation",
@@ -10979,7 +11641,7 @@
   {
     "uuid": "1b72428b-fe03-4a05-b346-f6f4943a4a91",
     "title": "Ninja Pose",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/047500bb-e9cd-469b-a8c7-908228819b03/em_block_factory_ninja_pose_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/92028180-4107-471e-806d-6733c0263c91/em_block_factory_ninja_pose_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Ninja",
@@ -11100,7 +11762,7 @@
   {
     "uuid": "9307ceae-4556-17e5-d6a7-cd3671a3325d",
     "title": "Novice Climber",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/44f33930-68a4-4752-8610-cbfdc79257a9/novice_climber_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b71e3db8-5f5f-4bdf-aff1-18f3f195202e/novice_climber_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Block",
@@ -11295,7 +11957,7 @@
   {
     "uuid": "f73aacde-c049-7722-6680-574c8db1f5bb",
     "title": "Out of Body Experience",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/10eff16d-d565-4bd0-a314-211624d60307/em_syclone_studios_out_of_body_experience_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c7968f87-ef58-4609-8440-ac53985acdfb/em_syclone_studios_out_of_body_experience_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Ghost"
@@ -11342,6 +12004,13 @@
     "keywords": null
   },
   {
+    "uuid": "555f2e00-0a8b-086d-8688-bdbf111d9643",
+    "title": "Over Here!",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/89858d25-541f-4a2c-9a27-c4a9a47ba74d/em_verart_over_here_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "ce5c0300-7f03-455d-aaf1-352e4927b54d",
     "title": "Over There!",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c89da231-54a6-4b1d-9317-419f4cca5191/communication_point_thumbnail_0.png",
@@ -11380,7 +12049,7 @@
   {
     "uuid": "156171d4-b2d7-f2a4-4582-8646c263eb97",
     "title": "Painting Heart",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/db1dcb95-d1d7-4202-a631-29245bb2e9ef/em_kora_painting_heart_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f84310ab-db4c-4948-af5b-abf69d6903bf/em_kora_painting_heart_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Art"
@@ -11403,7 +12072,7 @@
   {
     "uuid": "dfaf9b85-46c7-f0fd-df89-ef36db06c29f",
     "title": "Panic",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0ca70736-6e4b-4a5b-9e65-77bab5e0f8d9/em_skl_panic_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1777a622-bb3d-4a26-acfc-d2fa036146f8/em_skl_panic_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animation",
@@ -11485,7 +12154,7 @@
   {
     "uuid": "85c28444-9601-b261-8ca8-07d886a33cef",
     "title": "Penguin Waddle",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3abf3696-4804-4a73-a65f-3422c533f513/em_tetrascape_penguin_waddle_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7e6d5c2c-668c-48af-aaea-4bb640cbba7b/em_tetrascape_penguin_waddle_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Funny",
@@ -11638,6 +12307,21 @@
     "keywords": null
   },
   {
+    "uuid": "afd224f3-7bb2-00c0-d9fe-24428cafb6a6",
+    "title": "Pirouette",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/32d98541-a495-4063-8c9d-542621619a0c/em_blocklab_pirouette_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Cool",
+      "Dance",
+      "Fun",
+      "Teen",
+      "Teens",
+      "Trendy",
+      "Pretty"
+    ]
+  },
+  {
     "uuid": "4b8f18aa-a819-a557-1134-e50f8f36029f",
     "title": "Pirouettes",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/30f3944e-6ab8-40be-affb-ab4db5a7349c/em_jfcrafters_pirouettes_thumbnail_0.png",
@@ -11687,7 +12371,7 @@
   {
     "uuid": "100ea6ce-86cc-1e5b-325f-675fffe60dc2",
     "title": "Play Dead",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4ad2e00a-baa3-44fa-8c4f-92ad56652f1d/em_ns_playdead_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/54540972-804d-42ad-b0c3-07efe35aed20/em_ns_playdead_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Soccer",
@@ -11831,6 +12515,22 @@
     "keywords": null
   },
   {
+    "uuid": "4fede71f-b1ad-1bd7-2324-bf23830d8783",
+    "title": "Pointer Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/806be701-4142-4657-b7ea-9682c3523896/em_horizonblocks_pointerdance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Cool",
+      "Dance",
+      "Music",
+      "Party",
+      "Point",
+      "Trendy",
+      "Teen"
+    ]
+  },
+  {
     "uuid": "3ff30542-0f8a-91d8-9995-e31a0281f0b0",
     "title": "Pondering",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c989867b-711c-44cf-98ca-2c3c0b14e2ac/em_sqst_pondering_thumbnail_0.png",
@@ -11906,7 +12606,7 @@
   {
     "uuid": "508c540f-9391-e598-4766-95fa5c1d4a0d",
     "title": "Popcorn",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/961f1aa8-2584-452b-bad5-2a327cc19dc0/em_inpixel_popcorn_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b78790b0-ea27-4e7f-99c2-2eeca73758e7/em_inpixel_popcorn_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance",
@@ -11927,6 +12627,13 @@
     ]
   },
   {
+    "uuid": "a58ce107-72f9-4403-1caa-30a09f7ca62b",
+    "title": "Portal Drop",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4c33283e-7e3c-4864-987b-bf2b8c391ac3/em_creatorlabs_portal_drop_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "a8a08331-0844-8a1a-7b4c-3536b2b0b300",
     "title": "Portal Falling",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a55c5da4-9662-47e5-bd59-b07193a7bf44/em_portal_falling_thumbnail_0.png",
@@ -11941,6 +12648,13 @@
       "Science Fiction",
       "Emotional"
     ]
+  },
+  {
+    "uuid": "b3301774-fc1e-bd4b-44f4-df31a49af5a5",
+    "title": "Portal Jump",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8319537c-4e92-47eb-a9b4-604b4e8a6158/em_creatorlabs_portal_jump_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "fade00f9-8af5-3297-7b67-170e3176ad3c",
@@ -12015,6 +12729,18 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3c19092b-9b98-47dd-9762-7a09c25a206c/em_netherpixelstudios_possesed_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
+  },
+  {
+    "uuid": "507eeaa9-0707-254e-f178-ac7188ff9759",
+    "title": "Possessed",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/938442f1-e126-4402-82d3-055db5d66534/em_gamefam_possessed_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Monster",
+      "Scary",
+      "Zombie",
+      "Animated"
+    ]
   },
   {
     "uuid": "34259925-44dd-46f0-98e5-80ccebc086d0",
@@ -12098,9 +12824,21 @@
     ]
   },
   {
+    "uuid": "61698f6a-33f5-3ce8-ad97-1d9eb2d58408",
+    "title": "Pulling Towards",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/745b0be6-ede8-4c3f-a97a-9a9d2c65e29e/em_bp_pulling_towards_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Cool",
+      "Dance"
+    ]
+  },
+  {
     "uuid": "278539ef-2f5a-6db2-f302-17bc7bbc0183",
     "title": "Pump Up!",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c2b21c7f-380b-4a36-9522-d9b583588aae/em_rainbowtheory_pumpup_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d9b849a7-a71b-4576-a036-453980a399df/em_rainbowtheory_pumpup_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Animation",
@@ -12115,7 +12853,7 @@
   {
     "uuid": "13127788-62c7-a96d-af8a-1fa557a1ba1c",
     "title": "Pumped Up",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e67c9509-d1b9-4b81-846c-8c89857fe452/em_jfcrafters_pumpedup_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/60ddb6f4-186f-4187-b201-31cd71de2886/em_jfcrafters_pumpedup_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animated",
@@ -12126,6 +12864,20 @@
       "Funny",
       "Trendy",
       "Cool"
+    ]
+  },
+  {
+    "uuid": "d4d0a9b9-c0d8-baaf-199e-a3c1052480cb",
+    "title": "Pumpkin Panic",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/445a2747-2f1e-44f3-8dae-21d2117594ec/em_starktma_pumpkin_panic_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Dance",
+      "Fun",
+      "Meme",
+      "Moving"
     ]
   },
   {
@@ -12293,7 +13045,7 @@
   {
     "uuid": "25ffccf4-e16a-d4fc-a250-b55a234d0034",
     "title": "Push-ups",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3a8e7b74-8b45-4f0b-ba45-bf1516abd706/emote_pushups_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/32b4558d-b2fc-4b30-8c17-a53fb766b88a/emote_pushups_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -12412,7 +13164,7 @@
   {
     "uuid": "94d53226-a7a0-081b-6098-e9b3399692e0",
     "title": "Raging Out",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/624e40ff-170c-4813-b027-2d3e982fa9bd/raging_out_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b7a2900e-9252-4e64-add5-addf61a4b9cf/raging_out_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -12434,6 +13186,20 @@
     "uuid": "50e51304-515d-441f-81d8-7921327b97f9",
     "title": "Rallying",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b8c4814d-711d-4998-94f3-f9ea3c129d86/emote_rally_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
+    "uuid": "99956821-c629-54c3-f966-f2797d5c92fb",
+    "title": "Ran out of stamina",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/913435eb-09c3-430a-89db-6edbc8e5775f/em_sqst_ranoutofstamina_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
+    "uuid": "2683c1f2-a98d-8fbc-2a08-505a3a47d747",
+    "title": "Rat Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/91f71ea7-9b66-4fb7-a91f-ab13e124c81d/em_radiumstudio_rat_dance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -12465,6 +13231,22 @@
     ]
   },
   {
+    "uuid": "6e536665-d7fe-4b19-a053-d039785d007c",
+    "title": "Ready Set Run",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/85037c1f-23b3-45cf-af5c-51522677d6c1/em_kicu_ready_set_run_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Cool",
+      "Fast Paced",
+      "Funny",
+      "Ninja",
+      "Ninjas",
+      "Anime"
+    ]
+  },
+  {
     "uuid": "a602063f-1ded-4959-b978-b5ae7f353536",
     "title": "Rebooting",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ac8c56e0-3530-4251-af17-5bd6f8508ff8/rebooting_thumbnail_0.png",
@@ -12493,6 +13275,15 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/22d887b1-2073-41f8-81b4-6d6d81ee7bc6/em_glowfischdesign_relaxed_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
+  },
+  {
+    "uuid": "fefff48b-a0b0-4b5e-4c78-dce3b18a7f07",
+    "title": "Relaxing",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/39a4bf56-6945-4b58-9ab8-5f72078494a6/em_sphax_relaxed_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Trendy"
+    ]
   },
   {
     "uuid": "69d63edb-f831-5f3c-b19f-8c3589e47acf",
@@ -12571,6 +13362,18 @@
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/546cdaff-bb21-43bf-962c-ecb1e21fb0eb/em_blocky_reverse_spin_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
+  },
+  {
+    "uuid": "373d637d-6beb-4fb4-935d-f1e1b8a0d2ed",
+    "title": "Revive",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/21a63858-4cef-4b4e-b656-5df057e3d0a7/em_bh_revive_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animation",
+      "Perma Death",
+      "Realistic",
+      "Animated"
+    ]
   },
   {
     "uuid": "10b7139e-bd9b-dcfd-1ea1-0371653084fe",
@@ -12686,7 +13489,7 @@
   {
     "uuid": "eb686ce5-4d25-47ed-b61d-4f14b4668ba6",
     "title": "Robot Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bedce734-905f-471a-b963-1114eb02e04d/em_loosescrew_rbd_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a38df4e5-1f5c-4c6c-bc2a-bac1aced08d8/em_loosescrew_rbd_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -12787,7 +13590,7 @@
   {
     "uuid": "24f8e355-d4d8-fa7d-4ded-22ffc7f76b3b",
     "title": "Rockstar",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/928e9792-c12f-4698-a1f3-4b03f10858d2/em_hublebrightstudio_rockstar_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/34cdfe1c-08eb-4be0-98c8-f579e151ea6b/em_hublebrightstudio_rockstar_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Character Customization",
@@ -12826,7 +13629,7 @@
   {
     "uuid": "36780a72-05aa-57b0-0520-4519ff8feb3d",
     "title": "Roll Out",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/dcc54d4b-45b1-4f03-aa77-97ab052e25c5/em_4ks_rollout_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2373dbba-dd8f-4f8a-ae3c-033884da1c4b/em_4ks_rollout_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -12911,6 +13714,13 @@
     "keywords": null
   },
   {
+    "uuid": "af47b2fc-753e-39f4-b109-4abe66266c53",
+    "title": "Rubber Band",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2062058b-2be9-4b99-b3c9-9842616264c1/em_wonder_rubber_band_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "7387be27-5975-428d-adfa-9f9b7467deb6",
     "title": "Rumble",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/94d12ca3-d5c2-4e1d-9f0a-5419c6d9a372/twf_rumble_emote_thumbnail_0.png",
@@ -12936,9 +13746,25 @@
     ]
   },
   {
+    "uuid": "56e281b7-9637-a2e7-7533-78f943d5f32e",
+    "title": "Run to me",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/09abfed9-58a7-4631-9984-f6438aeacba8/em_dexity_runtome_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Adventures",
+      "Animation",
+      "Challenge",
+      "Epic",
+      "Escape",
+      "Funny",
+      "Loop",
+      "Moving"
+    ]
+  },
+  {
     "uuid": "8f969bcc-1018-a179-1403-27c54f570b6b",
     "title": "Run! Run! Run!",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/df1a198b-ba6b-4338-b9df-5f78a6b34b9f/em_skl_run_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/08a3ea8e-9a8c-4f43-b46c-7036232c8838/em_skl_run_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Anime",
@@ -13075,7 +13901,7 @@
   {
     "uuid": "027ce8ce-0bc7-eba9-e4e8-575198c8c8c6",
     "title": "Sad Champ",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/fe5c8d77-4a20-46ca-b3aa-5bbbf790ddb1/em_sad_champ_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/4632df4a-175c-4741-bc44-ffd9fdf9bd88/em_sad_champ_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Fun",
@@ -13160,9 +13986,16 @@
     ]
   },
   {
+    "uuid": "8259e1ae-3627-ce7b-4c0c-e4db1ba46d3d",
+    "title": "Scary Boo",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c8baff70-54c4-418a-9166-e1fc905bfe47/em_chillcraft_boo_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "ffa4b088-ee71-5475-a326-412ef2fab328",
     "title": "Scary Walk",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f90cc877-cb70-443e-985d-0a520e4e4017/em_4ks_scarywalk_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1329130e-8c3e-441e-8496-dc67da68d532/em_4ks_scarywalk_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -13632,6 +14465,22 @@
     ]
   },
   {
+    "uuid": "c160845f-17a1-6726-baf0-84821e1a207b",
+    "title": "Shy Wave",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/227f5b8f-aabf-4374-983a-7a06e3440684/em_sp_shy_wave_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Anime",
+      "Cute",
+      "Fun",
+      "Funny",
+      "Japan",
+      "Pretty",
+      "School",
+      "Princess"
+    ]
+  },
+  {
     "uuid": "946f04ea-8ff0-416e-a66d-8b0d0751e8bf",
     "title": "Sid Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f5f33bda-6ca4-46c9-a0a8-423ed74cfaf5/sid_dance_thumbnail_0.png",
@@ -13686,6 +14535,13 @@
       "Teen",
       "Trendy"
     ]
+  },
+  {
+    "uuid": "b9320e20-9855-61ae-234c-65f82ca67080",
+    "title": "Simple Stretch",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2a17a96a-fadb-4f41-a84e-6f4f7d657d61/em_simply_simple_stretch_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
   },
   {
     "uuid": "7a2ba4ae-6803-43e7-edb3-c4151f4786cf",
@@ -13779,6 +14635,22 @@
     "keywords": null
   },
   {
+    "uuid": "2c2f9c63-0a68-2ef8-03c0-8c30701e0b53",
+    "title": "Sitting Rage",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/913f9478-f4c2-4e6a-b0af-a29da2be754c/em_sp_sitting_rage_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Fight",
+      "Fighting",
+      "Fun",
+      "Funny",
+      "School",
+      "Middle School"
+    ]
+  },
+  {
     "uuid": "ff831cf3-080e-8b7f-e210-6aae74ac080f",
     "title": "Sitting on a Block",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b952cd89-137e-4395-b467-eb0a727e2332/em_jig_sitting_on_a_block_thumbnail_0.png",
@@ -13805,6 +14677,13 @@
     ]
   },
   {
+    "uuid": "422253d2-b9b9-cb2f-657d-b4f8a8ebf269",
+    "title": "Six Seven",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2d792ad0-0b1f-425b-86c2-1d1e7c3733c3/em_arcedge_six_seven_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "57685cc0-2d5d-7d85-d73a-c74b36627d2c",
     "title": "Skateboarding",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/11ba2a98-b23b-4e07-a124-cd591cad5b55/skateboarding_thumbnail_0.png",
@@ -13821,6 +14700,15 @@
       "Fancy",
       "Dance",
       "Cool"
+    ]
+  },
+  {
+    "uuid": "31bf3465-a917-dff5-91f4-a04b48d451da",
+    "title": "SkibidiDobDob",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c5042edd-5dfb-4194-988a-b07716029846/em_lofigirl_skibididobdob_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Dance"
     ]
   },
   {
@@ -13865,7 +14753,7 @@
   {
     "uuid": "6dd65e8c-65f9-a47a-e259-26cb6b83a9ca",
     "title": "Skybound Hero",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8478cb6b-d6b1-42ca-8ba2-8acd2388cf7b/em_creatorlabs_skybound_hero_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90a3b66e-fe7e-4bef-b2c2-bef233ec3c6a/em_creatorlabs_skybound_hero_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -13993,6 +14881,13 @@
     "keywords": null
   },
   {
+    "uuid": "94334d72-0627-ec14-8338-eb7e2fb09acb",
+    "title": "Sleeping Emote",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/49aea921-9932-49ad-ac0e-805ed308c71d/em_sleep_animation_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "e4ed3146-4dcf-e521-05fa-d33eda3a1117",
     "title": "Sleeping Straight",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e6a2b02e-16c1-418e-835c-1a991f654ce2/em_kubo_sleeping_straight_emote_thumbnail_0.png",
@@ -14028,6 +14923,18 @@
     ]
   },
   {
+    "uuid": "0cefe98f-b25d-ccc2-7c93-68e865c04347",
+    "title": "Slick Stride",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/dd96561d-c296-43e3-8076-409059619022/em_stma_slick_stride_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Funny",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "bc5ea751-daf2-ea9d-4ede-28a2dde79936",
     "title": "Slickback Dance",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/82078c60-b072-4061-88a6-d297b93badff/em_aria_slickback_dance_thumbnail_0.png",
@@ -14053,9 +14960,16 @@
     ]
   },
   {
+    "uuid": "3aa14580-f2e2-d5ec-6c77-c01238584689",
+    "title": "Slingshot Launch",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2adfffe6-9050-409d-ad46-d664735087a4/em_dlb_slingshot_launch_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "c5eca8aa-72f0-3513-6519-391387fe1bff",
     "title": "Slip",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/fbf54c00-8127-4bb0-abcb-8753bcc5ccdb/em_hublebrightstudio_slip_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2be0af18-ce06-4ae4-81e6-510dd1e9e3ce/em_hublebrightstudio_slip_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Fall",
@@ -14080,6 +14994,21 @@
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f54095b8-4ea9-4e8f-be25-3aa55ebaba39/em_4ks_slippery_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
+  },
+  {
+    "uuid": "0846a9ba-d5f6-96c7-8587-076cbc0a29be",
+    "title": "Slippery Ground",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/05fcf7a2-a5bf-4f24-95a8-92b34cdcf9ec/em_rainbowtheory_slipperyground_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Block",
+      "Cool",
+      "Explorers",
+      "Fun",
+      "Funny",
+      "Ice",
+      "Emotional"
+    ]
   },
   {
     "uuid": "5ced5e91-bc9f-f0a7-af13-6f62bcef8fb4",
@@ -14121,7 +15050,7 @@
   {
     "uuid": "c13c46a0-d8c0-21e5-ee6a-4dc71dd901b3",
     "title": "Slow Mo Run",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/eb1f7dbb-126e-4555-aaa7-14080acde314/em_wb_slow_mo_run_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f9c43701-a58c-4079-8221-f51ce30e5077/em_wb_slow_mo_run_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animated",
@@ -14153,7 +15082,7 @@
   {
     "uuid": "3f73ec1f-16c6-21af-0828-10a75b986fd0",
     "title": "Slow Motion",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/95c97ab9-23e5-4e00-9e2c-d790ddf866e3/em_slow_motion_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ce49602a-d07e-4c41-829b-e62ed4abe4f3/em_slow_motion_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -14181,6 +15110,21 @@
     ]
   },
   {
+    "uuid": "37668313-d105-2e3e-5174-f934220c7f8b",
+    "title": "Slow Motion Run",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/47cf73be-16c6-48fd-8666-99201d4dc2b4/em_slow_motion_run_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animated",
+      "Epic",
+      "Fast Paced",
+      "Meme",
+      "Moving",
+      "Pop Culture",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "721883ca-0834-8900-520b-4f6837bfacae",
     "title": "Slow Wave",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/97c6c7b0-75f7-46e2-9344-17efde66ff09/em_emote_slowwave_blockception_thumbnail_0.png",
@@ -14193,11 +15137,34 @@
     ]
   },
   {
+    "uuid": "0d86f91d-9433-cf69-5e25-7af20bc97d56",
+    "title": "Slow Wide Walking",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4a16a6be-974a-44e1-8bc9-aa1c503e5695/em_fallstudios_slowwidewalking_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "d346f5ad-57a6-263a-f703-f827fbc39ff0",
     "title": "Slow-mo Battle Trick",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6a2781c6-4950-4fcf-9255-b02fcb734beb/em_sqst_slowmobattletrick_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
+  },
+  {
+    "uuid": "bcda9c4b-d677-e2d0-bd55-98dc0efceaa9",
+    "title": "Slowmo Moves",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/37259de6-93a3-43b5-bc40-e869040c53f9/em_rainbowtheory_slowmomoves_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Aviation",
+      "Cool",
+      "Hack",
+      "Hacking",
+      "Science Fiction",
+      "Space",
+      "Trendy",
+      "Jump"
+    ]
   },
   {
     "uuid": "7cbc1a21-e529-3542-0222-23f3e6df0a02",
@@ -14416,7 +15383,7 @@
   {
     "uuid": "51e58a6d-8d6f-9815-8cfe-7e999a98deba",
     "title": "Snow Angel",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ba982096-b1d0-403c-be11-d006e02a6675/em_cubecraft_snow_angel_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4fe73200-45c9-4cfe-b179-46d2a74a26c0/em_cubecraft_snow_angel_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Fun",
@@ -14438,7 +15405,7 @@
   {
     "uuid": "7b15cc9a-1a65-95f1-22aa-1160b0e3d435",
     "title": "Snow Star",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3fe69fb0-3af7-42a1-97ec-f6e633edbed7/snow_star_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d54a0ae3-e321-446b-ab23-cda076141e99/snow_star_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Winter",
@@ -14560,7 +15527,7 @@
   {
     "uuid": "51e7999e-d481-3cee-53b5-349bc9b866b9",
     "title": "Spacewalk",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e286269-6e4e-4569-a10f-340a17a81255/em_foxynotail_spacewalk_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/eeffe524-39fe-4919-97cd-60059bd6047d/em_foxynotail_spacewalk_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -14585,6 +15552,13 @@
       "Funny",
       "Cute"
     ]
+  },
+  {
+    "uuid": "43f03de2-a307-0589-bcff-01c55fbf2162",
+    "title": "Spell PRO",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3baa8282-1ada-4444-a692-4ac960c32389/em_dlb_spell_pro_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "764e0885-e4f8-4357-b95e-30fdac27a54d",
@@ -14724,7 +15698,7 @@
   {
     "uuid": "5a9b63c5-c0f2-ec18-dd72-2daf44300c46",
     "title": "Spinning Ballerina",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8d8c9c42-dc45-493d-a4fa-2cbd664a1ddc/em_hp_ballet_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a6cad4bf-23cc-4d04-bfab-dab10bac8ee5/em_hp_ballet_dance_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Back to School",
@@ -14765,7 +15739,7 @@
   {
     "uuid": "98fe9ccf-aa6e-b994-48db-c86f50cb23c7",
     "title": "Spinning Top",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/07268837-b367-41c2-89b8-0700743d4b61/em_sqst_spinningtop_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d4a67c84-dbc9-44f0-9f3f-7ab76cf3a7f8/em_sqst_spinningtop_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -14793,6 +15767,13 @@
     ]
   },
   {
+    "uuid": "a9778df0-39ec-b379-c204-819961ac6852",
+    "title": "Spooked",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f54b89c7-b6ae-4192-a3ca-32bc4b1ccd67/em_netherpixelstudios_spooked_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "f98da84c-37e7-4754-6cfa-eb7aa44da3be",
     "title": "Spooky Skeleton Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4a82af8e-46e9-44db-9b12-cd753748cd51/spooky_skeleton_dance_thumbnail_0.png",
@@ -14806,7 +15787,7 @@
   {
     "uuid": "06bb1b0b-ed9d-f34f-533e-49471545f196",
     "title": "Spoopy",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d7f07f88-7ebd-4948-8faf-9930c5cfd051/spoopy_emote_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/03a9c150-25ce-44da-99c1-6e3fdbb0d343/spoopy_emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -14847,7 +15828,7 @@
   {
     "uuid": "1dff7cf9-de69-6db8-1203-28821fa2fb57",
     "title": "Squat Kick Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/011190cf-26cd-48b1-a706-c75036b73c59/em_goe_squat_kick_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/10011aea-12d7-408d-96c0-73f7fb5bd44e/em_goe_squat_kick_dance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -14939,6 +15920,13 @@
     ]
   },
   {
+    "uuid": "190082d7-b282-912c-2f19-dbfd087d9dcf",
+    "title": "Star Pose",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2c0db44d-2ab2-4728-ae04-0b8bf716def5/em_ss_star_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "1ebf22ca-b683-f640-31b0-52fc69444eb7",
     "title": "Star Roll",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3c41d5fb-bf98-45c4-9025-ad3f800c4c34/em_creatorlabs_star_roll_thumbnail_0.png",
@@ -14978,7 +15966,7 @@
   {
     "uuid": "9719be70-c1ca-dab8-048b-d917aaed2aaa",
     "title": "Starlith Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f79e9421-c41c-446f-ac18-aa268f174641/em_panascais_emote_starlit_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1e1fe87d-42c3-430c-a71f-0c82338ead25/em_panascais_emote_starlit_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Character Customization",
@@ -15025,6 +16013,13 @@
     "keywords": [
       "Ninja"
     ]
+  },
+  {
+    "uuid": "852b75f3-7f55-cec4-39e2-558bff400d60",
+    "title": "Stealth Somersault",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fdedfbff-5932-4051-a2dd-bf7bc0bc1a3b/em_inpixel_stealth_somersault_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "77520b23-fad3-0687-b111-2d64cfb81f0c",
@@ -15089,6 +16084,20 @@
       "Funny",
       "Trendy",
       "Character Customization"
+    ]
+  },
+  {
+    "uuid": "fea5a844-1e32-41ef-a33b-fa3553e959be",
+    "title": "Stop Motion",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5c544595-fbaf-40d9-926c-9c1a2482b497/em_xpgames_stopmotion_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Dance",
+      "Emoji",
+      "Funny",
+      "Pop Culture"
     ]
   },
   {
@@ -15212,7 +16221,7 @@
   {
     "uuid": "193c9198-0b5f-5f08-8ce9-b9147fe21f16",
     "title": "Sudden Ghosting",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/74708c6c-d269-40de-bf2c-4c8143fb2a42/em_netherpixelstudios_sudden_ghosting_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f8b6d970-613c-4651-a3f8-399fb30f96da/em_netherpixelstudios_sudden_ghosting_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -15251,7 +16260,7 @@
   {
     "uuid": "329665c9-ca9a-0ddb-dc5a-a3ef95ea1737",
     "title": "Super Cute",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ad6ca9d9-b360-478b-9b00-e818d4fd8968/supercute_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/616bd462-de14-4507-a58b-6cd2ca0158e8/supercute_emote_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -15308,10 +16317,24 @@
     ]
   },
   {
+    "uuid": "8c788376-06ee-2a09-4a4c-d3cb98b7551a",
+    "title": "Super Landing",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5820b79f-558b-41ba-a6bf-fc2c0c380ae2/em_hielke_super_landing_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "db73a2a2-4be4-9fa5-1cb8-1f82b4caac54",
     "title": "Super Power Charge",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/547da2c0-d6cb-4d11-92db-64c0c7bd692d/em_qwertyuiopthepie_super_power_charge_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/41b6230f-0407-43c6-bc6c-2e1b3ebfa104/em_qwertyuiopthepie_super_power_charge_thumbnail_0.png",
     "rarity": "uncommon",
+    "keywords": null
+  },
+  {
+    "uuid": "934c2962-87f5-07f6-c31f-2643ac2316b0",
+    "title": "Super Push Up",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/075418a3-530e-44fb-bd2f-7d401b3d4126/em_chillcraft_pushup_thumbnail_0.png",
+    "rarity": "rare",
     "keywords": null
   },
   {
@@ -15347,7 +16370,7 @@
   {
     "uuid": "a9424db2-6e84-d67b-7689-6e5fc00ca330",
     "title": "Super Shuffle",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3bc8bf39-07f9-49b0-a401-805397b5b2fd/em_buildershorizon_super_shuffle_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d84f7357-5469-45c7-99da-ebd1c0264eda/em_buildershorizon_super_shuffle_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Superhero",
@@ -15384,6 +16407,13 @@
       "Anime",
       "Black"
     ]
+  },
+  {
+    "uuid": "995fae15-6013-e28e-9385-530f326df93d",
+    "title": "Super Villain",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/085b4370-f899-40d4-8ed9-9735307acfb8/em_aymericpierre_super_villain_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
   },
   {
     "uuid": "92ced0a7-bce5-c23d-0d8e-fb2dd813b13c",
@@ -15436,14 +16466,14 @@
   {
     "uuid": "14a5d366-5e41-da08-44f8-3ab720d456c1",
     "title": "Superhero",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c6c826d1-a784-4b97-9632-d879bfeb0c10/superhero_emote_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a98a1ec4-1373-4d41-9989-d93ee219d824/superhero_emote_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
   {
     "uuid": "70bb2022-a536-9135-17b7-9874ec11af39",
     "title": "Superhero Fly",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e3351a81-be91-4b14-a936-da845d3cef01/em_kc_superhero_fly_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cb9ef63d-abbf-4501-833e-056c5b37c00b/em_kc_superhero_fly_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Superhero"
@@ -15477,9 +16507,31 @@
     ]
   },
   {
+    "uuid": "08b7c33e-0443-4a44-8411-4e75740dfd58",
+    "title": "Superhero Griddy",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/566ced5a-774b-4378-9388-834c9233f95e/em_razz_superhero_griddy_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Funny",
+      "Superhero",
+      "Dance"
+    ]
+  },
+  {
+    "uuid": "1404c0eb-72dd-4ec1-bbc3-30040b10f950",
+    "title": "Superhero Jump",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5cb89bde-9073-48bf-aecc-1b3baf569f57/em_razz_superhero_jump_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Jump",
+      "Superhero",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "dc9300a3-11a6-6c09-d71e-740311a5715a",
     "title": "Superhero Landing",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5f70f9f2-e92d-410d-a388-0e2febcb393e/em_superhero_landing_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9570331b-9b00-4288-a159-9dac3b41d5bf/em_superhero_landing_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Fun",
@@ -15562,7 +16614,7 @@
   {
     "uuid": "8a3bc7ee-f266-b3bd-e578-3b4dc03ec890",
     "title": "Surfin Bird Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9a2ae8c2-3b20-4839-a091-f040fdc19f76/em_surfin_bird_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b17c620c-f703-4b58-98fb-7831ea6f1856/em_surfin_bird_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animated",
@@ -15589,6 +16641,19 @@
     ]
   },
   {
+    "uuid": "f1bb3af9-6e7e-4be2-92cd-fb484d25a7aa",
+    "title": "Surfin' Bird Dance 2",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a97538bc-050e-4f93-891d-437205003148/em_surfin_bird_dance_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Cool",
+      "Dance",
+      "Epic",
+      "Trendy",
+      "Character Customization"
+    ]
+  },
+  {
     "uuid": "4b8ad72a-388b-3407-5c47-beffe1fcea15",
     "title": "Surfing",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a45d7a19-98b2-4513-be4e-cb65f5e032be/em_endorah_surfing_thumbnail_0.png",
@@ -15602,7 +16667,7 @@
   {
     "uuid": "5a3711f2-33d0-bf58-6b02-a650258995db",
     "title": "Surfing",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fbf09d31-8565-4750-a471-b420361374e9/em_surfing_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/88e9090e-4a7d-4bf2-b3ad-f4181d8f7cb9/em_surfing_emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Animated",
@@ -15611,6 +16676,20 @@
       "Cute",
       "Epic",
       "Summer"
+    ]
+  },
+  {
+    "uuid": "1a2b92f3-3add-03ee-f6e9-bab5c8f62a27",
+    "title": "Surfing",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/98a65f10-1d0b-4138-8219-adc4771790ac/em_surfing_wave_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Blue",
+      "Cinematic",
+      "Fly",
+      "Funny",
+      "Holiday",
+      "Ocean"
     ]
   },
   {
@@ -15715,7 +16794,7 @@
   {
     "uuid": "4a359360-bcc9-c173-5835-dbf9de1573e8",
     "title": "Swimming",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c022b96c-9985-45a9-a7cc-40639674e1a0/em_street_studios_swimming_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7b2ec21e-fd5c-4ed5-a3b4-9a881aa17549/em_street_studios_swimming_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -15775,7 +16854,7 @@
   {
     "uuid": "2794cdac-e033-23e4-b931-c894f9c9f5dc",
     "title": "T-Pose",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/92cd2ae3-a947-4c20-9810-67f432bfeb2d/t_pose_emote_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20fb1f4b-ecaa-4e19-a329-5fedeb251d72/t_pose_emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Funny",
@@ -15798,6 +16877,22 @@
       "Animated",
       "Fun",
       "School"
+    ]
+  },
+  {
+    "uuid": "c690ccc4-6b17-bea7-0315-b702656fd005",
+    "title": "T-Pose",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bb57a059-abfe-4782-a020-76290b14b6d3/em_horizonblocks_tpose_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Art",
+      "Celebrity",
+      "Cool",
+      "Fun",
+      "Movie Star",
+      "Pop Culture",
+      "Trendy",
+      "Human"
     ]
   },
   {
@@ -15826,7 +16921,7 @@
   {
     "uuid": "94402c81-d8a5-6715-f056-7e556b9b783e",
     "title": "T-Pose",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b77bc0e6-9ac1-4e0b-bb60-75bde40dd9f2/t_pose_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f79c2b52-448e-48b9-97ec-8343537d2092/t_pose_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Cool",
@@ -15892,6 +16987,13 @@
       "High School",
       "Pretty"
     ]
+  },
+  {
+    "uuid": "ce334d7d-4e05-bd5b-26f0-b39f2d518263",
+    "title": "Take Place",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3688500e-be18-45af-b3eb-a5f5e6b46eb0/em_fallstudios_takeplace_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
   },
   {
     "uuid": "cfc510d9-184a-3106-f9c3-0a9a5bf6b01c",
@@ -15970,6 +17072,22 @@
     "keywords": null
   },
   {
+    "uuid": "73726fce-bc7d-eccc-72d9-b49ade41379d",
+    "title": "Take the L (Slow Motion)",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8a670d12-4fc8-4241-9cdb-3d4c065c16ff/em_take_the_l_slow_motion_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Dance",
+      "Emotional",
+      "Epic",
+      "Fast Paced",
+      "Gamer",
+      "Meme",
+      "Pop Culture",
+      "Emoji"
+    ]
+  },
+  {
     "uuid": "0aaa5689-0cff-f125-eb76-e71691dbbe93",
     "title": "Taking a rest",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/31e1814e-7f00-4d0c-8519-90898b568a7c/em_aurrora_taking_a_rest_emote_thumbnail_0.png",
@@ -16009,9 +17127,16 @@
     ]
   },
   {
+    "uuid": "f086fcc2-8694-55e3-2e7f-5c8d2a82bb88",
+    "title": "Team Handshake",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a391b115-d304-4a17-956f-8d8046e58605/em_sqst_teamhandshake_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "374cb644-0780-69e2-6efe-646e238e0199",
     "title": "Techno Shuffle",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c7a34d6c-f5fc-45f0-b24b-fa50f0896ebf/em_octovon_techno_shuffle_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/adc75f36-3c4c-4479-90de-2016dcac26fe/em_octovon_techno_shuffle_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -16252,7 +17377,7 @@
   {
     "uuid": "2e050fb8-1292-e4a0-0777-1d6aa33284f7",
     "title": "The Floss",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e2621e58-de87-46c9-a671-e07976c949e2/the_floss_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/23360448-2c71-431d-a880-eb3d8da34f36/the_floss_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Dance",
@@ -16326,6 +17451,13 @@
     "keywords": null
   },
   {
+    "uuid": "5e795e30-b6d0-717e-6db7-d3384b23293c",
+    "title": "The Mill",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/570f9f2f-3cd1-4ad6-89c7-495e5a6aa4b3/em_qwertyuiopthepie_the_mill_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "97db7397-7ff1-0d9b-84f0-1aace415b8bd",
     "title": "The Moonwalk",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e456187d-7475-4194-a029-b6cd60807dab/em_the_moonwalk_thumbnail_0.png",
@@ -16370,7 +17502,7 @@
   {
     "uuid": "c8c86bc6-67b0-8b2e-6001-2645583b1355",
     "title": "The Portal",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a43574f2-f9c6-4b14-950e-3c6299a23cb5/em_aria_the_portal_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/849c2f2e-9228-4ac9-9047-0cf4fe1d9626/em_aria_the_portal_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Infinity"
@@ -16468,6 +17600,13 @@
     ]
   },
   {
+    "uuid": "a180a2c6-9124-4625-de79-77d5a57f62ca",
+    "title": "The Sprinkler",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/60a17923-9653-400a-8ab7-af887ceffb3f/em_octovon_the_sprinkler_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "acfd62e3-e779-cd47-2f4a-1fae049a4e78",
     "title": "The Sturdy",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/028d1e5e-4f52-482c-a88d-41f5ec891f43/em_kingcube_the_sturdy_thumbnail_0.png",
@@ -16484,6 +17623,13 @@
     ]
   },
   {
+    "uuid": "05249f62-3d71-4cf8-9ae6-7abd6544a347",
+    "title": "The T-Pose",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c9b115f9-91a0-4fc0-a754-84817cc3d5aa/em_the_t_pose_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "342e31cf-2163-cbd0-410f-c7cd956fe207",
     "title": "The Thread",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8746cc8c-6e78-4af8-9c6b-104a30671e8b/em_plank_the_thread_thumbnail_0.png",
@@ -16496,9 +17642,16 @@
     ]
   },
   {
+    "uuid": "c71bdabc-61d7-15df-d260-5403e0e25cb3",
+    "title": "The Twist",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e961788-af5c-4fb9-a127-ee4c6f1c0078/em_plank_the_twist_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "131335a8-e3be-2655-4f6b-17e122347fe1",
     "title": "The Wave",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/826dd1e4-0f63-4b4b-b9fc-4ef0bf08c771/em_da_the_wave_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0bc96b0b-1ab2-4610-87e7-bb2677403d42/em_da_the_wave_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Dance",
@@ -16519,6 +17672,15 @@
     "rarity": "common",
     "keywords": [
       "Dance"
+    ]
+  },
+  {
+    "uuid": "99afa5a0-583f-b931-5265-4ad33fb216cb",
+    "title": "The Wave",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/19f7613b-c283-46cb-82ea-7161d817178d/em_emote_rl_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Friends"
     ]
   },
   {
@@ -16638,6 +17800,29 @@
     ]
   },
   {
+    "uuid": "b18dbe47-f7bb-146c-d400-c0e234b5719d",
+    "title": "Thinker Pose",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/64a7cfb1-6388-4db8-97c8-4b7417e30a43/em_simply_thinker_pose_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
+    "uuid": "ddb87d9e-4662-1c69-49b5-2bc529f04ecb",
+    "title": "Thinking",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0947ea1b-d146-4e3a-b1cb-920ea69f77b9/em_kreatikstudios_thinking_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Back to School",
+      "Cute",
+      "Emoji",
+      "Funny",
+      "Realistic",
+      "School",
+      "Teen",
+      "High School"
+    ]
+  },
+  {
     "uuid": "20bcb500-af82-4c2f-9239-e78191c61375",
     "title": "Thinking",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e9ea388e-92da-49d3-af57-81718cd22b8e/thinking_thumbnail_0.png",
@@ -16687,7 +17872,7 @@
   {
     "uuid": "f404d853-5ba0-a2f4-210a-65df51cd1062",
     "title": "Thriller",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/fd49a904-cbd7-447a-ae8d-de9320276e61/em_blockstudios_thrilling_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8ec49377-32fb-402d-98c4-ba0742f7d1ea/em_blockstudios_thrilling_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -16752,7 +17937,7 @@
   {
     "uuid": "4fb6f3ed-31b5-89e3-abad-a6919fc8023e",
     "title": "Titan Run",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/89fa2921-a393-4ab2-be52-cd92e025285c/em_diveblocks_titan_run_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7e4ded94-9f9e-4099-b20e-d8064bb8b677/em_diveblocks_titan_run_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -16793,7 +17978,7 @@
   {
     "uuid": "c76023c9-90c2-7a3d-9de6-35bece5d86e8",
     "title": "Too Sweet",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/aca21c7c-1504-4e2f-b5fb-e41dc9d5dd9d/em_plank_too_sweet_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/839891be-d871-49fb-8ba4-d9a2ab0f0a7c/em_plank_too_sweet_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Cool",
@@ -16817,7 +18002,7 @@
   {
     "uuid": "3acbf278-59b0-5ba3-cf00-c4694d5e913b",
     "title": "Toosie Slide",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2aef438e-8287-4740-b4ae-441ed41267ef/em_inpixel_toosie_slide_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f13e1409-3b52-4845-9383-aaa2d14c341d/em_inpixel_toosie_slide_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Dance"
@@ -16826,7 +18011,7 @@
   {
     "uuid": "876cc6a8-4eb3-5429-bde8-c7140ed648cd",
     "title": "Tornado",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a14c2cb4-f37a-4077-9a3e-13f3a41c5098/tornado_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5a64c485-67a2-4023-aa5a-4cf53c7dc8cf/tornado_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Fun",
@@ -16873,6 +18058,18 @@
       "Drama",
       "Epic",
       "Dance"
+    ]
+  },
+  {
+    "uuid": "f667b434-87b0-7640-39bb-602ee175df8e",
+    "title": "Tragedy!",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/01616767-d1e0-4136-9099-390a809721d8/em_stma_tragedy_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animation",
+      "Drama",
+      "Funny",
+      "Animated"
     ]
   },
   {
@@ -17012,7 +18209,7 @@
   {
     "uuid": "b196b871-95b6-5754-7685-2539b340631c",
     "title": "True Heart",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/88c5991c-1a2c-4624-aa50-52691b5f5e0a/em_funcreators_trueheart_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3a2bb55d-c688-4425-9061-1ecab8b95a28/em_funcreators_trueheart_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -17059,6 +18256,17 @@
     "keywords": null
   },
   {
+    "uuid": "aa394182-3a93-8d77-7078-7214ae66d205",
+    "title": "Turn Up Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a1e4572b-3b97-4c5b-9429-f6f4eba2198f/em_turn_up_dance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Dance",
+      "Trendy",
+      "Friends"
+    ]
+  },
+  {
     "uuid": "36862dd9-bdf2-0689-c702-5e65ec7c642b",
     "title": "Turtle",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1327e325-2a93-4f4b-8951-d24531338d12/em_compycraft_turtle_thumbnail_0.png",
@@ -17090,7 +18298,7 @@
   {
     "uuid": "f5d35825-16df-4dc8-a766-e95f14d2336e",
     "title": "Twists and Twirls",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/eeab4bf4-807c-4675-86bb-242a0b13ec51/em_lifeboat_twistsandtwirls_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ba3786cf-6b7f-4b14-a60d-30ca17109ede/em_lifeboat_twistsandtwirls_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -17179,6 +18387,19 @@
     ]
   },
   {
+    "uuid": "4c93fe99-695f-ca8b-ae98-8ef80145eec7",
+    "title": "Ultimate Push Ups",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/513442f8-afe8-440a-9acc-a9ea48df6ab4/em_emote_ultimate_push_ups_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Fun",
+      "Funny",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "9b2d7221-f48d-a329-6646-9ae4679744af",
     "title": "Ultimate dab",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cc9a8183-afed-4203-a4cb-1fc12e7a00d6/em_emote_ultimatedab_blockception_thumbnail_0.png",
@@ -17186,18 +18407,36 @@
     "keywords": null
   },
   {
+    "uuid": "fc53cf48-2f4b-4f86-bb1e-bef3cb9b205f",
+    "title": "Ultra Dabbing",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b8635085-aadc-4709-b066-646a19eb3857/em_ultra_dabbing_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "0c888f87-8de8-508b-011f-c3f1c9bbca95",
     "title": "Ultra High Five",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/9ef70ecd-0dfc-4685-a4b3-7ab425c4977d/em_diveblocks_ultra_high_five_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f2e44e80-8651-400f-ab57-b1db865fde09/em_diveblocks_ultra_high_five_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
   {
     "uuid": "44031d83-4318-e3a5-c3cb-f6aff8cf0573",
     "title": "Umbra Clone Technique",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e09a83c6-83d7-41a5-b12d-8c4d91a25105/em_qwertyuiopthepie_umbra_clone_technique_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/968cfaeb-6d38-483d-a835-b967ff9452a6/em_qwertyuiopthepie_umbra_clone_technique_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
+  },
+  {
+    "uuid": "8318cab4-19c4-889f-eb85-1a123be07eca",
+    "title": "Unc Stomp Dance",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cb0f046d-a128-433a-9713-1d19f6bc73d5/em_emote_uncstompdance_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Cool",
+      "Funny",
+      "Dance"
+    ]
   },
   {
     "uuid": "05af18ca-920f-4232-83cb-133b2d913dd6",
@@ -17408,7 +18647,7 @@
   {
     "uuid": "c6e3d5f6-23e6-4bfc-f141-f583cdadcf25",
     "title": "Victory Spin!",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e37dea9a-edba-4f7e-82c0-f304faf56d76/em_victory_spin_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5e913256-4bea-4c8b-a7db-dd4afec287ab/em_victory_spin_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -17538,7 +18777,7 @@
   {
     "uuid": "535db425-48d5-c253-92eb-49e72b36623c",
     "title": "Waiting",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/58d35c12-f644-4748-bc32-9689e3c967d8/em_waiting_emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ca3a3ae4-d888-412e-8c88-5dc16a65b086/em_waiting_emote_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -17554,7 +18793,7 @@
   {
     "uuid": "1a2188a9-a882-3bcf-4c7d-33275b48987d",
     "title": "Waiting Patiently",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a117594e-b33e-4efa-94c0-b48c327526a8/waiting_patiently_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/21e064e8-d35a-4731-ad9b-0cbdc5231884/waiting_patiently_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -17582,7 +18821,7 @@
   {
     "uuid": "946b9759-6f07-108c-d37f-b18dd76de71e",
     "title": "Walking On The Moon",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/52f33dd0-aa1b-4347-bfa1-e672e36a7469/em_walking_on_the_moon_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/99c9d81d-8714-48bf-bd92-6db8b2fa023e/em_walking_on_the_moon_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Galaxy",
@@ -17620,6 +18859,13 @@
       "High School",
       "School"
     ]
+  },
+  {
+    "uuid": "a749eb7a-bed5-792b-4728-533dc271ac35",
+    "title": "Wall Clip",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/481ab364-fa8c-4f22-b622-02052d2997b5/em_wonder_wall_clip_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "3d28bef1-013e-1596-c47e-5d17d3559ad5",
@@ -17722,7 +18968,7 @@
   {
     "uuid": "4b14571b-3ee2-14a0-4d87-6ac9911f792f",
     "title": "Wave Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b27f7222-9122-486b-a83e-dfe42024d6ce/emote_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2a346a26-fe70-4dfa-aabb-6b1039d930a2/emote_thumbnail_0.png",
     "rarity": "common",
     "keywords": [
       "Animated",
@@ -17847,7 +19093,7 @@
   {
     "uuid": "93fe2046-19cb-b74c-865d-aa4937a6ac4e",
     "title": "Weightless",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2757fa2a-5498-4f02-b794-305735968384/em_humblebrightstudio_weightless_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0eef2eee-c53e-461f-9224-ebe68cf99cd0/em_humblebrightstudio_weightless_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Fun",
@@ -18011,7 +19257,7 @@
   {
     "uuid": "349ddc48-e8b7-5b5c-5ddf-07adc7eacbd5",
     "title": "Windmill",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e1dbcb12-1eb7-443b-9df7-7d7cd3101dc2/em_yeggs_wdml_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9c4f0d11-dbf6-47b8-80c6-02b34f51b9d1/em_yeggs_wdml_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -18025,7 +19271,7 @@
   {
     "uuid": "25c29643-cdbf-6503-cb60-8d1278f36c6b",
     "title": "Winner Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ba8fdf60-c809-4b33-a6d2-b439680b4001/em_thunderay_winnerdance_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2339e007-d95b-4f3a-b562-23c6af38a42f/em_thunderay_winnerdance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Anime",
@@ -18054,7 +19300,7 @@
   {
     "uuid": "477381ce-2f86-a851-b101-9fa9a8482a1c",
     "title": "Winner's Bow",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d7eb4d33-7b01-4844-b842-d3a821efffca/em_teamvoidfeather_winners_bow_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e2c0a858-6fa5-4e81-9f5e-15f180fa1726/em_teamvoidfeather_winners_bow_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -18196,7 +19442,7 @@
   {
     "uuid": "19431a79-6ba4-dd38-c780-97c922509bea",
     "title": "Worm",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/d72a05a2-0b5b-469c-a6e9-fddd07ec7747/em_yeggs_wrm_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/909f0044-48a2-4a32-8c03-8a6981613299/em_yeggs_wrm_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -18236,7 +19482,7 @@
   {
     "uuid": "90ff27b5-93f2-cf3c-06ad-d48a77028e3d",
     "title": "Worm Dance",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1fed4b0b-7539-42cf-a64f-9e22f03f1006/em_maca_wormdance_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3006ac32-ef16-4595-9a21-5ab59045391a/em_maca_wormdance_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": [
       "Animal",
@@ -18372,7 +19618,7 @@
   {
     "uuid": "b1e2eb0e-429e-e4f3-031f-578ae8cc256a",
     "title": "Yoga Stretch",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d8ca4e7d-700c-423d-8efe-35ebeb1c403c/em_tomhmagic_yoga_stretch_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5047c774-47a0-44b8-b280-41eda5d16331/em_tomhmagic_yoga_stretch_thumbnail_0.png",
     "rarity": "common",
     "keywords": null
   },
@@ -18542,7 +19788,7 @@
   {
     "uuid": "bc6e056c-7f29-881e-13e3-75ef40f7c45a",
     "title": "Zero Gravity",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5ba016f1-c87a-465a-8f4c-9a9656a0357f/zero_gravity_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/be24f699-c7f7-4098-bea9-ba8bd3e8d2c3/zero_gravity_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
@@ -18603,7 +19849,7 @@
   {
     "uuid": "c3f14cd1-98fd-6539-71e6-0daa2de675c0",
     "title": "Zombie Dance",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/09372df1-e26c-4466-a656-01d172d9e24c/em_goe_zombie_dance_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/935843de-8bd8-47c2-b05c-0aecf23c8722/em_goe_zombie_dance_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Zombie",
@@ -18660,14 +19906,21 @@
   {
     "uuid": "fec98e7c-9bdc-1823-9a4e-6a03e2e868c9",
     "title": "Zombie Walk",
-    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/520c78a7-a0ba-4814-a3b0-5413a82b2e35/em_fallstudios_zombiewalk_thumbnail_0.png",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0a7dd190-c9e8-4e4e-a3f0-f24504687679/em_fallstudios_zombiewalk_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
+    "uuid": "0a2a8657-dd09-a92b-d15e-c8fd88bede99",
+    "title": "Zombie Walk",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c724928a-f866-4dee-948b-e5ebacefe916/em_endorah_zombie_walk_thumbnail_0.png",
     "rarity": "uncommon",
     "keywords": null
   },
   {
     "uuid": "cf987b71-e652-7a00-8128-c2ff817aec69",
     "title": "Zoom",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b47ca75b-ed5c-4528-bd6e-a91afefe4e14/em_wonder_zoom_ball_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/bb27f645-08c0-4fba-bb10-7bfd35b78e88/em_wonder_zoom_ball_thumbnail_0.png",
     "rarity": "rare",
     "keywords": null
   },
@@ -18687,7 +19940,7 @@
   {
     "uuid": "59558529-9307-efd0-b8e0-09fa9008bc37",
     "title": "oiiaoiia",
-    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7ef1a3d4-76da-445f-bdb0-aa13c3b3a7b0/em_wb_oiiaoiia_thumbnail_0.png",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0578f907-822f-4e10-93aa-19e2f47e9246/em_wb_oiiaoiia_thumbnail_0.png",
     "rarity": "rare",
     "keywords": [
       "Animated",
