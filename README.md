@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1917 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1918 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -281,6 +281,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/d077bbeb-4097-a8a5-924d-1414a401feaa.png" width="128" height="128" /> | Charging Attack | d077bbeb-4097-a8a5-924d-1414a401feaa |
 | <img src="./images/a6663e71-62e9-2932-2ae8-db094703ac76.png" width="128" height="128" /> | Charleston | a6663e71-62e9-2932-2ae8-db094703ac76 |
 | <img src="./images/ef63e7e8-6883-a254-ed0a-c40ffa929f78.png" width="128" height="128" /> | Charlston Club Dance | ef63e7e8-6883-a254-ed0a-c40ffa929f78 |
+| <img src="./images/3b7a5afd-4365-27cb-2506-57bbc512a264.png" width="128" height="128" /> | Chasing Chickens | 3b7a5afd-4365-27cb-2506-57bbc512a264 |
 | <img src="./images/59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5.png" width="128" height="128" /> | Chatting | 59d9e78c-f0bb-4f14-9e9b-7ab4f58ffbf5 |
 | <img src="./images/34a9df51-c283-b494-62ab-f77405829f30.png" width="128" height="128" /> | Check This! | 34a9df51-c283-b494-62ab-f77405829f30 |
 | <img src="./images/3d10a8c7-213c-4fbe-a208-a0f7990d5bbb.png" width="128" height="128" /> | Cheer Routine | 3d10a8c7-213c-4fbe-a208-a0f7990d5bbb |
