@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1918 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 1919 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/5f2c9473-ff88-ed4f-674b-9943dd6c81f2.png" width="128" height="128" /> | 4th Dimension | 5f2c9473-ff88-ed4f-674b-9943dd6c81f2 |
@@ -1569,6 +1569,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/934c2962-87f5-07f6-c31f-2643ac2316b0.png" width="128" height="128" /> | Super Push Up | 934c2962-87f5-07f6-c31f-2643ac2316b0 |
 | <img src="./images/e9abe16f-5022-4ead-bff8-2aed71feeb0d.png" width="128" height="128" /> | Super Push-Up | e9abe16f-5022-4ead-bff8-2aed71feeb0d |
 | <img src="./images/23bc91a8-860c-46cc-583f-67467d8c50c0.png" width="128" height="128" /> | Super Run | 23bc91a8-860c-46cc-583f-67467d8c50c0 |
+| <img src="./images/f0d4e86d-dee6-7b32-2a9c-ffd09bf92637.png" width="128" height="128" /> | Super Secret Handshake | f0d4e86d-dee6-7b32-2a9c-ffd09bf92637 |
 | <img src="./images/21c21052-509a-1656-8e5e-8b7f46b2636f.png" width="128" height="128" /> | Super Shuffle | 21c21052-509a-1656-8e5e-8b7f46b2636f |
 | <img src="./images/a9424db2-6e84-d67b-7689-6e5fc00ca330.png" width="128" height="128" /> | Super Shuffle | a9424db2-6e84-d67b-7689-6e5fc00ca330 |
 | <img src="./images/f0e56052-e8a6-2172-5a86-d43c647870f6.png" width="128" height="128" /> | Super Spinning | f0e56052-e8a6-2172-5a86-d43c647870f6 |
