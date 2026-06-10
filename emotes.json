@@ -16903,6 +16903,13 @@
     "keywords": null
   },
   {
+    "uuid": "c6dc511b-6736-06e2-19cf-026d889344dc",
+    "title": "Spooky Morph",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f02b78af-afdd-4aac-ab5f-36116ebd8b23/em_diveblocks_spooky_morph_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "f98da84c-37e7-4754-6cfa-eb7aa44da3be",
     "title": "Spooky Skeleton Dance",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4a82af8e-46e9-44db-9b12-cd753748cd51/spooky_skeleton_dance_thumbnail_0.png",
@@ -17950,6 +17957,21 @@
     "rarity": "uncommon",
     "keywords": [
       "Swordplay"
+    ]
+  },
+  {
+    "uuid": "f111d963-b363-bd33-682a-493509090292",
+    "title": "Sword Catch",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/da2ebe9a-ce2f-4382-9917-19d14d06d5c5/em_carper_creative_sword_catch_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Animation",
+      "Battle",
+      "Cinematic",
+      "Cool",
+      "Epic",
+      "Fun",
+      "Hackers"
     ]
   },
   {

@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2040 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2042 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -1615,6 +1615,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/197e5483-670e-4986-8015-9d623a343997.png" width="128" height="128" /> | Splits | 197e5483-670e-4986-8015-9d623a343997 |
 | <img src="./images/c9a5148d-1bba-fd88-66f6-080f996f1802.png" width="128" height="128" /> | Splits Jump | c9a5148d-1bba-fd88-66f6-080f996f1802 |
 | <img src="./images/a9778df0-39ec-b379-c204-819961ac6852.png" width="128" height="128" /> | Spooked | a9778df0-39ec-b379-c204-819961ac6852 |
+| <img src="./images/c6dc511b-6736-06e2-19cf-026d889344dc.png" width="128" height="128" /> | Spooky Morph | c6dc511b-6736-06e2-19cf-026d889344dc |
 | <img src="./images/f98da84c-37e7-4754-6cfa-eb7aa44da3be.png" width="128" height="128" /> | Spooky Skeleton Dance | f98da84c-37e7-4754-6cfa-eb7aa44da3be |
 | <img src="./images/06bb1b0b-ed9d-f34f-533e-49471545f196.png" width="128" height="128" /> | Spoopy | 06bb1b0b-ed9d-f34f-533e-49471545f196 |
 | <img src="./images/1e367576-0c28-15ba-57a3-23e1619e3700.png" width="128" height="128" /> | Sprinkle | 1e367576-0c28-15ba-57a3-23e1619e3700 |
@@ -1721,6 +1722,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/5738659f-8432-a9e6-ae34-3808e3fde703.png" width="128" height="128" /> | Swimming | 5738659f-8432-a9e6-ae34-3808e3fde703 |
 | <img src="./images/4a359360-bcc9-c173-5835-dbf9de1573e8.png" width="128" height="128" /> | Swimming | 4a359360-bcc9-c173-5835-dbf9de1573e8 |
 | <img src="./images/d7680c67-8e54-482a-903d-622ddb43485f.png" width="128" height="128" /> | Swinging Energy Sword | d7680c67-8e54-482a-903d-622ddb43485f |
+| <img src="./images/f111d963-b363-bd33-682a-493509090292.png" width="128" height="128" /> | Sword Catch | f111d963-b363-bd33-682a-493509090292 |
 | <img src="./images/06006942-79b3-40fb-9b5f-5015459ed106.png" width="128" height="128" /> | Sword Hero | 06006942-79b3-40fb-9b5f-5015459ed106 |
 | <img src="./images/02f4d0c0-deb4-1eb4-00f9-fbdbc380a112.png" width="128" height="128" /> | T Pose | 02f4d0c0-deb4-1eb4-00f9-fbdbc380a112 |
 | <img src="./images/46a1c888-7bdc-4cba-97a5-23a8db0e9b2f.png" width="128" height="128" /> | T Pose | 46a1c888-7bdc-4cba-97a5-23a8db0e9b2f |
