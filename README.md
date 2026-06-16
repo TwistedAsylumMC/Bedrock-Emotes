@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2042 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2055 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -107,6 +107,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/c9a9a26c-7977-730a-8123-b8ee1d660bde.png" width="128" height="128" /> | Aura Farming | c9a9a26c-7977-730a-8123-b8ee1d660bde |
 | <img src="./images/811513eb-47d8-36f9-70db-febabdd900b9.png" width="128" height="128" /> | Aura Farming Walk | 811513eb-47d8-36f9-70db-febabdd900b9 |
 | <img src="./images/b457a5c6-711d-2d26-024c-6efa86733235.png" width="128" height="128" /> | Aura Pose | b457a5c6-711d-2d26-024c-6efa86733235 |
+| <img src="./images/afbaa48c-6e2f-975c-2fc3-6488ad93b0dc.png" width="128" height="128" /> | Aura Release | afbaa48c-6e2f-975c-2fc3-6488ad93b0dc |
 | <img src="./images/a4747be9-48d4-e203-d2cf-22bef1e47e10.png" width="128" height="128" /> | Autobot Conversion | a4747be9-48d4-e203-d2cf-22bef1e47e10 |
 | <img src="./images/1e137be8-8c5a-c880-e65e-8e98548d5b51.png" width="128" height="128" /> | Awesome Flip | 1e137be8-8c5a-c880-e65e-8e98548d5b51 |
 | <img src="./images/9ee11247-49a1-a816-2775-203727adc879.png" width="128" height="128" /> | Aye Aye Captain | 9ee11247-49a1-a816-2775-203727adc879 |
@@ -141,6 +142,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/a152a09e-b889-0a08-3992-3f2a087bf75c.png" width="128" height="128" /> | Baka | a152a09e-b889-0a08-3992-3f2a087bf75c |
 | <img src="./images/5ce324a4-1887-8f07-9d0b-5c0a3e860151.png" width="128" height="128" /> | Balance on the line | 5ce324a4-1887-8f07-9d0b-5c0a3e860151 |
 | <img src="./images/e4e7f6cf-758a-fde2-32fe-cb4dc10f743b.png" width="128" height="128" /> | Ball Mode | e4e7f6cf-758a-fde2-32fe-cb4dc10f743b |
+| <img src="./images/57eed2fe-3e37-495f-c5f0-355eff780ddc.png" width="128" height="128" /> | Ballerina | 57eed2fe-3e37-495f-c5f0-355eff780ddc |
 | <img src="./images/c6276c40-0885-823a-32c1-95811aa865f0.png" width="128" height="128" /> | Ballerina Dance | c6276c40-0885-823a-32c1-95811aa865f0 |
 | <img src="./images/786fec7c-694b-841a-0a03-d5b9668eca9d.png" width="128" height="128" /> | Ballerina Dance | 786fec7c-694b-841a-0a03-d5b9668eca9d |
 | <img src="./images/98f7626d-fa33-08a7-52bc-a4d07acc8b4a.png" width="128" height="128" /> | Ballet | 98f7626d-fa33-08a7-52bc-a4d07acc8b4a |
@@ -283,6 +285,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/65b10800-93e9-bd02-f95b-565ce81b9f1d.png" width="128" height="128" /> | Catwalk | 65b10800-93e9-bd02-f95b-565ce81b9f1d |
 | <img src="./images/1ffb5357-141c-bb3a-48a0-f85734724561.png" width="128" height="128" /> | Caution! Slippery! | 1ffb5357-141c-bb3a-48a0-f85734724561 |
 | <img src="./images/2c1668e2-d497-f057-7a31-21c0c1a8b4eb.png" width="128" height="128" /> | Celebrate! | 2c1668e2-d497-f057-7a31-21c0c1a8b4eb |
+| <img src="./images/63483c71-71b2-c848-16d9-8cdce8365577.png" width="128" height="128" /> | Celebrating Victory | 63483c71-71b2-c848-16d9-8cdce8365577 |
 | <img src="./images/9a0499d1-ceab-ed0f-5c44-87d5202ed271.png" width="128" height="128" /> | Celebration | 9a0499d1-ceab-ed0f-5c44-87d5202ed271 |
 | <img src="./images/4221a46c-830c-5127-e602-b30529e67d5f.png" width="128" height="128" /> | Celebration | 4221a46c-830c-5127-e602-b30529e67d5f |
 | <img src="./images/14adb178-3488-4db8-bda8-469c941dd8be.png" width="128" height="128" /> | Celebration | 14adb178-3488-4db8-bda8-469c941dd8be |
@@ -340,6 +343,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/d58d2fca-7338-f2c1-828a-df6a078aa606.png" width="128" height="128" /> | Classic Pop Dance | d58d2fca-7338-f2c1-828a-df6a078aa606 |
 | <img src="./images/482f5faf-9368-6a2d-76df-2a84b6f6d7f2.png" width="128" height="128" /> | Classic Russian Dance | 482f5faf-9368-6a2d-76df-2a84b6f6d7f2 |
 | <img src="./images/66581b96-5974-30a1-e29c-7c7f6c8b6c22.png" width="128" height="128" /> | Cliff Edge | 66581b96-5974-30a1-e29c-7c7f6c8b6c22 |
+| <img src="./images/caba3695-e9f8-2c44-1e61-4692b754cd3f.png" width="128" height="128" /> | Clone Charge | caba3695-e9f8-2c44-1e61-4692b754cd3f |
 | <img src="./images/cdbabe87-03ef-bbed-aca7-fd50863b925c.png" width="128" height="128" /> | Cloud Gazing | cdbabe87-03ef-bbed-aca7-fd50863b925c |
 | <img src="./images/5234f1cf-9472-12e8-ecd7-998656642f85.png" width="128" height="128" /> | Cloud Running | 5234f1cf-9472-12e8-ecd7-998656642f85 |
 | <img src="./images/7ed6d16b-168c-f860-33b2-a2fb7e362cbb.png" width="128" height="128" /> | Clown Dance | 7ed6d16b-168c-f860-33b2-a2fb7e362cbb |
@@ -457,6 +461,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/00d9775f-d885-b925-5e43-ebb9f66ee062.png" width="128" height="128" /> | Disco Dance | 00d9775f-d885-b925-5e43-ebb9f66ee062 |
 | <img src="./images/44c04556-0633-e1a9-31db-a2717d9c1095.png" width="128" height="128" /> | Disco Dance | 44c04556-0633-e1a9-31db-a2717d9c1095 |
 | <img src="./images/ee8fc714-f74a-7cb8-ebb8-435731242699.png" width="128" height="128" /> | Disco Fever | ee8fc714-f74a-7cb8-ebb8-435731242699 |
+| <img src="./images/aaf7efcb-7791-869a-e266-831ad554ca1c.png" width="128" height="128" /> | Disco Fever | aaf7efcb-7791-869a-e266-831ad554ca1c |
 | <img src="./images/7a76a646-9590-20d7-1da5-f2d2810cac1d.png" width="128" height="128" /> | Disco Point | 7a76a646-9590-20d7-1da5-f2d2810cac1d |
 | <img src="./images/c4b54850-eba3-e4f0-4e83-987d9f063836.png" width="128" height="128" /> | Disco V | c4b54850-eba3-e4f0-4e83-987d9f063836 |
 | <img src="./images/a954b9d9-8161-8574-f90a-7bda514f4ca8.png" width="128" height="128" /> | Disco! | a954b9d9-8161-8574-f90a-7bda514f4ca8 |
@@ -547,6 +552,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/02be574f-4621-50bd-717f-590e86738584.png" width="128" height="128" /> | Epic Power Charge | 02be574f-4621-50bd-717f-590e86738584 |
 | <img src="./images/f6738ab6-dc47-276b-9477-da65989e4967.png" width="128" height="128" /> | Epic T-Pose | f6738ab6-dc47-276b-9477-da65989e4967 |
 | <img src="./images/f32d69ce-729a-4277-bc4e-482c9b83587e.png" width="128" height="128" /> | Epic-A-Choo | f32d69ce-729a-4277-bc4e-482c9b83587e |
+| <img src="./images/5c29399e-0391-914c-659a-5c951de7e19b.png" width="128" height="128" /> | Error 404: Reboot | 5c29399e-0391-914c-659a-5c951de7e19b |
 | <img src="./images/7c16939f-86ae-6f0d-bcc1-3c4e03bba386.png" width="128" height="128" /> | Error Floss | 7c16939f-86ae-6f0d-bcc1-3c4e03bba386 |
 | <img src="./images/09893233-bb2c-1bd6-4fc1-e45fc6cbbb42.png" width="128" height="128" /> | Evil Clone Laugh | 09893233-bb2c-1bd6-4fc1-e45fc6cbbb42 |
 | <img src="./images/7a913508-8cf4-4f49-b760-0e77e32e7482.png" width="128" height="128" /> | Evil Laugh | 7a913508-8cf4-4f49-b760-0e77e32e7482 |
@@ -753,6 +759,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/7393aa53-9145-4e66-b23b-ec86def6c6f2.png" width="128" height="128" /> | Gliding | 7393aa53-9145-4e66-b23b-ec86def6c6f2 |
 | <img src="./images/8b74d00b-9185-4091-2995-2bdb0a884813.png" width="128" height="128" /> | Glitch | 8b74d00b-9185-4091-2995-2bdb0a884813 |
 | <img src="./images/3f72d9fe-bd2e-2e6a-90c0-96113f29ffac.png" width="128" height="128" /> | Glitch | 3f72d9fe-bd2e-2e6a-90c0-96113f29ffac |
+| <img src="./images/29f1f34a-38cc-a5fc-7aaa-27360800b5c6.png" width="128" height="128" /> | Glitch Pop Dances | 29f1f34a-38cc-a5fc-7aaa-27360800b5c6 |
 | <img src="./images/1f2a32d1-5482-35c4-08b2-be498522feff.png" width="128" height="128" /> | Glitch Splat | 1f2a32d1-5482-35c4-08b2-be498522feff |
 | <img src="./images/f4374f93-f441-5ef5-e72f-33b14e8ed144.png" width="128" height="128" /> | Glitch Walk | f4374f93-f441-5ef5-e72f-33b14e8ed144 |
 | <img src="./images/c420c231-ed05-2376-168a-3fd512cd7930.png" width="128" height="128" /> | Glitch runner | c420c231-ed05-2376-168a-3fd512cd7930 |
@@ -819,6 +826,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/dd920d6c-9cc2-c297-e8fd-a49d5a32895f.png" width="128" height="128" /> | Hand Spin Helicopter | dd920d6c-9cc2-c297-e8fd-a49d5a32895f |
 | <img src="./images/5dd129f9-cfc3-4fc1-b464-c66a03061545.png" width="128" height="128" /> | Hand Stand | 5dd129f9-cfc3-4fc1-b464-c66a03061545 |
 | <img src="./images/17f75331-8127-2ac6-282b-afc5b6653289.png" width="128" height="128" /> | Hand Stand | 17f75331-8127-2ac6-282b-afc5b6653289 |
+| <img src="./images/ab47b51e-c006-7356-8a49-0a002382e006.png" width="128" height="128" /> | Hand Walking | ab47b51e-c006-7356-8a49-0a002382e006 |
 | <img src="./images/91d43314-0172-ebb4-e069-093d4cd39bf2.png" width="128" height="128" /> | Hand Walking | 91d43314-0172-ebb4-e069-093d4cd39bf2 |
 | <img src="./images/c617b468-52a7-03df-5268-62e24a32616c.png" width="128" height="128" /> | Hand stand | c617b468-52a7-03df-5268-62e24a32616c |
 | <img src="./images/2fcee439-e36d-75a5-0150-32d23050b7e9.png" width="128" height="128" /> | Hand walk | 2fcee439-e36d-75a5-0150-32d23050b7e9 |
@@ -840,6 +848,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/8766ec5e-dc5e-1f4a-b307-599f0d4a5137.png" width="128" height="128" /> | Happy Hello | 8766ec5e-dc5e-1f4a-b307-599f0d4a5137 |
 | <img src="./images/ee4f38b8-87a2-70d9-8a8f-c206cdda1a96.png" width="128" height="128" /> | Happy Jump | ee4f38b8-87a2-70d9-8a8f-c206cdda1a96 |
 | <img src="./images/b691aea1-c0a5-90ce-3d5c-d4ad2f89ce0d.png" width="128" height="128" /> | Happy Jumping | b691aea1-c0a5-90ce-3d5c-d4ad2f89ce0d |
+| <img src="./images/725b6743-c1bf-c8c4-f9c7-53dae04563da.png" width="128" height="128" /> | Happy Quadruped | 725b6743-c1bf-c8c4-f9c7-53dae04563da |
 | <img src="./images/93ec1b4e-5d0a-094f-3647-305b30b1c25b.png" width="128" height="128" /> | Happy Shuffle | 93ec1b4e-5d0a-094f-3647-305b30b1c25b |
 | <img src="./images/eaed7f72-8c3b-e5e3-e4b8-d64dac26cb77.png" width="128" height="128" /> | Happy Skipping | eaed7f72-8c3b-e5e3-e4b8-d64dac26cb77 |
 | <img src="./images/79a2c03f-b04a-e9b1-9228-c4452a500f7c.png" width="128" height="128" /> | Happy Wave | 79a2c03f-b04a-e9b1-9228-c4452a500f7c |
@@ -1498,6 +1507,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/2c2f9c63-0a68-2ef8-03c0-8c30701e0b53.png" width="128" height="128" /> | Sitting Rage | 2c2f9c63-0a68-2ef8-03c0-8c30701e0b53 |
 | <img src="./images/ff831cf3-080e-8b7f-e210-6aae74ac080f.png" width="128" height="128" /> | Sitting on a Block | ff831cf3-080e-8b7f-e210-6aae74ac080f |
 | <img src="./images/5aa536b7-c9f5-bfe1-3b00-99f1970165bd.png" width="128" height="128" /> | Siuuu Pose | 5aa536b7-c9f5-bfe1-3b00-99f1970165bd |
+| <img src="./images/9b5f37b8-9f50-4451-3392-7a9282e9f79b.png" width="128" height="128" /> | Six Seven | 9b5f37b8-9f50-4451-3392-7a9282e9f79b |
 | <img src="./images/a12b0d2f-b444-cb3c-bbf7-2b6aa4239822.png" width="128" height="128" /> | Six Seven | a12b0d2f-b444-cb3c-bbf7-2b6aa4239822 |
 | <img src="./images/422253d2-b9b9-cb2f-657d-b4f8a8ebf269.png" width="128" height="128" /> | Six Seven | 422253d2-b9b9-cb2f-657d-b4f8a8ebf269 |
 | <img src="./images/57685cc0-2d5d-7d85-d73a-c74b36627d2c.png" width="128" height="128" /> | Skateboarding | 57685cc0-2d5d-7d85-d73a-c74b36627d2c |
@@ -1816,6 +1826,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/58778ee4-34ab-8921-74ce-caeee413ff71.png" width="128" height="128" /> | The Wheel | 58778ee4-34ab-8921-74ce-caeee413ff71 |
 | <img src="./images/3c2292c2-ffbd-4bb0-a452-26b47ab8c0d3.png" width="128" height="128" /> | The Whip and Nae-Nae | 3c2292c2-ffbd-4bb0-a452-26b47ab8c0d3 |
 | <img src="./images/45b2283e-e3e9-d2ac-cff4-6266e55e46a5.png" width="128" height="128" /> | The Woah | 45b2283e-e3e9-d2ac-cff4-6266e55e46a5 |
+| <img src="./images/d896c81a-6429-ab8d-f2e7-c252d89042db.png" width="128" height="128" /> | The Wobble | d896c81a-6429-ab8d-f2e7-c252d89042db |
 | <img src="./images/61744fd5-c6a2-d7e9-a32a-cea95248dab0.png" width="128" height="128" /> | The Worm | 61744fd5-c6a2-d7e9-a32a-cea95248dab0 |
 | <img src="./images/b494a015-a60d-408f-c124-db0b8a04a8e5.png" width="128" height="128" /> | The Worm | b494a015-a60d-408f-c124-db0b8a04a8e5 |
 | <img src="./images/c4d61d91-606c-2269-c9f6-c1c873547336.png" width="128" height="128" /> | The Worm | c4d61d91-606c-2269-c9f6-c1c873547336 |
@@ -1871,6 +1882,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/1ee5a820-5370-34a6-5747-6d08535a6065.png" width="128" height="128" /> | Tube guy | 1ee5a820-5370-34a6-5747-6d08535a6065 |
 | <img src="./images/aa394182-3a93-8d77-7078-7214ae66d205.png" width="128" height="128" /> | Turn Up Dance | aa394182-3a93-8d77-7078-7214ae66d205 |
 | <img src="./images/36862dd9-bdf2-0689-c702-5e65ec7c642b.png" width="128" height="128" /> | Turtle | 36862dd9-bdf2-0689-c702-5e65ec7c642b |
+| <img src="./images/1741c548-2bd5-4f2f-1e56-59062dabca1d.png" width="128" height="128" /> | Turtle Dance Spin | 1741c548-2bd5-4f2f-1e56-59062dabca1d |
 | <img src="./images/9e202abb-47ce-0599-b284-ebdaab5c0c55.png" width="128" height="128" /> | Twirl | 9e202abb-47ce-0599-b284-ebdaab5c0c55 |
 | <img src="./images/c81c2439-7b0d-3638-d50e-1eb01f45983e.png" width="128" height="128" /> | Twister | c81c2439-7b0d-3638-d50e-1eb01f45983e |
 | <img src="./images/f5d35825-16df-4dc8-a766-e95f14d2336e.png" width="128" height="128" /> | Twists and Twirls | f5d35825-16df-4dc8-a766-e95f14d2336e |
@@ -1898,6 +1910,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/3babfcf6-2a50-2262-4c17-f313a5a73c81.png" width="128" height="128" /> | UwU | 3babfcf6-2a50-2262-4c17-f313a5a73c81 |
 | <img src="./images/45941813-d36e-65a7-f524-9c4391d6d74d.png" width="128" height="128" /> | UwU | 45941813-d36e-65a7-f524-9c4391d6d74d |
 | <img src="./images/1c5f9f88-88cc-ab5a-3eca-aa9f427e4aa6.png" width="128" height="128" /> | V-Pose | 1c5f9f88-88cc-ab5a-3eca-aa9f427e4aa6 |
+| <img src="./images/d1061b31-2ead-ba05-4cb1-896ead2d8bac.png" width="128" height="128" /> | Valentine Dance | d1061b31-2ead-ba05-4cb1-896ead2d8bac |
 | <img src="./images/3a749d01-085c-8b34-551f-c63b13303812.png" width="128" height="128" /> | Valentine Flowers | 3a749d01-085c-8b34-551f-c63b13303812 |
 | <img src="./images/a27f2f41-7186-c8ff-8701-0d287ce759ab.png" width="128" height="128" /> | Vecna's Possession | a27f2f41-7186-c8ff-8701-0d287ce759ab |
 | <img src="./images/e05d99fa-3b93-fb24-f888-5df4d4400bbf.png" width="128" height="128" /> | Vertical Vibe Check | e05d99fa-3b93-fb24-f888-5df4d4400bbf |

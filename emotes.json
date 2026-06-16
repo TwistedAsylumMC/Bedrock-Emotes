@@ -1182,6 +1182,19 @@
     ]
   },
   {
+    "uuid": "afbaa48c-6e2f-975c-2fc3-6488ad93b0dc",
+    "title": "Aura Release",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4e14caa3-bff2-4e62-96d3-f68bb8c2d00d/em_hp_emote_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Anime",
+      "Cartoon",
+      "Fantasy",
+      "Power",
+      "Cool"
+    ]
+  },
+  {
     "uuid": "a4747be9-48d4-e203-d2cf-22bef1e47e10",
     "title": "Autobot Conversion",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3aa13913-5078-4ffa-bc98-20aac8232b40/em_syclone_studios_roll_out_thumbnail_0.png",
@@ -1560,6 +1573,13 @@
     "title": "Ball Mode",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3b9ffee9-6e10-468f-9360-35393496f9c1/em_dlb_ball_mode_thumbnail_0.png",
     "rarity": "rare",
+    "keywords": null
+  },
+  {
+    "uuid": "57eed2fe-3e37-495f-c5f0-355eff780ddc",
+    "title": "Ballerina",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7fe087b2-375c-46ee-93b9-9e4dd4ae0303/em_street_ballerina_thumbnail_0.png",
+    "rarity": "uncommon",
     "keywords": null
   },
   {
@@ -2994,6 +3014,13 @@
     ]
   },
   {
+    "uuid": "63483c71-71b2-c848-16d9-8cdce8365577",
+    "title": "Celebrating Victory",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/eee117c9-d1ef-4736-8689-b4396373fab4/em_celebrating_victory_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": null
+  },
+  {
     "uuid": "9a0499d1-ceab-ed0f-5c44-87d5202ed271",
     "title": "Celebration",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/234be611-b0f2-4627-b2db-9de3b478542a/em_unlinked_celebration_thumbnail_0.png",
@@ -3601,6 +3628,21 @@
       "Fun",
       "Cartoon",
       "Long"
+    ]
+  },
+  {
+    "uuid": "caba3695-e9f8-2c44-1e61-4692b754cd3f",
+    "title": "Clone Charge",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0eb2bfd3-0e86-4631-a792-e7ad49d04c52/em_sbs_clone_charge_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Anime",
+      "Cool",
+      "Epic",
+      "Fantasy",
+      "Magic",
+      "Power",
+      "Attack"
     ]
   },
   {
@@ -4878,6 +4920,13 @@
     "keywords": null
   },
   {
+    "uuid": "aaf7efcb-7791-869a-e266-831ad554ca1c",
+    "title": "Disco Fever",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f43d7442-7251-4a44-a5f0-aee8d2cd4649/em_kubo_disco_fever_emote_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "7a76a646-9590-20d7-1da5-f2d2810cac1d",
     "title": "Disco Point",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/540c9201-3d89-4ab5-a3dd-3a03fa018b75/em_buildershorizon_disco_point_thumbnail_0.png",
@@ -5814,6 +5863,13 @@
       "Fun",
       "Winter"
     ]
+  },
+  {
+    "uuid": "5c29399e-0391-914c-659a-5c951de7e19b",
+    "title": "Error 404: Reboot",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/41ba1f0c-4a04-4c2e-b543-ac45aa110a76/em_diveblocks_error_404_reboot_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "7c16939f-86ae-6f0d-bcc1-3c4e03bba386",
@@ -7979,6 +8035,22 @@
     "keywords": null
   },
   {
+    "uuid": "29f1f34a-38cc-a5fc-7aaa-27360800b5c6",
+    "title": "Glitch Pop Dances",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/1ce9d9e0-5175-47f2-b0c9-db3b42b9ffd6/em_glitch_pop_dances_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Character Customization",
+      "Cool",
+      "Custom Creatures",
+      "Dance",
+      "Epic",
+      "Moving",
+      "Pop Culture",
+      "Fun"
+    ]
+  },
+  {
     "uuid": "1f2a32d1-5482-35c4-08b2-be498522feff",
     "title": "Glitch Splat",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/db9bfb4a-097b-4f9f-a9bb-133240740d81/em_wonder_glitch_splat_thumbnail_0.png",
@@ -8675,6 +8747,21 @@
     "keywords": null
   },
   {
+    "uuid": "ab47b51e-c006-7356-8a49-0a002382e006",
+    "title": "Hand Walking",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/25d7f1b9-476f-40f8-971e-82c6ebb53490/em_hand_walking_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Cool",
+      "Dance",
+      "Epic",
+      "Funny",
+      "Meme",
+      "Moving",
+      "Animated"
+    ]
+  },
+  {
     "uuid": "91d43314-0172-ebb4-e069-093d4cd39bf2",
     "title": "Hand Walking",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f98a5c94-4cdd-4879-9833-f07a10152e66/em_gamefam_handwalking_thumbnail_0.png",
@@ -8882,6 +8969,22 @@
     "rarity": "uncommon",
     "keywords": [
       "Jump"
+    ]
+  },
+  {
+    "uuid": "725b6743-c1bf-c8c4-f9c7-53dae04563da",
+    "title": "Happy Quadruped",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7ff02b70-63dc-4785-8576-6d75366832fd/em_happy_quadruped_thumbnail_0.png",
+    "rarity": "uncommon",
+    "keywords": [
+      "Animated",
+      "Character Customization",
+      "Cute",
+      "Epic",
+      "Funny",
+      "Mob",
+      "Pet",
+      "Custom Mobs"
     ]
   },
   {
@@ -15665,6 +15768,20 @@
     ]
   },
   {
+    "uuid": "9b5f37b8-9f50-4451-3392-7a9282e9f79b",
+    "title": "Six Seven",
+    "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/601cb204-2d7b-4d03-893c-54c71701e14d/em_fg_sixseve_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Animated",
+      "Animation",
+      "Cool",
+      "Epic",
+      "Memes",
+      "Cute"
+    ]
+  },
+  {
     "uuid": "a12b0d2f-b444-cb3c-bbf7-2b6aa4239822",
     "title": "Six Seven",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5b00f06c-71e6-4e8b-ace7-2953fbcddf21/em_carper_creative_six_seven_thumbnail_0.png",
@@ -18932,6 +19049,22 @@
     ]
   },
   {
+    "uuid": "d896c81a-6429-ab8d-f2e7-c252d89042db",
+    "title": "The Wobble",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20188c4e-1738-4473-811e-30c4b2ad8dd4/em_the_wobble_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": [
+      "Cool",
+      "Dance",
+      "Epic",
+      "Meme",
+      "Movie Star",
+      "Moving",
+      "Pop Culture",
+      "Emotional"
+    ]
+  },
+  {
     "uuid": "61744fd5-c6a2-d7e9-a32a-cea95248dab0",
     "title": "The Worm",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/2874b840-1ffb-4830-8ef1-1f7cbd236fa3/em_og_the_worm_emote_thumbnail_0.png",
@@ -19503,6 +19636,13 @@
     ]
   },
   {
+    "uuid": "1741c548-2bd5-4f2f-1e56-59062dabca1d",
+    "title": "Turtle Dance Spin",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cd844657-2065-46fd-a04b-88a9d6893826/em_goe_turtle_dance_spin_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "9e202abb-47ce-0599-b284-ebdaab5c0c55",
     "title": "Twirl",
     "image": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fada7b82-9681-49a7-b135-d4b15ce5a2b5/em_eneija_twirl_thumbnail_0.png",
@@ -19768,6 +19908,19 @@
       "Animation",
       "Cool",
       "Teen"
+    ]
+  },
+  {
+    "uuid": "d1061b31-2ead-ba05-4cb1-896ead2d8bac",
+    "title": "Valentine Dance",
+    "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b67bfbdf-bf49-4768-b271-e59d333bbc3a/em_hp_emote_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": [
+      "Candy",
+      "Cartoon",
+      "Logic",
+      "Quick Time Events",
+      "High School"
     ]
   },
   {
