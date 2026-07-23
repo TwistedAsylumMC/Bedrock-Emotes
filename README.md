@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2055 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2057 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -612,6 +612,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/5c9d7eaf-51a9-ec62-582b-74926ff7f088.png" width="128" height="128" /> | Fast Spinning | 5c9d7eaf-51a9-ec62-582b-74926ff7f088 |
 | <img src="./images/ce1a7865-a416-bee6-bded-f659e3b3f433.png" width="128" height="128" /> | Fast Waving | ce1a7865-a416-bee6-bded-f659e3b3f433 |
 | <img src="./images/bb6f1764-2b0b-4a3a-adfd-3334627cdee4.png" width="128" height="128" /> | Feeling Sick | bb6f1764-2b0b-4a3a-adfd-3334627cdee4 |
+| <img src="./images/a71be393-23ec-6e0d-cf89-5843709ff675.png" width="128" height="128" /> | Feeling Tired | a71be393-23ec-6e0d-cf89-5843709ff675 |
 | <img src="./images/f1c9333d-24f0-40e8-a177-b515c82b3444.png" width="128" height="128" /> | Feet Clap | f1c9333d-24f0-40e8-a177-b515c82b3444 |
 | <img src="./images/98b76df3-4839-3a24-1d9d-0c369fa36c97.png" width="128" height="128" /> | Fight Taunt | 98b76df3-4839-3a24-1d9d-0c369fa36c97 |
 | <img src="./images/91d79d4a-c998-4e32-bd36-f195e619a0d8.png" width="128" height="128" /> | Fighting Batman-style | 91d79d4a-c998-4e32-bd36-f195e619a0d8 |
@@ -687,6 +688,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/be4f4451-9764-3239-a71c-4e354e36de21.png" width="128" height="128" /> | Flying | be4f4451-9764-3239-a71c-4e354e36de21 |
 | <img src="./images/535b5f46-e58b-a53c-1f83-f75077684b6c.png" width="128" height="128" /> | Flying | 535b5f46-e58b-a53c-1f83-f75077684b6c |
 | <img src="./images/bc1ffa2e-687c-45ad-b9e6-cf303c770537.png" width="128" height="128" /> | Flying | bc1ffa2e-687c-45ad-b9e6-cf303c770537 |
+| <img src="./images/125031a5-a0d8-d47a-f5c6-8f513be96d93.png" width="128" height="128" /> | Flying Anime Run | 125031a5-a0d8-d47a-f5c6-8f513be96d93 |
 | <img src="./images/a5d19f56-ae68-19f9-7bb4-8e970e84cd1c.png" width="128" height="128" /> | Flying Backflip | a5d19f56-ae68-19f9-7bb4-8e970e84cd1c |
 | <img src="./images/884f2cdf-0191-d300-b651-cc148a21f7e6.png" width="128" height="128" /> | Flying Chicken | 884f2cdf-0191-d300-b651-cc148a21f7e6 |
 | <img src="./images/edfa45b2-39b0-dd31-afd6-b148a4b5af4f.png" width="128" height="128" /> | Flying Faceplant | edfa45b2-39b0-dd31-afd6-b148a4b5af4f |
