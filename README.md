@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2057 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2058 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -1266,6 +1266,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/1597755a-dd27-4462-cecc-ac157e225bca.png" width="128" height="128" /> | Pick Up | 1597755a-dd27-4462-cecc-ac157e225bca |
 | <img src="./images/96ebacc7-3817-ce12-543d-81be05564045.png" width="128" height="128" /> | Ping Pong | 96ebacc7-3817-ce12-543d-81be05564045 |
 | <img src="./images/afd224f3-7bb2-00c0-d9fe-24428cafb6a6.png" width="128" height="128" /> | Pirouette | afd224f3-7bb2-00c0-d9fe-24428cafb6a6 |
+| <img src="./images/bcc62ca7-2da8-bb50-cee2-d9ff43902ec7.png" width="128" height="128" /> | Pirouette | bcc62ca7-2da8-bb50-cee2-d9ff43902ec7 |
 | <img src="./images/4b8f18aa-a819-a557-1134-e50f8f36029f.png" width="128" height="128" /> | Pirouettes | 4b8f18aa-a819-a557-1134-e50f8f36029f |
 | <img src="./images/79452f7e-ffa0-470f-8283-f5063348471d.png" width="128" height="128" /> | Pirouettes | 79452f7e-ffa0-470f-8283-f5063348471d |
 | <img src="./images/d1dc55f1-d627-c06a-1df1-e07af2bd8e06.png" width="128" height="128" /> | Planetary Stroll | d1dc55f1-d627-c06a-1df1-e07af2bd8e06 |
