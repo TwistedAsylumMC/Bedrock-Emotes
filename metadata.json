@@ -1,5 +1,6 @@
 {
   "keywords": [
+    "1.18+ ver only",
     "Abstract",
     "Addictive",
     "Advanced",
@@ -38,6 +39,7 @@
     "Boat",
     "Boss",
     "Boss Fights",
+    "Bows",
     "Bright",
     "Building",
     "Camo",
@@ -118,6 +120,7 @@
     "Food",
     "Football",
     "Foreign",
+    "Fortress",
     "Free",
     "Friendly Villagers",
     "Friends",
@@ -179,6 +182,7 @@
     "Metal",
     "Middle School",
     "Military",
+    "Millionaire",
     "Mini Golf",
     "Minimalist",
     "Mob",
@@ -297,7 +301,8 @@
     "World",
     "Zombie",
     "Zombies",
-    "Zoo"
+    "Zoo",
+    "prince"
   ],
   "rarities": [
     "common",
