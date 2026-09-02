@@ -13418,6 +13418,13 @@
     ]
   },
   {
+    "uuid": "d9de3e45-2161-98d3-c88c-6963c8619e56",
+    "title": "Okay!",
+    "image": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/79cbc5fe-5675-4026-be17-f98575fc2ffd/yes_emote_thumbnail_0.png",
+    "rarity": "common",
+    "keywords": null
+  },
+  {
     "uuid": "fced8dcb-6818-f2c0-45c1-dd7b36641fef",
     "title": "On Your Mark",
     "image": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/c098ed15-f67b-4dd5-83d2-fa79fc1162cd/em_emote_onyourmark_thumbnail_0.png",

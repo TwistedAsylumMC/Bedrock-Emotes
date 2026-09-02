@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2165 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2166 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -1280,6 +1280,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/52969d45-6e3c-006c-62ac-cacb258e6cea.png" width="128" height="128" /> | Oh, No! | 52969d45-6e3c-006c-62ac-cacb258e6cea |
 | <img src="./images/34fab1d5-c428-b253-8758-8537b19253e6.png" width="128" height="128" /> | Oiia Oiia Meme | 34fab1d5-c428-b253-8758-8537b19253e6 |
 | <img src="./images/51b4208b-a236-c467-45a1-6b4f41e1c034.png" width="128" height="128" /> | Oiit Apocalypse | 51b4208b-a236-c467-45a1-6b4f41e1c034 |
+| <img src="./images/d9de3e45-2161-98d3-c88c-6963c8619e56.png" width="128" height="128" /> | Okay! | d9de3e45-2161-98d3-c88c-6963c8619e56 |
 | <img src="./images/fced8dcb-6818-f2c0-45c1-dd7b36641fef.png" width="128" height="128" /> | On Your Mark | fced8dcb-6818-f2c0-45c1-dd7b36641fef |
 | <img src="./images/47b41e51-7ee7-3f37-758d-e0d03a6ebc2c.png" width="128" height="128" /> | One Hand Handstand | 47b41e51-7ee7-3f37-758d-e0d03a6ebc2c |
 | <img src="./images/e9453ca7-a03e-487a-a51a-8055af998b19.png" width="128" height="128" /> | One Handed Handstand | e9453ca7-a03e-487a-a51a-8055af998b19 |
