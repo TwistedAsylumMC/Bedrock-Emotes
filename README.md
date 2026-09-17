@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2166 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2169 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -1196,6 +1196,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/94222474-788d-e113-a831-2f1c17fc9c0c.png" width="128" height="128" /> | Magic Trick | 94222474-788d-e113-a831-2f1c17fc9c0c |
 | <img src="./images/4b4adf2b-111d-5b70-a42d-540176eb221e.png" width="128" height="128" /> | Magical Float | 4b4adf2b-111d-5b70-a42d-540176eb221e |
 | <img src="./images/8f8f3137-1ea3-de4e-1515-ea9b91cc5c51.png" width="128" height="128" /> | Magical Powers | 8f8f3137-1ea3-de4e-1515-ea9b91cc5c51 |
+| <img src="./images/c8de0d53-7d2e-d414-607c-a3235759c425.png" width="128" height="128" /> | Main Character | c8de0d53-7d2e-d414-607c-a3235759c425 |
 | <img src="./images/5f0612e4-12b8-fd24-fd80-717a86771e58.png" width="128" height="128" /> | Mechanical Bull | 5f0612e4-12b8-fd24-fd80-717a86771e58 |
 | <img src="./images/80d32432-93e3-4dfc-20ba-8bae7ccff499.png" width="128" height="128" /> | Meditating | 80d32432-93e3-4dfc-20ba-8bae7ccff499 |
 | <img src="./images/eda0fd5f-0a5d-2772-8beb-8f30b36ebcc1.png" width="128" height="128" /> | Meditating | eda0fd5f-0a5d-2772-8beb-8f30b36ebcc1 |
@@ -1261,6 +1262,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/24ace7eb-2020-b8fd-9a3c-24212590a79c.png" width="128" height="128" /> | Ninja Moves | 24ace7eb-2020-b8fd-9a3c-24212590a79c |
 | <img src="./images/1b72428b-fe03-4a05-b346-f6f4943a4a91.png" width="128" height="128" /> | Ninja Pose | 1b72428b-fe03-4a05-b346-f6f4943a4a91 |
 | <img src="./images/ae74911d-cab2-086a-554c-2a04cd2f34af.png" width="128" height="128" /> | Ninja Pose | ae74911d-cab2-086a-554c-2a04cd2f34af |
+| <img src="./images/2f747bcc-b9ef-e5da-bbc7-4a234ae87378.png" width="128" height="128" /> | Ninja Poses Animation | 2f747bcc-b9ef-e5da-bbc7-4a234ae87378 |
 | <img src="./images/73222a97-8fd5-6f78-c961-2a472460d1fc.png" width="128" height="128" /> | Ninja Run | 73222a97-8fd5-6f78-c961-2a472460d1fc |
 | <img src="./images/6383f795-c8d2-adbe-7a36-370deef31b04.png" width="128" height="128" /> | Ninja Warms Ups | 6383f795-c8d2-adbe-7a36-370deef31b04 |
 | <img src="./images/2f17bada-d2c8-a30f-649e-d4648911fcf6.png" width="128" height="128" /> | Ninja Weapon Flip | 2f17bada-d2c8-a30f-649e-d4648911fcf6 |
@@ -1369,6 +1371,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/a8a08331-0844-8a1a-7b4c-3536b2b0b300.png" width="128" height="128" /> | Portal Falling | a8a08331-0844-8a1a-7b4c-3536b2b0b300 |
 | <img src="./images/b3301774-fc1e-bd4b-44f4-df31a49af5a5.png" width="128" height="128" /> | Portal Jump | b3301774-fc1e-bd4b-44f4-df31a49af5a5 |
 | <img src="./images/fade00f9-8af5-3297-7b67-170e3176ad3c.png" width="128" height="128" /> | Portal Loop | fade00f9-8af5-3297-7b67-170e3176ad3c |
+| <img src="./images/378ddd26-9c80-b0e9-3528-866de81c788b.png" width="128" height="128" /> | Portal Loop | 378ddd26-9c80-b0e9-3528-866de81c788b |
 | <img src="./images/ade7e4d9-d8c4-a369-ab18-dfd0094bc34a.png" width="128" height="128" /> | Portal Posing | ade7e4d9-d8c4-a369-ab18-dfd0094bc34a |
 | <img src="./images/d0aeb251-fa2a-f323-839c-6637935232df.png" width="128" height="128" /> | Portals | d0aeb251-fa2a-f323-839c-6637935232df |
 | <img src="./images/b857c207-5c5e-6e55-f9d6-0839aaaae22d.png" width="128" height="128" /> | Posing | b857c207-5c5e-6e55-f9d6-0839aaaae22d |

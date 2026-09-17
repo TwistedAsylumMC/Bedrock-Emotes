@@ -12580,6 +12580,13 @@
     "keywords": null
   },
   {
+    "uuid": "c8de0d53-7d2e-d414-607c-a3235759c425",
+    "title": "Main Character",
+    "image": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/e665709b-8063-4efd-a2e3-d119679d71ec/em_diveblocks_main_character_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
+  },
+  {
     "uuid": "5f0612e4-12b8-fd24-fd80-717a86771e58",
     "title": "Mechanical Bull",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c300d90d-eac0-4ace-8913-a4d73fcd8e77/mechanical_bull_thumbnail_0.png",
@@ -13223,6 +13230,13 @@
     "title": "Ninja Pose",
     "image": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8acf23f7-15ea-409b-a45d-ddcd7db23202/em_funcreators_ninja_pose_thumbnail_0.png",
     "rarity": "common",
+    "keywords": null
+  },
+  {
+    "uuid": "2f747bcc-b9ef-e5da-bbc7-4a234ae87378",
+    "title": "Ninja Poses Animation",
+    "image": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3a332aad-372b-4fe8-804e-6de3811ad6ac/em_endorah_ninja_poses_animation_thumbnail_0.png",
+    "rarity": "uncommon",
     "keywords": null
   },
   {
@@ -14323,6 +14337,13 @@
     "keywords": [
       "Infinity"
     ]
+  },
+  {
+    "uuid": "378ddd26-9c80-b0e9-3528-866de81c788b",
+    "title": "Portal Loop",
+    "image": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/4bfd59e6-0055-44c3-af94-3f0057ba8078/em_dlb_portal_loop_thumbnail_0.png",
+    "rarity": "rare",
+    "keywords": null
   },
   {
     "uuid": "ade7e4d9-d8c4-a369-ab18-dfd0094bc34a",
