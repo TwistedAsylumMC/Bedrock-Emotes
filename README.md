@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2169 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2170 emotes on the Marketplace.
 | Image | Name | UUID |
 |-------|------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -118,6 +118,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/b457a5c6-711d-2d26-024c-6efa86733235.png" width="128" height="128" /> | Aura Pose | b457a5c6-711d-2d26-024c-6efa86733235 |
 | <img src="./images/afbaa48c-6e2f-975c-2fc3-6488ad93b0dc.png" width="128" height="128" /> | Aura Release | afbaa48c-6e2f-975c-2fc3-6488ad93b0dc |
 | <img src="./images/a4747be9-48d4-e203-d2cf-22bef1e47e10.png" width="128" height="128" /> | Autobot Conversion | a4747be9-48d4-e203-d2cf-22bef1e47e10 |
+| <img src="./images/6061b2b8-3397-ecb8-b6ff-b8c8c8257eb1.png" width="128" height="128" /> | Avatar State | 6061b2b8-3397-ecb8-b6ff-b8c8c8257eb1 |
 | <img src="./images/1e137be8-8c5a-c880-e65e-8e98548d5b51.png" width="128" height="128" /> | Awesome Flip | 1e137be8-8c5a-c880-e65e-8e98548d5b51 |
 | <img src="./images/9ee11247-49a1-a816-2775-203727adc879.png" width="128" height="128" /> | Aye Aye Captain | 9ee11247-49a1-a816-2775-203727adc879 |
 | <img src="./images/b59bd4e3-7695-02b4-30d3-def25971f2bc.png" width="128" height="128" /> | Ayy Macarena | b59bd4e3-7695-02b4-30d3-def25971f2bc |
