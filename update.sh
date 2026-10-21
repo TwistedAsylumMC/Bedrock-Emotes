@@ -1,23 +1,29 @@
 #!/bin/bash
 
-LOGINRESULT=`curl -s -L -X POST 'https://20ca2.playfabapi.com/Client/LoginWithEmailAddress' \
--H 'Content-Type: application/json' \
--d @<(cat <<EOF
+set -euo pipefail
+
+TMP=$(mktemp -d)
+trap 'rm -rf "$TMP"' EXIT
+
+api() {
+    curl -sSfL --retry 3 --retry-all-errors -X POST "https://20ca2.playfabapi.com/$1" \
+    -H 'Content-Type: application/json' \
+    "${@:2}"
+}
+
+LOGINRESULT=$(api Client/LoginWithEmailAddress -d @- <<EOF
 {
   "Email": "$EMAIL",
   "Password": "$PASSWORD",
   "TitleId": "20ca2"
 }
 EOF
-)`
+)
 
-LOGINENTITYTOKEN=`echo $LOGINRESULT | jq -r '.data.EntityToken.EntityToken'`
-PLAYFABID=`echo $LOGINRESULT | jq -r '.data.PlayFabId'`
+LOGINENTITYTOKEN=$(echo "$LOGINRESULT" | jq -er '.data.EntityToken.EntityToken')
+PLAYFABID=$(echo "$LOGINRESULT" | jq -er '.data.PlayFabId')
 
-ENTITYTOKENRESULT=`curl -s -L -X POST 'https://20ca2.playfabapi.com/Authentication/GetEntityToken' \
--H 'Content-Type: application/json' \
--H "X-EntityToken: $LOGINENTITYTOKEN" \
--d @<(cat <<EOF
+ENTITYTOKENRESULT=$(api Authentication/GetEntityToken -H "X-EntityToken: $LOGINENTITYTOKEN" -d @- <<EOF
 {
     "Entity": {
         "Id": "$PLAYFABID",
@@ -25,35 +31,32 @@ ENTITYTOKENRESULT=`curl -s -L -X POST 'https://20ca2.playfabapi.com/Authenticati
     }
 }
 EOF
-)`
+)
 
-ENTITYTOKEN=`echo $ENTITYTOKENRESULT | jq -r '.data.EntityToken'`
+ENTITYTOKEN=$(echo "$ENTITYTOKENRESULT" | jq -er '.data.EntityToken')
 
 TOTALCOUNT=1
 SKIP=0
 COUNT=300
-ITEMS=""
+PAGE=0
 
 fetch_items() {
     local skip=$1
     local count=$2
-    
-    ITEMRESULT=$(curl -s -L -X POST 'https://20ca2.playfabapi.com/Catalog/Search' \
-    -H 'Content-Type: application/json' \
-    -H "X-EntityToken: $ENTITYTOKEN" \
-    -d "{
+
+    ITEMRESULT=$(api Catalog/Search -H "X-EntityToken: $ENTITYTOKEN" -d "{
       \"Filter\": \"(contentType eq 'PersonaDurable' and displayProperties/pieceType eq 'persona_emote')\",
       \"OrderBy\": \"title/neutral asc\",
       \"scid\": \"4fc10100-5f7a-4470-899b-280835760c07\",
       \"skip\": $skip,
       \"top\": $count
     }")
-    
-    ITEMS+=$(echo $ITEMRESULT | jq -r '[.data.Items[] | {uuid: .DisplayProperties.packIdentity[0].uuid, title: .Title.neutral, image: .Images[0].Url, rarity: .DisplayProperties.rarity, keywords: .Keywords.neutral.Values}]')
-    ITEMS+=","
-    
-    if [ $TOTALCOUNT -eq 1 ]; then
-        TOTALCOUNT=$(echo $ITEMRESULT | jq -rc '.data.Count')
+
+    echo "$ITEMRESULT" | jq -e '[.data.Items[] | {uuid: .DisplayProperties.packIdentity[0].uuid, title: .Title.neutral, author: .DisplayProperties.creatorName, image: .Images[0].Url, rarity: .DisplayProperties.rarity, price: .DisplayProperties.price, created: .CreationDate, offerId: .DisplayProperties.offerId, keywords: .Keywords.neutral.Values}]' > "$TMP/page_$(printf '%05d' $PAGE).json"
+    PAGE=$((PAGE + 1))
+
+    if [ $SKIP -eq 0 ]; then
+        TOTALCOUNT=$(echo "$ITEMRESULT" | jq -er '.data.Count')
         echo "Total items to fetch: $TOTALCOUNT"
     fi
 }
@@ -64,21 +67,49 @@ while [ $SKIP -lt $TOTALCOUNT ]; do
     SKIP=$((SKIP + COUNT))
 done
 
-echo "[${ITEMS::-1}]" | jq -r '[.[] | .[]]' > emotes.json
-cat emotes.json | jq -r '{
+jq -s 'add' "$TMP"/page_*.json > "$TMP/emotes.json"
+
+FETCHED=$(jq 'length' "$TMP/emotes.json")
+if [ "$FETCHED" -eq 0 ]; then
+    echo "Fetched 0 emotes, refusing to update" >&2
+    exit 1
+fi
+if [ "$FETCHED" -ne "$TOTALCOUNT" ]; then
+    echo "Fetched $FETCHED emotes but API reported $TOTALCOUNT, refusing to update" >&2
+    exit 1
+fi
+if [ "$(jq '[.[] | select(.uuid == null or .image == null)] | length' "$TMP/emotes.json")" -ne 0 ]; then
+    echo "Some emotes are missing a uuid or image, refusing to update" >&2
+    exit 1
+fi
+if [ -f emotes.json ]; then
+    PREVIOUS=$(jq 'length' emotes.json)
+    if [ $((FETCHED * 10)) -lt $((PREVIOUS * 9)) ]; then
+        echo "Emote count dropped from $PREVIOUS to $FETCHED (>10%), refusing to update" >&2
+        exit 1
+    fi
+fi
+
+mv "$TMP/emotes.json" emotes.json
+jq -r '{
   keywords: [.[] | .keywords | select(. != null) | .[]] | unique,
-  rarities: [.[] | .rarity] | unique
-}' > metadata.json
+  rarities: [.[] | .rarity] | unique,
+  authors: [.[] | .author | select(. != null)] | unique
+}' emotes.json > metadata.json
 
-echo "# Bedrock Emotes" > README.md
-echo "This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently $(echo $TOTALCOUNT) emotes on the Marketplace." >> README.md
-cat emotes.json | jq -r '"| Image | Name | UUID |",
-"|-------|------|------|",
-(.[] | "| <img src=\"./images/\(.uuid).png\" width=\"128\" height=\"128\" /> | \(.title) | \(.uuid) |")' >> README.md
+{
+    echo "# Bedrock Emotes"
+    echo "This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently $FETCHED emotes on the Marketplace."
+    jq -r '"| Image | Name | Author | UUID |",
+    "|-------|------|--------|------|",
+    (.[] | "| <img src=\"./images/\(.uuid).png\" width=\"128\" height=\"128\" /> | \(.title) | \(.author // "") | \(.uuid) |")' emotes.json
+} > README.md
 
-for i in `cat emotes.json | jq -r 'to_entries[] | [.value.image, .value.uuid] | @csv'`
-do
-  IMAGE=`echo $i | cut -d ',' -f 1 | tr -d '"'`
-  UUID=`echo $i | cut -d ',' -f 2 | tr -d '"'`
-  wget ${IMAGE} -O images/${UUID}.png
+jq -r '.[] | [.image, .uuid] | @tsv' emotes.json | while IFS=$'\t' read -r IMAGE UUID; do
+    UUID=${UUID%$'\r'}
+    if curl -sSfL --retry 3 --retry-all-errors "$IMAGE" -o "$TMP/image.png" && [ -s "$TMP/image.png" ]; then
+        mv "$TMP/image.png" "images/$UUID.png"
+    else
+        echo "Failed to download image for $UUID, keeping existing" >&2
+    fi
 done
