@@ -1,5 +1,5 @@
 # Bedrock Emotes
-This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2170 emotes on the Marketplace.
+This repository is scheduled to update every 6 hours automatically. A raw version of the emotes can be found in the [emotes.json](./emotes.json) file. There are currently 2171 emotes on the Marketplace.
 | Image | Name | Author | UUID |
 |-------|------|--------|------|
 | <img src="./images/f8721633-b6e8-b55c-fe38-984f52d756bc.png" width="128" height="128" /> | /tp @RANDOM | Panascais | f8721633-b6e8-b55c-fe38-984f52d756bc |
@@ -1022,6 +1022,7 @@ This repository is scheduled to update every 6 hours automatically. A raw versio
 | <img src="./images/5fc47e75-5e7d-6413-9dc5-53cc2a877e94.png" width="128" height="128" /> | Infinity Portal | AriaCreations | 5fc47e75-5e7d-6413-9dc5-53cc2a877e94 |
 | <img src="./images/275e0fe1-769d-cd0d-5ffc-48cfbefeb78c.png" width="128" height="128" /> | Infinity Portal 2 | AriaCreations | 275e0fe1-769d-cd0d-5ffc-48cfbefeb78c |
 | <img src="./images/d9f501c4-d548-c734-1216-16d2523b3c42.png" width="128" height="128" /> | Infinity Portal 3 | AriaCreations | d9f501c4-d548-c734-1216-16d2523b3c42 |
+| <img src="./images/d91ecd0b-3e47-be14-c20e-dc1c98719f4b.png" width="128" height="128" /> | Infinity Spin | Cypress Games | d91ecd0b-3e47-be14-c20e-dc1c98719f4b |
 | <img src="./images/f31cea6b-4a5d-2a1e-a9ed-18ade918d1ae.png" width="128" height="128" /> | Infinity Trapdoor | AriaCreations | f31cea6b-4a5d-2a1e-a9ed-18ade918d1ae |
 | <img src="./images/86d05135-a0a4-402b-88c4-4ca248819bab.png" width="128" height="128" /> | Inflatable Tube Figure | Pixel Smile Studios | 86d05135-a0a4-402b-88c4-4ca248819bab |
 | <img src="./images/d30eb5aa-02a8-8607-3dc2-bac33cc22ae5.png" width="128" height="128" /> | Inflatable Tube Man | Loose Screw | d30eb5aa-02a8-8607-3dc2-bac33cc22ae5 |
