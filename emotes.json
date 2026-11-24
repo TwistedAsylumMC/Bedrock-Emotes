@@ -15579,6 +15579,17 @@
     ]
   },
   {
+    "uuid": "c0b97119-162a-2f97-f986-1126d9226c31",
+    "title": "Jump and Flip",
+    "author": "Monster Egg Studios",
+    "image": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/9da5a460-9b90-4b12-8dfe-082479a5ad9d/em_monsteregg_jump_and_flip_thumbnail_0.png",
+    "rarity": "uncommon",
+    "price": 310,
+    "created": "2026-11-24T19:18:27.987Z",
+    "offerId": "8e77b173-38e0-426b-b304-dcc4d1c6c323",
+    "keywords": null
+  },
+  {
     "uuid": "ae22ba33-d057-a35d-fbfb-347e96687d3d",
     "title": "Jump for Joy",
     "author": "Radium Studio",
@@ -21135,6 +21146,23 @@
       "Teens",
       "Dance",
       "Emotional"
+    ]
+  },
+  {
+    "uuid": "5f0cae13-358c-473f-a5a4-1c7ead770b53",
+    "title": "Robot Dance",
+    "author": "Block Factory",
+    "image": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/bc38ed28-648e-4c1d-823c-00af6d678d52/em_robot_dance_thumbnail_0.png",
+    "rarity": "uncommon",
+    "price": 310,
+    "created": "2026-11-24T19:18:27.844Z",
+    "offerId": "893064e6-8e08-45fa-8bca-f1ff4ff6033a",
+    "keywords": [
+      "Dance",
+      "Epic",
+      "Robot",
+      "Trendy",
+      "Cool"
     ]
   },
   {
